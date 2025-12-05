@@ -4,7 +4,7 @@ date = 2025-06-19T10:00:00+09:00
 draft = false
 categories = ["プログラミング"]
 tags = ["スクール選び", "QUREO", "LITALICO", "Tech Kids School", "習い事"]
-thumbnail = "img/no_code_app_anime.png"
+thumbnail = "img/programming_school_anime.png"
 +++
 
 小学校でのプログラミング必修化から数年。
@@ -35,3 +35,4 @@ HPの情報だけで決めるのは危険です。
 *   「先生の教え方は分かりやすいか？（答えをすぐに教えすぎていないか？）」
 
 この2点を親御さんの目でチェックするのが、長く続く教室選びの秘訣です！
+

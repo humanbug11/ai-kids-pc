@@ -4,7 +4,7 @@ date = 2025-06-20T10:00:00+09:00
 draft = false
 categories = ["おすすめ機材"]
 tags = ["パソコン選び", "小学生", "Windows", "Chromebook", "Mac"]
-thumbnail = "img/pc.png"
+thumbnail = "img/kids_pc_selection_anime.png"
 +++
 
 「プログラミングを始めさせたいけど、どんなパソコンを買えばいいの？」
@@ -34,3 +34,4 @@ thumbnail = "img/pc.png"
 「子供にパソコンはまだ早い？」
 いいえ、早ければ早いほど、子供はデジタル機器を「おもちゃ」ではなく「道具」として使いこなすようになります。
 ぜひ、お子さんと一緒に「相棒」となる1台を選んでみてくださいね。
+

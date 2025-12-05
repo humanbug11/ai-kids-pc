@@ -3,7 +3,7 @@ title = "AI教育ブログへようこそ！"
 date = 2025-06-01
 draft = false
 tags = ["お知らせ", "サイトマップ"]
-thumbnail = "img/welcome_anime.png"
+thumbnail = "img/welcome.png"
 +++
 
 はじめまして！
@@ -22,3 +22,4 @@ thumbnail = "img/welcome_anime.png"
 [【2025年版】小学生もAIを使う時代へ！「GIGAスクール構想第2期」で変わる学校教育](../education-2025-giga-phase2/)
 
 これからどうぞよろしくお願いします！
+

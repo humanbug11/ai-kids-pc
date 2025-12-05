@@ -4,7 +4,7 @@ date = 2025-06-05T10:00:00+09:00
 draft = false
 categories = ["実践活用"]
 tags = ["Google Gemini", "Gems", "個別指導", "カスタマイズ", "勉強法"]
-thumbnail = "img/teacher_ai_anime.png"
+thumbnail = "img/ai_tutor_gems_anime.png"
 +++
 
 「うちの子、算数のここが苦手なんだけど、親が教えるとケンカになる」
@@ -33,3 +33,4 @@ AI：「分数の割り算だね！むずかしいよね、挑戦してえらい
 
 このように、親が言うと角が立つことも、AIキャラクターなら素直に聞けたりするものです。
 テクノロジーの力を借りて、親子の学習ストレスを減らしていきましょう！
+

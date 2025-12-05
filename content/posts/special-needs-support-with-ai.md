@@ -4,7 +4,7 @@ date = 2025-06-24T10:00:00+09:00
 draft = false
 categories = ["教育の課題"]
 tags = ["発達障害", "ディスレクシア", "学習支援", "音声入力", "アクセシビリティ"]
-thumbnail = "img/accessibility_ai_anime.png"
+thumbnail = "img/special_needs_ai_anime.png"
 +++
 
 「文字がうまく書けない」
@@ -28,3 +28,4 @@ thumbnail = "img/accessibility_ai_anime.png"
 
 もしお子さんが勉強で苦しんでいたら、「もしかしてツールがあればできるかも？」と試してみてください。
 テクノロジーは、弱い立場にある人のためにこそあるのです。
+

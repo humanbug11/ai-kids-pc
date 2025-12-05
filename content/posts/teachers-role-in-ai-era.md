@@ -4,7 +4,7 @@ date = 2025-06-06T10:00:00+09:00
 draft = false
 categories = ["教育トレンド"]
 tags = ["先生の役割", "ファシリテーター", "メンター", "個別最適化", "学校教育"]
-thumbnail = "img/teacher_role_anime.png"
+thumbnail = "img/teacher_ai_anime.png"
 +++
 
 「知識」を教えるだけなら、AIの方が詳しいし、分かりやすいかもしれません。
@@ -28,3 +28,4 @@ thumbnail = "img/teacher_role_anime.png"
 「学校にお任せ」ではなく、**「先生、AI、保護者」のチーム**で子供を育てる意識が大切です。
 先生も新しい時代に挑戦しています。
 保護者も一緒になって、「新しい学びの形」を応援していきたいですね。
+
