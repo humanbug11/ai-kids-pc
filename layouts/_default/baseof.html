@@ -40,15 +40,15 @@
     {{- end }}
 
     <link rel="shortcut icon" href="{{ " favicon.ico" | relURL }}">
-    {{- $server := "" }}
-    {{- if gt (int (index (split hugo.Version ".") 1)) "120" }}
-    {{ $server = hugo.IsServer }}
-    {{- else }}
-    {{ $server = .Site.IsServer }}
-    {{- end -}}
-    {{- if not $server }}
-    {{ template "_internal/google_analytics.html" . }}
-    {{- end }}
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZSFSHPHVBF"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-ZSFSHPHVBF');
+    </script>
 </head>
 
 <body class="body">
