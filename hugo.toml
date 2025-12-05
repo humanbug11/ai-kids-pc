@@ -4,6 +4,7 @@ defaultContentLanguage = 'ja'
 title = '子供と学ぶ未来の技術'
 hasCJKLanguage = true
 theme = 'mainroad'
+googleAnalytics = "G-ZSFSHPHVBF"
 
 [Author]
   name = "AI Kids PC 編集部"
