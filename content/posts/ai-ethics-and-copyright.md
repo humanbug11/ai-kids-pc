@@ -1,7 +1,7 @@
 +++
 title = "2025年版：子供に教えたい「AI倫理」と「著作権」【親の必須知識】"
 date = 2025-06-11T10:00:00+09:00
-draft = false
+draft = true
 categories = ["メディアリテラシー"]
 tags = ["著作権", "フェイクニュース", "AI倫理", "ディープフェイク", "情報モラル"]
 thumbnail = "img/ai_ethics_anime.png"

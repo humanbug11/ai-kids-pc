@@ -1,5 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'ja'
+defaultContentLanguage = 'ja'
 title = '子供と学ぶ未来の技術'
 hasCJKLanguage = true
 theme = 'mainroad'
@@ -11,6 +12,8 @@ theme = 'mainroad'
 [Params]
   subtitle = "子供と一緒に未来の技術を学ぼう"
   description = "「AIネイティブ」な子供を育てるためのパパ・ママ向けWebメディア。プログラミング教育、AIツールの使い方、GIGAスクール構想など、最新の教育トレンドをわかりやすく解説します。"
+  toc = true
+  related = true
   customCSS = ["css/custom.css"]
   opengraph = true
   schema = true
@@ -31,4 +34,4 @@ theme = 'mainroad'
   home = "right"
   list = "right"
   single = "right"
-  widgets = ["search", "ads", "ranking", "recent", "categories"]
+  widgets = ["search", "ads", "ranking", "recent", "categories", "profile"]

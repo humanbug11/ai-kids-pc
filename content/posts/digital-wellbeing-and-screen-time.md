@@ -1,12 +1,12 @@
 +++
 title = "スマホ漬けの子供を救え！AI時代の「デジタル・ウェルビーイング」子育て術"
 date = 2025-06-15T10:00:00+09:00
-draft = false
+draft = true
 categories = ["デジタル・ウェルビーイング"]
 tags = ["スクリーンタイム", "スマホ依存", "ペアレンタルコントロール", "AI子育て", "ルール作り"]
 thumbnail = "img/digital_wellbeing_anime.png"
 +++
-<!-- image_generation_pending: img/digital_wellbeing_anime.png -->
+
 
 「YouTubeの見過ぎで宿題をしない」
 「ゲームをやめさせようとすると癇癪（かんしゃく）を起こす」

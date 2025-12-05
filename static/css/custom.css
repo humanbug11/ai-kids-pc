@@ -395,3 +395,28 @@ h2 a:hover {
 .widget-categories .widget__item {
     margin-bottom: 8px;
 }
+
+/* Affiliate Link Buttons */
+.affiliate-link {
+    text-align: center;
+    margin: 30px 0;
+}
+
+.affiliate-link a {
+    display: inline-block;
+    background: linear-gradient(to right, #FF9800, #FF5722);
+    color: white;
+    padding: 15px 30px;
+    font-weight: bold;
+    font-size: 1.1rem;
+    border-radius: 50px;
+    text-decoration: none;
+    box-shadow: 0 4px 15px rgba(255, 87, 34, 0.4);
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.affiliate-link a:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(255, 87, 34, 0.6);
+    color: white;
+}

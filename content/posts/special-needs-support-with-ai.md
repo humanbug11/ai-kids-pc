@@ -1,12 +1,12 @@
 +++
 title = "発達の凸凹もAIがサポート！自閉症やADHDの子供とAIの相性が良い理由"
 date = 2025-06-16T10:00:00+09:00
-draft = false
+draft = true
 categories = ["発達支援"]
 tags = ["発達障害", "ADHD", "自閉スペクトラム症", "音声入力", "個別最適化"]
 thumbnail = "img/special_needs_ai_anime.png"
 +++
-<!-- image_generation_pending: img/special_needs_ai_anime.png -->
+
 
 「文字を読むのが苦手で、教科書を見るだけで疲れてしまう」
 「じっとしているのが苦手で、授業についていけない」

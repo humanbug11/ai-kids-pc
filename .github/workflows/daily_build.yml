@@ -1,0 +1,22 @@
+name: Daily Schedule Build
+
+on:
+  schedule:
+    # 毎日 日本時間 朝9時 (UTC 0:00) に実行
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 手動実行も可能にする
+
+jobs:
+  trigger-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Cloudflare Pages Build
+        run: |
+          # CloudflareのDeploy Hook URLを叩く
+          if [ -n "${{ secrets.CLOUDFLARE_DEPLOY_HOOK }}" ]; then
+            curl -X POST "${{ secrets.CLOUDFLARE_DEPLOY_HOOK }}"
+            echo "Triggered Cloudflare Pages build."
+          else
+            echo "Error: CLOUDFLARE_DEPLOY_HOOK secret is not set."
+            echo "Please set this secret in your GitHub Repository Settings."
+          fi

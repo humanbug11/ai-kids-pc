@@ -1,12 +1,12 @@
 +++
 title = "夏休みの自由研究に！AIで「科学×アート」のSTEAM教育に挑戦"
 date = 2025-06-14T10:00:00+09:00
-draft = false
+draft = true
 categories = ["STEAM教育"]
 tags = ["自由研究", "Teachable Machine", "クリエイティビティ", "科学実験", "アート"]
 thumbnail = "img/steam_ai_anime.png"
 +++
-<!-- image_generation_pending: img/steam_ai_anime.png -->
+
 
 「STEAM（スティーム）教育」という言葉、よく聞くようになりましたね。
 Science（科学）、Technology（技術）、Engineering（工学）、Arts（芸術）、Mathematics（数学）を組み合わせて学ぶ、新しい教育メソッドです。
