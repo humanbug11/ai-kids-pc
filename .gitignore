@@ -2,7 +2,7 @@
 public/
 resources/
 .hugo_build.lock
-themes/
+# themes/ (Commented out: Deploy theme files directly)
 # Assuming themes are submodules or user wants to commit theme if not submodule. 
 # If theme is submodule, git handles it. If just files, we commit it.
 # For simplicity, we usually commit themes if modified directly.
