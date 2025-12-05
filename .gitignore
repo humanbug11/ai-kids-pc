@@ -1,0 +1,13 @@
+# Hugo default
+public/
+resources/
+.hugo_build.lock
+themes/
+# Assuming themes are submodules or user wants to commit theme if not submodule. 
+# If theme is submodule, git handles it. If just files, we commit it.
+# For simplicity, we usually commit themes if modified directly.
+# But public/ MUST be ignored for Cloudflare Pages to build it.
+
+# OS
+.DS_Store
+Thumbs.db

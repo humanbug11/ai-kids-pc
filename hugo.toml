@@ -1,0 +1,34 @@
+baseURL = 'https://example.org/'
+languageCode = 'ja'
+title = '子供と学ぶ未来の技術'
+hasCJKLanguage = true
+theme = 'mainroad'
+
+[Author]
+  name = "AI Kids PC 編集部"
+  bio = "子供と一緒に未来の技術を学ぶパパママを応援します！"
+
+[Params]
+  subtitle = "子供と一緒に未来の技術を学ぼう"
+  description = "「AIネイティブ」な子供を育てるためのパパ・ママ向けWebメディア。プログラミング教育、AIツールの使い方、GIGAスクール構想など、最新の教育トレンドをわかりやすく解説します。"
+  customCSS = ["css/custom.css"]
+  opengraph = true
+  schema = true
+  twitter_cards = true
+
+[Params.style.vars]
+  highlightColor = "#FF9800"
+
+[Params.logo]
+  image = "img/logo.png"
+  title = "AI Kids PC"
+  subtitle = "子供と学ぶ未来の技術"
+
+[Params.thumbnail]
+  visibility = ["list", "post"]
+
+[Params.sidebar]
+  home = "right"
+  list = "right"
+  single = "right"
+  widgets = ["search", "ads", "ranking", "recent", "categories"]

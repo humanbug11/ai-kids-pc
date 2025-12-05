@@ -1,0 +1,11 @@
+{{- $limit := .Site.Params.widgets.recent_num | default 5 }}
+<div class="widget-recent widget">
+    <h4 class="widget__title">{{ T "recent_title" }}</h4>
+    <div class="widget__content">
+        <ul class="widget__list">
+            {{- range first $limit (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+            <li class="widget__item"><a class="widget__link" href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+            {{- end }}
+        </ul>
+    </div>
+</div>
