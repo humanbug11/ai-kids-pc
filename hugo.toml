@@ -37,3 +37,6 @@ googleAnalytics = "G-ZSFSHPHVBF"
   list = "right"
   single = "right"
   widgets = ["search", "ads", "ranking", "recent", "categories", "profile"]
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

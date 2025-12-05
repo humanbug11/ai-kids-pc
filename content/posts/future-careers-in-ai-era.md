@@ -2,6 +2,7 @@
 title = "【10年後の未来】「なくなる仕事」「生まれる仕事」 AI時代に子供が目指すべき職業は？"
 date = 2025-06-16T10:00:00+09:00
 draft = false
+weight = 5
 categories = ["未来キャリア"]
 tags = ["キャリア教育", "仕事", "生き方", "代替可能性", "AI共存"]
 thumbnail = "img/future_jobs_anime.png"

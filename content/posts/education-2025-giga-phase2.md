@@ -2,6 +2,7 @@
 title = "【2025年版】小学生もAIを使う時代へ！「GIGAスクール構想第2期」で変わる学校教育"
 date = 2025-06-15T10:00:00+09:00
 draft = false
+weight = 1
 categories = ["教育トレンド"]
 tags = ["GIGAスクール構想", "AI教育", "文部科学省", "小学生", "2025年問題"]
 thumbnail = "img/giga_school_anime.png"

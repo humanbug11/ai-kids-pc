@@ -1,6 +1,6 @@
 {{ if .Site.Taxonomies.categories }}
 <div class="widget-ranking widget">
-    <h4 class="widget__title">人気記事ランキング</h4>
+    <h4 class="widget__title">編集長のおすすめ 5選</h4>
     <div class="widget__content">
         <ul class="widget__list">
             {{ range first 5 (where .Site.RegularPages "Params.weight" "!=" nil).ByWeight }}

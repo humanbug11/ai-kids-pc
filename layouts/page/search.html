@@ -1,0 +1,120 @@
+{{ define "main" }}
+<div class="main-content">
+    <h1 class="page-title">サイト内検索 results</h1>
+    <div class="search-container">
+        <input type="text" id="search-query" placeholder="キーワードを入力..." class="search-input">
+        <div id="search-results" class="search-results"></div>
+    </div>
+</div>
+
+<style>
+    .search-input {
+        width: 100%;
+        padding: 15px;
+        font-size: 1.2rem;
+        border: 2px solid #ddd;
+        border-radius: 8px;
+        margin-bottom: 20px;
+    }
+
+    .search-result-item {
+        background: #fff;
+        padding: 20px;
+        margin-bottom: 15px;
+        border-radius: 8px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+        transition: transform 0.2s;
+    }
+
+    .search-result-item:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    }
+
+    .search-result-title {
+        font-size: 1.4rem;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+
+    .search-result-title a {
+        text-decoration: none;
+        color: #333;
+    }
+
+    .search-result-snippet {
+        font-size: 0.95rem;
+        color: #666;
+    }
+
+    .no-results {
+        text-align: center;
+        color: #888;
+        padding: 20px;
+    }
+</style>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.6.2/fuse.min.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const urlParams = new URLSearchParams(window.location.search);
+        const query = urlParams.get('q');
+        const searchInput = document.getElementById('search-query');
+
+        if (query) {
+            searchInput.value = query;
+            performSearch(query);
+        }
+
+        searchInput.addEventListener('input', function (e) {
+            performSearch(e.target.value);
+        });
+    });
+
+    async function performSearch(query) {
+        const resultsContainer = document.getElementById('search-results');
+
+        if (!query || query.length < 2) {
+            resultsContainer.innerHTML = '';
+            return;
+        }
+
+        try {
+            const response = await fetch('/index.json');
+            const data = await response.json();
+
+            const fuse = new Fuse(data, {
+                keys: ['title', 'content', 'tags', 'categories'],
+                threshold: 0.4, // Fuzzy match threshold
+                includeScore: true
+            });
+
+            const results = fuse.search(query);
+
+            if (results.length === 0) {
+                resultsContainer.innerHTML = '<div class="no-results">見つかりませんでした。別のキーワードを試してみてください。</div>';
+                return;
+            }
+
+            let html = '';
+            results.forEach(result => {
+                const item = result.item;
+                const snippet = item.content.substring(0, 150) + '...';
+                html += `
+                <div class="search-result-item">
+                    <div class="search-result-title">
+                        <a href="${item.permalink}">${item.title}</a>
+                    </div>
+                    <div class="search-result-snippet">${snippet}</div>
+                </div>
+            `;
+            });
+
+            resultsContainer.innerHTML = html;
+
+        } catch (error) {
+            console.error('Search failed:', error);
+        }
+    }
+</script>
+{{ end }}
