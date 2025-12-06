@@ -1,14 +1,2 @@
-/* Make strong tags look like a yellow highlighter */
-strong {
-    background: linear-gradient(transparent 60%, #ffff66 60%);
-    font-weight: bold;
-    color: #333;
-}
-
-/* Ensure it looks good in dark mode if applicable, though theme seems light */
-@media (prefers-color-scheme: dark) {
-    strong {
-        background: linear-gradient(transparent 60%, #b3b300 60%);
-        color: #fff;
-    }
-}
+/* Custom CSS */
+/* Add any custom styles here */
