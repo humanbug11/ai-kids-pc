@@ -102,34 +102,36 @@ thumbnail = "img/gaming_pc_recommend_anime.png"
 これらは画面もキーボードも付いているので、箱から出せばすぐに遊べます。
 
 ### ① コスパ最強の優等生ノート
-**HP Victus 16**
-（Core i5 / RTX 4050 or 4060 / 144Hzモニター）
+**HP Victus 15**
+（Core i5 / RTX 4050 / 144Hzモニター）
 
-[ここにHP Victusのアフィリエイトリンクを貼ってください]
+<table cellpadding="0" cellspacing="0" border="0" style=" border:1px solid #ccc; width:300px;"><tbody><tr style="border-style:none;"><td style="vertical-align:top; border-style:none; padding:10px; width:44px;"><a href="https://rpx.a8.net/svt/ejp?a8mat=3TLJXS+28YZ1U+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00r4lk4.2bo11976.g00r4lk4.2bo1287a%2Fa23111363239_3TLJXS_28YZ1U_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fdirectplus%252Fvictus15-fa-c516%252F%26amp%3Bm%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fdirectplus%252Fi%252F10003532%252F%26amp%3Brafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" rel="nofollow"><img border="0" alt="" src="https://thumbnail.image.rakuten.co.jp/@0_mall/directplus/cabinet/note/victus15fa/victus15fa-c516-p1.jpg?_ex=64x64" /></a></td><td style="font-size:12px; vertical-align:middle; border-style:none; padding:10px;"><p style="padding:0; margin:0;"><a href="https://rpx.a8.net/svt/ejp?a8mat=3TLJXS+28YZ1U+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00r4lk4.2bo11976.g00r4lk4.2bo1287a%2Fa23111363239_3TLJXS_28YZ1U_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fdirectplus%252Fvictus15-fa-c516%252F%26amp%3Bm%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fdirectplus%252Fi%252F10003532%252F%26amp%3Brafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" rel="nofollow">【12/4 20:00〜12/11 1:59 スーパーSALE 特価！】【公式・メーカー直販・送料無料】ゲーミング PC ノートパソコン 新品 HP Victus by HP 15-fa 15.6インチ Windows11 インテル Core i5-13420H プロセッサー 16GB 512GB RTX 5050 Laptop 144Hz IPS 1年保証 (型番: BS7L4PA)</a></p><p style="color:#666; margin-top:5px line-height:1.5;">価格:<span style="font-size:14px; color:#C00; font-weight:bold;">145800円</span><br/><span style="font-size:10px; font-weight:normal;">(2025/12/6 13:30時点)</span><br/><span style="font-weight:bold;">感想(0件)</span></p></td></tr></tbody></table>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=3TLJXS+28YZ1U+2HOM+BWGDT" alt="">
 
-*   **価格:** 12〜14万円台。セール時はさらに安くなることも！
+*   **価格:** 14万円台前後。
 *   **特徴:** 白やブルーのモデルがあり、デザインがシンプルでおしゃれ。「いかにもゲーミング」な派手さが苦手な家庭にも馴染みます。
-*   **注意点:** キーボード配置などが少し特殊な場合がありますが、慣れれば問題なし。
+*   **注意点:** 13世代Core i5にRTX 4050（商品名は5050）クラスのGPUを搭載。フォートナイトも144Hzで快適に遊べます。
 
 ### ② 頑丈で安心！タフな相棒
 **ASUS TUF Gaming A15**
 （Ryzen 7 / RTX 4060 / 144Hzモニター）
 
-[ここにASUS TUF Gamingのアフィリエイトリンクを貼ってください]
+<table cellpadding="0" cellspacing="0" border="0" style=" border:1px solid #ccc; width:300px;"><tbody><tr style="border-style:none;"><td style="vertical-align:top; border-style:none; padding:10px; width:44px;"><a href="https://rpx.a8.net/svt/ejp?a8mat=3TLJXS+28YZ1U+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00tit64.2bo114c4.g00tit64.2bo126f6%2Fa23111363239_3TLJXS_28YZ1U_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fksdenki%252F0197105620223%252F%26amp%3Bm%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fksdenki%252Fi%252F10508182%252F%26amp%3Brafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" rel="nofollow"><img border="0" alt="" src="https://thumbnail.image.rakuten.co.jp/@0_mall/ksdenki/cabinet/images/23_5/0197105620223_5.jpg?_ex=64x64" /></a></td><td style="font-size:12px; vertical-align:middle; border-style:none; padding:10px;"><p style="padding:0; margin:0;"><a href="https://rpx.a8.net/svt/ejp?a8mat=3TLJXS+28YZ1U+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00tit64.2bo114c4.g00tit64.2bo126f6%2Fa23111363239_3TLJXS_28YZ1U_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fksdenki%252F0197105620223%252F%26amp%3Bm%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fksdenki%252Fi%252F10508182%252F%26amp%3Brafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" rel="nofollow">ASUS（エイスース） 15.6型ゲーミングノートパソコン　ASUS TUF Gaming A15 FA507NVR-R74R4060 メカグレー</a></p><p style="color:#666; margin-top:5px line-height:1.5;">価格:<span style="font-size:14px; color:#C00; font-weight:bold;">142780円</span><br/><span style="font-size:10px; font-weight:normal;">(2025/12/6 13:40時点)</span><br/><span style="font-weight:bold;">感想(1件)</span></p></td></tr></tbody></table>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=3TLJXS+28YZ1U+2HOM+BWGDT" alt="">
 
 *   **価格:** 14〜16万円台。
 *   **特徴:** 米軍規格の耐久テストをクリアした頑丈なボディ。子供が持ち運んで少々ぶつけても壊れにくい安心設計です。
 *   **ポイント:** 冷却性能もしっかりしており、長時間のプレイでも熱暴走しにくい。
 
-### ③ 薄型・高性能で持ち運びも楽々
+### ③ 超高性能！AIも動画も全部入り
 **MSI Cyborg 15 AI**
-（Core Ultra / RTX 4060 / 144Hzモニター）
+（Ryzen 9 / RTX 5060 / メモリ32GB / SSD 1TB）
 
 [ここにMSI Gaming Noteのアフィリエイトリンクを貼ってください]
 
-*   **価格:** 16万円前後。
-*   **特徴:** スケルトンデザインが近未来的でカッコいい！最新のAI向けプロセッサを搭載しており、ゲームだけでなくAI学習にも最適です。
-*   **重さ:** ゲーミングノートとしては軽めの2kg弱。
+*   **価格:** 24万円前後。
+*   **特徴:** 手に入る中では最強クラスの「Ryzen 9」と最新GPU「RTX 5060」を搭載したモンスタースペック。メモリも32GBあるので、本格的なAI生成や4K動画編集もサクサクです。
+*   **おすすめ:** 「とにかく一番いいやつが欲しい」「将来エンジニアにさせたい」という家庭への最終兵器です。
 
 ---
 
