@@ -6,6 +6,7 @@ weight = 3
 categories = ["おすすめ機材"]
 tags = ["AI PC", "NPU", "Copilot", "Surface", "最新ガジェット"]
 thumbnail = "img/ai_pc_recommend_anime.png"
+description = "2025年の新常識「AI PC（Copilot+ PC）」とは？Surface Laptop（第7世代）など、子供の学習用パソコンとしてAI搭載モデルを選ぶメリットと、Surface Laptopのおすすめポイントを解説。"
 +++
 
 2024年から2025年にかけて、パソコン市場には<strong>「AI PC（Copilot+ PC）」</strong>という新しい波が来ています。
