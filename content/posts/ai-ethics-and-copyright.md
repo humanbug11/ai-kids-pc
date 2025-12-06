@@ -45,10 +45,10 @@ AI倫理は、大人の社会でも議論が続いている難しいテーマで
 
 より詳しい公的な情報は、以下のサイトで確認できます。パパやママも、迷ったときはここを見てみましょう。
 
-*   **[文化庁] AIと著作権**  
+*   <strong>[文化庁] AIと著作権</strong>  
     文化庁が発表している、AIと著作権の関係についての公式見解やお知らせです。  
     [https://www.bunka.go.jp/seisaku/chosakuken/ai_chosakuken/](https://www.bunka.go.jp/seisaku/chosakuken/ai_chosakuken/)
-*   **[文部科学省] 初等中等教育段階における生成AIの利用に関する暫定的なガイドライン**  
+*   <strong>[文部科学省] 初等中等教育段階における生成AIの利用に関する暫定的なガイドライン</strong>  
     学校でどのようにAIを使うべきか、国が定めた方針がまとめられています。  
     [https://www.mext.go.jp/a_menu/other/mext_00003.html](https://www.mext.go.jp/a_menu/other/mext_00003.html)
 
