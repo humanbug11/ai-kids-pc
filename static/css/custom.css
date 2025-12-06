@@ -1,2 +1,76 @@
 /* Custom CSS */
 /* Add any custom styles here */
+
+/* Smart phone layout: Image Left, Text Right */
+@media (max-width: 767px) {
+    .list__item {
+        display: grid;
+        grid-template-columns: 110px 1fr;
+        grid-template-rows: auto auto;
+        column-gap: 15px;
+        align-items: start;
+        margin-bottom: 20px;
+        padding-bottom: 20px;
+        border-bottom: 1px solid #eee;
+    }
+
+    .list__thumbnail {
+        grid-column: 1 / 2;
+        grid-row: 1 / 3;
+        margin: 0 !important;
+        /* Override theme margins */
+        width: 100%;
+    }
+
+    .list__thumbnail img {
+        width: 100%;
+        height: auto;
+        border-radius: 4px;
+        /* Optional: adds a nice touch */
+        object-fit: cover;
+        aspect-ratio: 16 / 9;
+        /* Ensure consistent aspect ratio */
+    }
+
+    .list__header {
+        grid-column: 2 / 3;
+        grid-row: 1 / 2;
+        margin-bottom: 5px;
+    }
+
+    .list__title {
+        font-size: 1rem;
+        /* Adjust title size for mobile */
+        margin: 0;
+        line-height: 1.4;
+    }
+
+    .list__content {
+        grid-column: 2 / 3;
+        grid-row: 2 / 3;
+        margin: 0;
+    }
+
+    .list__excerpt {
+        font-size: 0.85rem;
+        color: #666;
+        line-height: 1.5;
+        grid-column: 2 / 3;
+        grid-row: 2 / 3;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        /* Limit to 3 lines */
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+
+    .list__footer {
+        display: none;
+        /* Hide Read More button on mobile */
+    }
+
+    .list__meta {
+        display: none;
+        /* Optional: Hide date/author to save space */
+    }
+}
