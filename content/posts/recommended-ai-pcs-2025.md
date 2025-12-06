@@ -1,8 +1,8 @@
 ﻿+++
 title = "【2025年版】AI時代の新常識！子供用パソコンは「AI PC（Copilot+ PC）」を選ぶべき？"
+weight = 3
 date = 2025-06-25T10:00:00+09:00
 draft = false
-weight = 3
 categories = ["おすすめ機材"]
 tags = ["AI PC", "NPU", "Copilot", "Surface", "最新ガジェット"]
 thumbnail = "img/ai_pc_recommend_anime.png"
