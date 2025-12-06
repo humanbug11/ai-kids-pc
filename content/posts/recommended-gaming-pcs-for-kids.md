@@ -3,6 +3,7 @@ title = "【2025年最新】小学生のフォートナイト・マイクラに�
 date = 2025-06-22T10:00:00+09:00
 draft = false
 categories = ["おすすめ機材"]
+weight = 5
 tags = ["ゲーミングPC", "ノートPC", "フォートナイト", "マインクラフト", "RTX4060", "トラブル対策"]
 thumbnail = "img/gaming_pc_recommend_anime.png"
 +++
@@ -68,8 +69,6 @@ thumbnail = "img/gaming_pc_recommend_anime.png"
 **マウスコンピューター NEXTGEAR JG-A5G60**
 （Ryzen 5 7500F / RTX 4060 / メモリ16GB / SSD 1TB）
 
-[ここにマウスコンピューター NEXTGEARのアフィリエイトリンクを貼ってください]
-
 *   **価格:** 約13〜15万円台。このスペックでは業界最安クラス。
 *   **特徴:** フロントのLEDが赤く光り「ゲーミング感」があります。通販限定モデルで余計なコストをカット。
 *   **こんな子に:** 「初めての自分専用PCが欲しい！」
@@ -78,8 +77,6 @@ thumbnail = "img/gaming_pc_recommend_anime.png"
 **ガレリア（GALLERIA） RM5C-R46T**
 （Core i5-14400F / RTX 4060 Ti / メモリ16GB / SSD 500GB~1TB）
 
-[ここにドスパラ GALLERIAのアフィリエイトリンクを貼ってください]
-
 *   **価格:** 約17〜19万円台。
 *   **特徴:** GPUがワンランク上の「Ti」付き。マイクラで重い影MODを入れたり、動画配信をしながらゲームをしてもカクつきにくい余裕のパワーです。
 *   **こんな子に:** 「YouTuberになりたい！」「友達と同じ有名ブランドがいい！」
@@ -87,8 +84,6 @@ thumbnail = "img/gaming_pc_recommend_anime.png"
 ### ③ プロを目指す！妥協なしのハイエンド
 **iiyama LEVEL INFINITY (パソコン工房)**
 （Core i7 / RTX 4070 / メモリ32GB）
-
-[ここにパソコン工房 LEVEL INFINITYのアフィリエイトリンクを貼ってください]
 
 *   **価格:** 22万円〜。
 *   **特徴:** プロゲーマーチームともコラボする本気のマシン。フォートナイトで240fps（ヌルヌルの動き）を安定して出したいならこれ。
@@ -127,7 +122,8 @@ thumbnail = "img/gaming_pc_recommend_anime.png"
 **MSI Cyborg 15 AI**
 （Ryzen 9 / RTX 5060 / メモリ32GB / SSD 1TB）
 
-[ここにMSI Gaming Noteのアフィリエイトリンクを貼ってください]
+<table cellpadding="0" cellspacing="0" border="0" style=" border:1px solid #ccc; width:300px;"><tbody><tr style="border-style:none;"><td style="vertical-align:top; border-style:none; padding:10px; width:44px;"><a href="https://rpx.a8.net/svt/ejp?a8mat=3TLJXS+28YZ1U+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00r7ld4.2bo11ef1.g00r7ld4.2bo12ffe%2Fa23111363239_3TLJXS_28YZ1U_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fbiccamera%252F4711377369824%252F%26amp%3Bm%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fbiccamera%252Fi%252F15268916%252F%26amp%3Brafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" rel="nofollow"><img border="0" alt="" src="https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/13960/00000014351545_a01.jpg?_ex=64x64" /></a></td><td style="font-size:12px; vertical-align:middle; border-style:none; padding:10px;"><p style="padding:0; margin:0;"><a href="https://rpx.a8.net/svt/ejp?a8mat=3TLJXS+28YZ1U+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00r7ld4.2bo11ef1.g00r7ld4.2bo12ffe%2Fa23111363239_3TLJXS_28YZ1U_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fbiccamera%252F4711377369824%252F%26amp%3Bm%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fbiccamera%252Fi%252F15268916%252F%26amp%3Brafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" rel="nofollow">【エントリーで最大全額ポイント還元｜12/11まで】 MSI｜エムエスアイ ゲーミングノートパソコン Cyborg A15 AI B2HW(RTX 5060) オデッセイグレイ &amp; スケルトン Cyborg-A15-AI-B2HWFKG-2753JP [15.6型 /Windows11 Home /AMD Ryzen 9 /メモリ：32GB /SSD：1TB /2025年8月モデ</a></p><p style="color:#666; margin-top:5px line-height:1.5;">価格:<span style="font-size:14px; color:#C00; font-weight:bold;">239800円</span><br/><span style="font-size:10px; font-weight:normal;">(2025/12/6 13:41時点)</span><br/><span style="font-weight:bold;">感想(0件)</span></p></td></tr></tbody></table>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=3TLJXS+28YZ1U+2HOM+BWGDT" alt="">
 
 *   **価格:** 24万円前後。
 *   **特徴:** 手に入る中では最強クラスの「Ryzen 9」と最新GPU「RTX 5060」を搭載したモンスタースペック。メモリも32GBあるので、本格的なAI生成や4K動画編集もサクサクです。
