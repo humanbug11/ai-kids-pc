@@ -70,3 +70,9 @@
         margin-bottom: 15px;
     }
 }
+
+/* Fix bold text rendering */
+strong,
+b {
+    font-weight: 700 !important;
+}
