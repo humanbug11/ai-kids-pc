@@ -1,2 +1,5 @@
 - id: toc_title
   translation: "目次"
+
+- id: footer_credits
+  translation: "Powered by <a href=\"https://gohugo.io/\" rel=\"nofollow noopener\" target=\"_blank\">Hugo</a> & <a href=\"https://github.com/Vimux/Mainroad/\" rel=\"nofollow noopener\" target=\"_blank\">Mainroad</a>. Co-created with Google Antigravity."
