@@ -3,7 +3,7 @@ title = "【2025年版】予算別・小学生向けパソコン徹底比較！3
 date = 2025-12-10T10:00:00+09:00
 draft = false
 categories = ["おすすめ機材"]
-weight = 2
+
 thumbnail = "img/pc_price_comparison_anime.png"
 description = "「安物買いの銭失い」にはなりたくない！3万円の中古、5万円の新品、10万円の高性能機。それぞれの価格帯で「何ができて、何ができないのか」を比較表で分かりやすく解説。"
 +++

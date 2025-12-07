@@ -3,6 +3,7 @@ title = "【2025年版】小学生のプログラミング教室選び オンラ
 
 date = 2025-12-06T10:00:00+09:00
 draft = false
+weight = 1
 categories = ["プログラミング"]
 tags = ["スクール選び", "QUREO", "アンズテック", "習い事", "マインクラフト"]
 thumbnail = "img/programming_school_anime.png"
