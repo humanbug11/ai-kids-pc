@@ -5,6 +5,7 @@ draft = false
 categories = ["プログラミング"]
 tags = ["ノーコード", "アプリ開発", "夏休み", "Create", "ツール紹介"]
 thumbnail = "img/no_code_app_anime.png"
+description = "小学生でも1日でアプリが作れる！ノーコードツール「Glide」と生成AIを組み合わせて、オリジナルの「AI図鑑アプリ」などを自由研究で作る方法を紹介。"
 +++
 
 「アプリを作ってみたい！」

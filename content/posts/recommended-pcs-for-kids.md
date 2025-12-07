@@ -5,6 +5,7 @@ draft = false
 categories = ["おすすめ機材"]
 tags = ["パソコン選び", "小学生", "Windows", "Chromebook", "Mac"]
 thumbnail = "img/kids_pc_selection_anime.png"
+description = "失敗しない小学生のパソコン選び。WindowsかChromebookか？推奨スペックは？持ち運びの有無によるサイズ選びなど、親がチェックすべき3つのポイントを解説。"
 +++
 
 「プログラミングを始めさせたいけど、どんなパソコンを買えばいいの？」

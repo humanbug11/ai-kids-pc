@@ -5,6 +5,7 @@ draft = false
 categories = ["教育トレンド"]
 tags = ["ガイドライン", "文部科学省", "生成AI", "夏休みの宿題", "ルール作り"]
 thumbnail = "img/ai_guideline_anime.png"
+description = "文部科学省の「生成AI利用ガイドライン」を小学生の保護者向けに解説。「夏休みの宿題に使っていいの？」などの疑問に答え、家庭でのOK/NGラインと安全なルール作りを提案。"
 +++
 
 「夏休みの宿題（読書感想文や自由研究）にChatGPTを使ってもいいの？」

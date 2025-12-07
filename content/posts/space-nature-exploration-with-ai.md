@@ -5,6 +5,7 @@ draft = false
 categories = ["サイエンス"]
 tags = ["宇宙", "自然観察", "Google Earth", "NASA", "iNaturalist"]
 thumbnail = "img/space_nature_ai_anime.png"
+description = "Google Earthでの世界遺産ツアーや、AI図鑑アプリ「Biome」を使った自然観察など、AIとデジタル技術を使って子供の好奇心を刺激する「お家サイエンス」の楽しみ方。"
 +++
 
 図鑑や教科書で見る写真も綺麗ですが、AIとデジタル技術を使えば、もっとダイナミックな「探検」ができます。

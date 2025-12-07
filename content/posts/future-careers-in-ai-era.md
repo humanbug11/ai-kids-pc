@@ -6,6 +6,7 @@ weight = 5
 categories = ["未来キャリア"]
 tags = ["キャリア教育", "仕事", "生き方", "代替可能性", "AI共存"]
 thumbnail = "img/future_jobs_anime.png"
+description = "AI時代になくなる仕事、生まれる仕事とは？「10年後の未来」を見据え、子供が目指すべきキャリアと、親が育むべき「AIに代替されない情熱」について解説。"
 +++
 
 「AIに仕事を奪われる」

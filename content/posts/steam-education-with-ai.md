@@ -5,6 +5,7 @@ draft = false
 categories = ["STEAM教育"]
 tags = ["自由研究", "Teachable Machine", "クリエイティビティ", "科学実験", "アート"]
 thumbnail = "img/steam_ai_anime.png"
+description = "夏休みの自由研究におすすめ！自分の絵が動き出す「Animated Drawings」や、AIに学習させる「Teachable Machine」など、家庭でできるAI×STEAM教育の実験テーマを紹介。"
 +++
 
 「STEAM教育（スティーム教育）」という言葉を聞いたことはありますか？

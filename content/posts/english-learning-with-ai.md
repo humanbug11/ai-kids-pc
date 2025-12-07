@@ -6,6 +6,7 @@ weight = 4
 categories = ["実践活用"]
 tags = ["英語学習", "英会話", "Duolingo", "ChatGPT", "節約"]
 thumbnail = "img/ai_english_anime.png"
+description = "月謝無料でできる最強のAI英語学習法。Duolingoでのゲーム感覚学習から、ChatGPTを使った「いつでも話せる英会話先生」の作り方まで、子供が楽しく続けられるツールを紹介。"
 +++
 
 「子供に英語を習わせたいけど、英会話教室は月謝が高いし、送り迎えも大変」

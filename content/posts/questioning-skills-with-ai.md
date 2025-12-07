@@ -5,6 +5,7 @@ draft = false
 categories = ["実践活用"]
 tags = ["質問力", "プロンプトエンジニアリング", "対話", "地頭力", "家庭教育"]
 thumbnail = "img/question_skills_anime.png"
+description = "AI時代に最も必要なスキル「質問力（プロンプト力）」を鍛える方法。家庭での「Why」「How」の問いかけや、AIへの「5W1Hゲーム」など、親子でできるトレーニング術。"
 +++
 
 「AIに聞けば何でも分かる時代」だからこそ、<strong>「何をどう聞くか（問いを立てる力）」</strong>の差が、そのまま答えの差になります。

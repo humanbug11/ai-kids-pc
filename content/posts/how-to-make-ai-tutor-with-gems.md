@@ -5,6 +5,7 @@ draft = false
 categories = ["実践活用"]
 tags = ["Google Gemini", "Gems", "個別指導", "カスタマイズ", "勉強法"]
 thumbnail = "img/ai_tutor_gems_anime.png"
+description = "Google Geminiの新機能「Gems」で、子供専用の「AI家庭教師」を作る方法。「褒め上手な先生」にカスタマイズして、子供のやる気を引き出すプロンプト例を紹介。"
 +++
 
 「うちの子、算数のここが苦手なんだけど、親が教えるとケンカになる」
