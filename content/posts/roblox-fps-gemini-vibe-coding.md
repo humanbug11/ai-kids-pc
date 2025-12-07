@@ -61,7 +61,7 @@ AIにコードを書いてもらうには、人間が「何を作りたいか」
 実は今回、ただのGeminiではなく、<strong>このプロジェクト専用のカスタムAI（Gems）</strong>を作って挑みました。
 その名も<strong>「Robloxコーチ」</strong>です。
 
-![Robloxコーチの設定画面](/img/roblox_coach_gem_settings.png)
+![Robloxコーチの設定画面](/img/roblox_coach_settings_final.png)
 
 *   <strong>名前:</strong> Robloxコーチ
 *   <strong>指示:</strong> 「Roblox Studioを使ったゲーム制作についてサポートしてください。Lua言語を使ったスクリプト作成やプロパティ設定など、ステップごとにわかりやすく操作説明してください」
