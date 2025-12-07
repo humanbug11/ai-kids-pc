@@ -1,6 +1,6 @@
 ---
 title: "免責事項"
-date: 2025-12-07T10:00:00+09:00
+date: 2025-12-07T09:00:00+09:00
 draft: false
 layout: "page"
 url: "/disclaimer/"
