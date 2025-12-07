@@ -13,6 +13,8 @@
 
     .list__thumbnail {
         width: 100%;
+        max-width: 100% !important;
+        float: none !important;
         margin: 0 0 15px 0 !important;
         /* Space below image */
     }
