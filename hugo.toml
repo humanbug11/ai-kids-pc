@@ -56,7 +56,3 @@ googleAnalytics = "G-ZSFSHPHVBF"
   url = "/disclaimer/"
   weight = 2
 
-[[menu.footer]]
-  name = "お問い合わせ"
-  url = "/contact/"
-  weight = 3
