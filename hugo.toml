@@ -45,7 +45,8 @@ googleAnalytics = "G-ZSFSHPHVBF"
 
 [markup]
   [markup.goldmark]
-    [markup.goldmark.renderer]
+  [markup.goldmark.renderer]
+    unsafe = true
 
 [[menu.footer]]
   name = "プライバシーポリシー"
