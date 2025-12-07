@@ -3,6 +3,7 @@ title: "プライバシーポリシー"
 date: 2025-12-07T10:00:00+09:00
 draft: false
 layout: "page"
+url: "/privacy-policy/"
 ---
 
 ## 1. 個人情報の利用目的
