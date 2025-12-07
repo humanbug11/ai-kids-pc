@@ -14,12 +14,12 @@ Science（科学）、Technology（技術）、Engineering（工学）、Art（�
 「難しそう」と思うかもしれませんが、<strong>AIツールを使えば、家庭でも簡単にSTEAM体験ができます！</strong>
 今年の自由研究におすすめのテーマを紹介します。
 
-## 1. 絵が動き出す？「Animated Drawings」
+## 1. 絵が動き出す？「[Animated Drawings](https://sketch.metademolab.com/)」
 自分が描いた手描きのキャラクターが、AIの力でアニメーションとして動き出す無料ツールです。
 *   <strong>やり方:</strong> 子供が描いた絵をスマホで撮影してアップロードするだけ。
 *   <strong>学びポイント:</strong> 「自分の作品が動く」感動（Art）と、「どうやって動いているんだろう？（骨の認識）」という技術への興味（Technology）が同時に育ちます。
 
-## 2. AIに学習させる「Teachable Machine」
+## 2. AIに学習させる「[Teachable Machine](https://teachablemachine.withgoogle.com/)」
 Googleが提供する、画像や音声をAIに学習させることができるツールです。
 *   <strong>実験例:</strong>
     *   「グーチョキパー」の手の形を覚えさせて、じゃんけんマシーンを作る。
