@@ -79,3 +79,26 @@ strong,
 b {
     font-weight: 700 !important;
 }
+
+/* PC Layout: Horizontal (Image Left, Text Right) */
+@media screen and (min-width: 768px) {
+    .list__item {
+        display: flex;
+        align-items: flex-start;
+        gap: 20px;
+    }
+
+    .list__thumbnail {
+        width: 300px;
+        flex-shrink: 0;
+        margin: 0 !important;
+    }
+
+    .list__body {
+        flex-grow: 1;
+    }
+
+    .list__header {
+        margin-top: 0;
+    }
+}
