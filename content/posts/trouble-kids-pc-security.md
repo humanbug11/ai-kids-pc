@@ -1,7 +1,7 @@
 +++
 title = "「子供がパソコンを使ってくれない」時の対処法＆最低限やるべきセキュリティ設定"
 date = 2025-12-11T10:00:00+09:00
-draft = true
+draft = false
 categories = ["トラブル解決"]
 tags = ["セキュリティ", "ペアレンタルコントロール", "モチベーション", "Windows設定", "フィルタリング"]
 thumbnail = "img/trouble_shooting_pc_anime.png"

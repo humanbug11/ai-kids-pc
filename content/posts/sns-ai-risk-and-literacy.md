@@ -1,7 +1,7 @@
 +++
 title = "【教室現場から】「AIでハッキング？」と不安がる保護者に、現役IT講師が伝えたい「正しく怖がる」ためのリテラシー"
 date = 2025-12-12T10:00:00+09:00
-draft = true
+draft = false
 categories = ["メディアリテラシー"]
 tags = ["SNSトラブル", "AI倫理", "著作権", "教育現場の声", "リスク管理"]
 thumbnail = "img/sns_ai_risk_anime.png"

@@ -1,7 +1,7 @@
 +++
 title = "【実機レビュー】子供用AI PCって実際どうなの？スペックと使用感のギャップを本音で解説"
 date = 2025-12-09T10:00:00+09:00
-draft = true
+draft = false
 categories = ["おすすめ機材"]
 tags = ["レビュー", "AI PC", "Copilot+ PC", "Surface", "小学生", "使用感"]
 thumbnail = "img/ai_pc_review_anime.png"
