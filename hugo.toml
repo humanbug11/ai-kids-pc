@@ -14,6 +14,7 @@ googleAnalytics = "G-ZSFSHPHVBF"
   subtitle = "子供と一緒に未来の技術を学ぼう"
   description = "「AIネイティブ」な子供を育てるためのパパ・ママ向けWebメディア。プログラミング教育、AIツールの使い方、GIGAスクール構想など、最新の教育トレンドをわかりやすく解説します。"
   favicon = "favicon.ico"
+  showSnow = true
   toc = true
   related = true
   customCSS = ["css/custom.css"]
