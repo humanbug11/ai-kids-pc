@@ -14,10 +14,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Trigger Cloudflare Pages Build
+        env:
+          DEPLOY_HOOK: ${{ secrets.CLOUDFLARE_DEPLOY_HOOK }}
         run: |
           # CloudflareのDeploy Hook URLを叩く
-          if [ -n "${{ secrets.CLOUDFLARE_DEPLOY_HOOK }}" ]; then
-            curl -X POST "${{ secrets.CLOUDFLARE_DEPLOY_HOOK }}"
+          if [ -n "$DEPLOY_HOOK" ]; then
+            curl -X POST "$DEPLOY_HOOK"
             echo "Triggered Cloudflare Pages build."
           else
             echo "Error: CLOUDFLARE_DEPLOY_HOOK secret is not set."
