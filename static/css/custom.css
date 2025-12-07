@@ -21,6 +21,7 @@
 
     .list__thumbnail img {
         width: 100%;
+        max-width: 100% !important;
         height: auto;
         border-radius: 8px;
         /* Slightly larger radius for big images */
