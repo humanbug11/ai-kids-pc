@@ -1,6 +1,6 @@
 +++
 title = "【2026年午年】Gemini × Canvaで最速！家族写真もアニメ化して「AI年賀状」を作ろう"
-date = 2025-12-10T12:00:00+09:00
+date = 2025-12-09T23:59:00+09:00
 draft = false
 categories = ["AI活用術"]
 tags = ["年賀状", "Gemini", "Canva", "画像生成", "家族"]
