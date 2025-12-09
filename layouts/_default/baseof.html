@@ -39,7 +39,7 @@
     <link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
     {{- end }}
 
-    <link rel="icon" type="image/png" href="{{ " img/favicon.png" | relURL }}">
+    <link rel="icon" type="image/png" href="{{ "img/favicon.png" | relURL }}">
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZSFSHPHVBF"></script>
     <script>
@@ -68,7 +68,7 @@
         </div>
         {{ block "footer" . }}{{ partial "footer.html" . }}{{ end }}
     </div>
-    <script async defer src="{{ " js/menu.js" | relURL }}"></script>
+    <script async defer src="{{ "js/menu.js" | relURL }}"></script>
     {{ range .Site.Params.customJS -}}
     <script src="{{ . | relURL }}"></script>
     {{- end }}
