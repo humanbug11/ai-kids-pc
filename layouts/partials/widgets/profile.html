@@ -1,18 +1,12 @@
 <div class="widget-profile widget">
-    <h4 class="widget__title">プロフィール</h4>
-    <div class="widget__content" style="text-align: center;">
-        <div class="profile-avatar">
-            <img src="{{ " img/teacher_profile_icon.png" | relURL }}" alt="AI Kids PC 編集長"
-                style="width: 100px; height: 100px; border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin-bottom: 15px;">
-        </div>
-        <h5 style="font-size: 1.1rem; font-weight: bold; margin-bottom: 5px; color: #444;">AI Kids PC 編集長</h5>
-        <p style="font-size: 0.9rem; color: #666; line-height: 1.6;">
-
-            {{ .Site.Author.bio }}
-        </p>
-        <div style="margin-top: 15px;">
-            <a href="#" style="color: #555; margin: 0 5px; font-size: 1.2rem;"><i class="fab fa-twitter"></i></a>
-            <a href="#" style="color: #555; margin: 0 5px; font-size: 1.2rem;"><i class="fab fa-instagram"></i></a>
-        </div>
+    <div class="widget-profile__header">
+        {{- if .Site.Params.Author.image }}
+        <img class="widget-profile__img" src="{{ .Site.Params.Author.image | relURL }}"
+            alt="{{ .Site.Params.Author.name }}">
+        {{- end }}
+        <h3 class="widget-profile__title">{{ .Site.Params.Author.name }}</h3>
+    </div>
+    <div class="widget-profile__content widget__content">
+        <p>{{ .Site.Params.Author.bio | markdownify }}</p>
     </div>
 </div>
