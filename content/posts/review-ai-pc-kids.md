@@ -4,7 +4,7 @@ date = 2025-12-09T10:00:00+09:00
 draft = false
 categories = ["おすすめ機材"]
 
-thumbnail = "img/ai_pc_review_anime.png"
+thumbnail = "img/ai_pc_review_v2.png"
 description = "「子供にAI PCは必要？」話題のCopilot+ PCを小学生が実際に使ってみて分かったこと。バッテリー持ちの良さは感動級、でもAI機能は…？親目線での忖度なしレビュー。"
 +++
 
