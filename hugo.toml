@@ -7,7 +7,7 @@ theme = 'mainroad'
 enableGitInfo = true
 googleAnalytics = "G-ZSFSHPHVBF"
 
-[Author]
+[Params.Author]
   name = "AI Kids PC 編集部"
   bio = "福岡出身・大分在住のプログラミング・動画編集スクール講師。元IT企業勤務で、Web制作やサイト運営なども請け負っています。趣味はAIを活用したバイブコーディングでのアプリ・ゲーム開発。「子供の創造性をAIで伸ばす」をモットーに発信中。"
 
