@@ -2,7 +2,7 @@
 title: "AI時代こそ「具体と抽象」の往復運動が最強の武器になる理由〜プログラミング教育の真の価値〜"
 date: 2025-12-08T09:00:00+09:00
 draft: false
-image: "images/programming-abstraction-thumbnail.png"
+thumbnail: "img/concrete_abstract_thinking_anime.png"
 categories: ["教育指針・AIリテラシー"]
 tags: ["AI教育", "プログラミング思考", "具体と抽象", "書籍紹介"]
 weight: 0
