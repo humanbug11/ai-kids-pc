@@ -48,13 +48,13 @@ AI時代のクリエイションは、マシンスペックがそのまま「思
 
 ---
 
-## 2. AIチームメイト：Gemini Advanced & Cursor
+## 2. AIチームメイト：Gemini Pro & Cursor
 
 ハードウェアと同じくらい重要なのが、ソフトウェア（AIツール）です。
 私は一人で開発しているようで、実は<strong>「優秀なAIアシスタント」</strong>と常にチームを組んでいます。
 
-### 頭脳担当：Gemini Advanced
-企画出しやアイデアの壁打ちは、Googleの<strong>「Gemini Advanced」</strong>にお願いしています。
+### 頭脳担当：Gemini Pro（現在 Gemini 3 Pro）
+企画出しやアイデアの壁打ちは、Googleの<strong>「Gemini Pro」</strong>にお願いしています。
 「こんなアプリ作りたいんだけど、どう思う？」と投げかけると、人間顔負けの視点でフィードバックをくれます。
 この記事の構成も、実はGeminiと相談しながら決めました（笑）
 
