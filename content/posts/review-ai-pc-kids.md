@@ -1,7 +1,7 @@
 +++
 title = "【実機レビュー】子供用AI PCって実際どうなの？スペックと使用感のギャップを本音で解説"
 date = 2025-12-09T10:00:00+09:00
-draft = false
+draft = true
 categories = ["おすすめ機材"]
 
 thumbnail = "img/ai_pc_review_v2.png"
