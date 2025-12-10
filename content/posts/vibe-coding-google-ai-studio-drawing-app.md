@@ -50,7 +50,7 @@ weight = 1
 
 🔗 [Google AI Studio](https://aistudio.google.com/)
 
-Googleアカウントがあれば誰でもすぐに使い始められます。（大人は使えます。）
+Googleアカウントがあれば大人であれば誰でもすぐに使い始められます。
 
 ### ステップ1：アイデアを入力するだけ！
 
