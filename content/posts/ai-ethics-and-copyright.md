@@ -53,4 +53,10 @@ AI倫理は、大人の社会でも議論が続いている難しいテーマで
     学校でどのようにAIを使うべきか、国が定めた方針がまとめられています。  
     [https://www.mext.go.jp/a_menu/other/mext_00003.html](https://www.mext.go.jp/a_menu/other/mext_00003.html)
 
+---
 
+## 関連記事
+
+- [【教室現場から】「AIでハッキング？」と不安がる保護者に伝えたい「正しく怖がる」リテラシー](/posts/sns-ai-risk-and-literacy/)
+- [「AIネイティブ」な子供に育てるために必要な3つのスキルとは？](/posts/ai-native-3-skills/)
+- [【2025年】GIGAスクール構想 第2期とは？小学生のAI教育と家庭でできる準備](/posts/education-2025-giga-phase2/)

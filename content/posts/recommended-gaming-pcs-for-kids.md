@@ -142,3 +142,12 @@ description = "小学生のフォートナイト・マイクラ用にゲーミ�
 
 ゲーミングPCは、お子さんの可能性を無限に広げる「現代の魔法の道具」です。
 ぜひ、お子さんにぴったりの一台を見つけてあげてくださいね。
+
+---
+
+## 関連記事
+
+- [【2025年】子供用パソコンはAI PC（Copilot+ PC）がおすすめ！選び方と人気モデル](/posts/recommended-ai-pcs-2025/)
+- [【2025年版】小学生のパソコン選び、迷ったらコレ！おすすめ3選](/posts/recommended-pcs-for-kids/)
+- [【体験談】プログラミング学習で伸び悩む子がAIで激変した理由](/posts/video-vs-ai-creative-learning/)
+- [【実録】生成AI(Gemini)と小学生とRobloxでFPSを作ってみた結果](/posts/roblox-fps-gemini-vibe-coding/)

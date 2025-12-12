@@ -30,4 +30,11 @@ description = "AI時代の先生の役割はどう変わる？知識を教える
 先生も新しい時代に挑戦しています。
 保護者も一緒になって、「新しい学びの形」を応援していきたいですね。
 
+---
 
+## 関連記事
+
+- [「AIネイティブ」な子供に育てるために必要な3つのスキルとは？](/posts/ai-native-3-skills/)
+- [【2025年】GIGAスクール構想 第2期とは？小学生のAI教育と家庭でできる準備](/posts/education-2025-giga-phase2/)
+- [【体験談】プログラミング学習で伸び悩む子がAIで激変した理由](/posts/video-vs-ai-creative-learning/)
+- [【Google Gemini】自分専用の「AI家庭教師」を作ろう！Gems活用術](/posts/how-to-make-ai-tutor-with-gems/)

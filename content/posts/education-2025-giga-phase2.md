@@ -64,3 +64,12 @@ AIやデジタルツールは、あくまで「道具」です。
 ## 参考URL (Reference)
 
 *   [文部科学省：GIGAスクール構想の実現について](https://www.mext.go.jp/a_menu/other/index_00001.htm)
+
+---
+
+## 関連記事
+
+- [「AIネイティブ」な子供に育てるために必要な3つのスキルとは？](/posts/ai-native-3-skills/)
+- [AI時代の先生の役割とは？「教える人」から「伴走する人」へ](/posts/teachers-role-in-ai-era/)
+- [【2025年版】子供に教えたい「AI倫理」と「著作権」 親の心得](/posts/ai-ethics-and-copyright/)
+- [【2025年】子供用パソコンはAI PC（Copilot+ PC）がおすすめ！](/posts/recommended-ai-pcs-2025/)

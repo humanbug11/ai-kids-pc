@@ -100,3 +100,12 @@ Manusの画面に向かって、こうプロンプト（指示）を打ちまし
 1時間後には、あなただけのオリジナルゲームが完成しているはずです。
 
 さぁ、この冬は「消費者」から「クリエイター」への第一歩を踏み出してみませんか？
+
+---
+
+## 関連記事
+
+- [【実践】バイブコーディングとは？Google AI Studioでアプリを作ってみた！](/posts/vibe-coding-google-ai-studio-drawing-app/)
+- [【実録】生成AI(Gemini)と小学生とRobloxでFPSを作ってみた結果](/posts/roblox-fps-gemini-vibe-coding/)
+- [【体験談】プログラミング学習で伸び悩む子がAIで激変した理由](/posts/video-vs-ai-creative-learning/)
+- [【Google Gemini】自分専用の「AI家庭教師」を作ろう！Gems活用術](/posts/how-to-make-ai-tutor-with-gems/)

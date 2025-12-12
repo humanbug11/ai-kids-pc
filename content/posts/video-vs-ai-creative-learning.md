@@ -68,3 +68,11 @@ AIがあれば、子供の「これ作りたい！」「こうしたい！」と
 もしお子さんが今の学習法に飽きているなら、一度「作りたいものを何でも作っていいよ、AIと一緒にね」と声をかけてみてください。
 きっと、見たことのないような真剣な表情が見られるはずです。
 
+---
+
+## 関連記事
+
+- [【2025年】小学生プログラミング教室おすすめ比較！オンライン vs 通学の選び方](/posts/recommended-programming-schools/)
+- [【実践】バイブコーディングとは？Google AI Studioでアプリを作ってみた！](/posts/vibe-coding-google-ai-studio-drawing-app/)
+- [【実録】生成AI(Gemini)と小学生とRobloxでFPSを作ってみた結果](/posts/roblox-fps-gemini-vibe-coding/)
+- [「AIネイティブ」な子供に育てるために必要な3つのスキルとは？](/posts/ai-native-3-skills/)

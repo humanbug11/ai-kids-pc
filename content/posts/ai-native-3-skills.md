@@ -44,4 +44,11 @@ AIネイティブな子供たちに必要なのは、AIに負けない知識を�
 <strong>AIにはできない「人間らしい強み」を伸ばしてあげること。</strong>
 それが、これからの親ができる最高のプレゼントではないでしょうか。
 
+---
 
+## 関連記事
+
+- [AI時代の先生の役割とは？「教える人」から「伴走する人」へ](/posts/teachers-role-in-ai-era/)
+- [【2025年】GIGAスクール構想 第2期とは？小学生のAI教育と家庭でできる準備](/posts/education-2025-giga-phase2/)
+- [【2025年版】子供に教えたい「AI倫理」と「著作権」 親の心得](/posts/ai-ethics-and-copyright/)
+- [【体験談】プログラミング学習で伸び悩む子がAIで激変した理由](/posts/video-vs-ai-creative-learning/)

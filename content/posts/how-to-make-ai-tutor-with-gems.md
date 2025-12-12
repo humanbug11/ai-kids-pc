@@ -35,4 +35,11 @@ AI：「分数の割り算だね！むずかしいよね、挑戦してえらい
 このように、親が言うと角が立つことも、AIキャラクターなら素直に聞けたりするものです。
 テクノロジーの力を借りて、親子の学習ストレスを減らしていきましょう！
 
+---
 
+## 関連記事
+
+- [【実践】バイブコーディングとは？Google AI Studioでアプリを作ってみた！](/posts/vibe-coding-google-ai-studio-drawing-app/)
+- [【実録】生成AI(Gemini)と小学生とRobloxでFPSを作ってみた結果](/posts/roblox-fps-gemini-vibe-coding/)
+- [【体験談】プログラミング学習で伸び悩む子がAIで激変した理由](/posts/video-vs-ai-creative-learning/)
+- [「AIネイティブ」な子供に育てるために必要な3つのスキルとは？](/posts/ai-native-3-skills/)
