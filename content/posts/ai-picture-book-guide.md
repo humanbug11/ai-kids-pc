@@ -72,3 +72,12 @@ Storybookを起動したら、あとはAIと会話するだけです。
 
 まずは今すぐ、Geminiを開いて「Storybook」を探してみてください。
 親子のかけがえのない創作の時間が、そこから始まります。
+
+---
+
+## 関連記事
+
+- [【2026年午年】Gemini × Canvaで最速！AI年賀状を作ろう](/posts/ai-new-year-card-2026/)
+- [【Google Gemini】自分専用の「AI家庭教師」を作ろう！Gems活用術](/posts/how-to-make-ai-tutor-with-gems/)
+- [夏休みの自由研究に！AIで「科学アート」のSTEAM教育に挑戦](/posts/steam-education-with-ai/)
+- [【実践】バイブコーディングとは？Google AI Studioでアプリを作ってみた！](/posts/vibe-coding-google-ai-studio-drawing-app/)

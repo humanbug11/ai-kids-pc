@@ -30,4 +30,11 @@ description = "「書くのが苦手」「読むのがつらい」発達に特�
 もしお子さんが勉強で苦しんでいたら、「もしかしてツールがあればできるかも？」と試してみてください。
 テクノロジーは、弱い立場にある人のためにこそあるのです。
 
+---
 
+## 関連記事
+
+- [【Google Gemini】自分専用の「AI家庭教師」を作ろう！Gems活用術](/posts/how-to-make-ai-tutor-with-gems/)
+- [AI時代の先生の役割とは？「教える人」から「伴走する人」へ](/posts/teachers-role-in-ai-era/)
+- [【体験談】プログラミング学習で伸び悩む子がAIで激変した理由](/posts/video-vs-ai-creative-learning/)
+- [「AIネイティブ」な子供に育てるために必要な3つのスキルとは？](/posts/ai-native-3-skills/)

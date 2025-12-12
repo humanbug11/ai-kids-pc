@@ -36,4 +36,10 @@ AIを使って火星の表面画像を解析したり、新しい星を見つけ
 「今度、実際にここに行ってみようか！」
 そんな親子の会話のきっかけに、AIツールを使ってみてください。
 
+---
 
+## 関連記事
+
+- [夏休みの自由研究に！AIで「科学アート」のSTEAM教育に挑戦](/posts/steam-education-with-ai/)
+- [【Gemini活用】「Storybook」で親子でAI絵本を作る一番簡単な方法](/posts/ai-picture-book-guide/)
+- [【体験談】プログラミング学習で伸び悩む子がAIで激変した理由](/posts/video-vs-ai-creative-learning/)

@@ -38,4 +38,11 @@ AIチャットを使うときは、情報を詳しく伝える練習をしまし
 そして、良い質問をする力は、<strong>「物事に興味を持つ好奇心」</strong>から生まれます。
 まずは親御さんが、子供の話に興味を持って、たくさん質問してあげてくださいね。
 
+---
 
+## 関連記事
+
+- [AI時代こそ「具体と抽象」の往復運動が最強の武器になる理由](/posts/programming-abstraction-skill/)
+- [「AIネイティブ」な子供に育てるために必要な3つのスキルとは？](/posts/ai-native-3-skills/)
+- [【Google Gemini】自分専用の「AI家庭教師」を作ろう！Gems活用術](/posts/how-to-make-ai-tutor-with-gems/)
+- [【体験談】プログラミング学習で伸び悩む子がAIで激変した理由](/posts/video-vs-ai-creative-learning/)

@@ -97,3 +97,12 @@ AIという「優秀な部下」にどう指示を出し、どう導くか。
 お子さんが目を輝かせて「これ作りたい！」と言ったとき、それを全力で受け止められる環境を、ぜひ用意してあげてくださいね。
 
 （まずは、[お子さん向けのPC選び](/posts/recommended-pcs-for-kids/)から始めてみてください！）
+
+---
+
+## 関連記事
+
+- [【2025年版】小学生のパソコン選び、迷ったらコレ！おすすめ3選](/posts/recommended-pcs-for-kids/)
+- [【2025年】子供用パソコンはAI PC（Copilot+ PC）がおすすめ！選び方と人気モデル](/posts/recommended-ai-pcs-2025/)
+- [【実録】生成AI(Gemini)と小学生とRobloxでFPSを作ってみた結果](/posts/roblox-fps-gemini-vibe-coding/)
+- [【実践】バイブコーディングとは？Google AI Studioでアプリを作ってみた！](/posts/vibe-coding-google-ai-studio-drawing-app/)

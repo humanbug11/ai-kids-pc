@@ -38,4 +38,10 @@ ChatGPTに以下のようにお願いしてみてください。
 高額な教材を買う前に、まずは手元のスマホで「AI英語学習」を試してみてください。
 「英語って楽しい！」と子供が思ってくれれば、それが一番の学習スタートになりますよ。
 
+---
 
+## 関連記事
+
+- [【Google Gemini】自分専用の「AI家庭教師」を作ろう！Gems活用術](/posts/how-to-make-ai-tutor-with-gems/)
+- [AI時代に一番必要な「質問力（プロンプト力）」を鍛える方法](/posts/questioning-skills-with-ai/)
+- [【体験談】プログラミング学習で伸び悩む子がAIで激変した理由](/posts/video-vs-ai-creative-learning/)

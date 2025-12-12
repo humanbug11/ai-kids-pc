@@ -31,4 +31,11 @@ AIは堂々と間違ったコードを書くことがあります。
 「AIがあるから勉強しなくていい」ではなく、「AIという最強のパートナーを使いこなすために勉強する」。
 そんなスタンスで、お子さんの学習を応援してあげてください。
 
+---
 
+## 関連記事
+
+- [AI時代こそ「具体と抽象」の往復運動が最強の武器になる理由](/posts/programming-abstraction-skill/)
+- [【2025年】小学生プログラミング教室おすすめ比較！オンライン vs 通学の選び方](/posts/recommended-programming-schools/)
+- [【体験談】プログラミング学習で伸び悩む子がAIで激変した理由](/posts/video-vs-ai-creative-learning/)
+- [【実践】バイブコーディングとは？Google AI Studioでアプリを作ってみた！](/posts/vibe-coding-google-ai-studio-drawing-app/)

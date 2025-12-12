@@ -156,3 +156,12 @@ Googleの利用規約に基づき、本ツールは<strong>「保護者の同意
 
 Google Labs FXは、絵が苦手な子にも、楽器が弾けない子にも、等しく「表現する喜び」を与えてくれるツールです。
 ぜひ先生方も、まずはご自身で触ってみて、そのワクワクを教室に持ち込んでみてください。子供たちの目が、今まで見たことないくらい輝くはずです。
+
+---
+
+## 関連記事
+
+- [【Gemini活用】「Storybook」で親子でAI絵本を作る一番簡単な方法](/posts/ai-picture-book-guide/)
+- [【2026年午年】Gemini × Canvaで最速！AI年賀状を作ろう](/posts/ai-new-year-card-2026/)
+- [夏休みの自由研究に！AIで「科学アート」のSTEAM教育に挑戦](/posts/steam-education-with-ai/)
+- [AI時代の先生の役割とは？「教える人」から「伴走する人」へ](/posts/teachers-role-in-ai-era/)

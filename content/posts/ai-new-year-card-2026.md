@@ -105,3 +105,11 @@ AIを使えば、絵が苦手なパパも、デザインセンスに自信がな
 
 12月上旬の今ならまだ間に合います。
 ぜひ、世界に一枚だけのAI年賀状で、新年のご挨拶をしてみませんか？
+
+---
+
+## 関連記事
+
+- [【Gemini活用】「Storybook」で親子でAI絵本を作る一番簡単な方法](/posts/ai-picture-book-guide/)
+- [【Google Gemini】自分専用の「AI家庭教師」を作ろう！Gems活用術](/posts/how-to-make-ai-tutor-with-gems/)
+- [【先生向け】Google Labs FX（ImageFX・MusicFX）全機能と授業活用ガイド](/posts/google-labs-fx-education/)

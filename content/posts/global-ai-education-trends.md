@@ -171,3 +171,12 @@ UNESCOは世界共通の指針として「教育と研究における生成AIガ
 *   <strong>[Ministry of Education, South Korea] Digital-driven Education Reform Plan</strong>
     韓国教育部のAIデジタル教科書導入に関する発表資料（関連ニュース）。
     [https://english.moe.go.kr/](https://english.moe.go.kr/)
+
+---
+
+## 関連記事
+
+- [【10年後の未来】「なくなる仕事」「生まれる仕事」AI時代に子供が目指すべき職業は？](/posts/future-careers-in-ai-era/)
+- [【2025年】GIGAスクール構想 第2期とは？小学生のAI教育と家庭でできる準備](/posts/education-2025-giga-phase2/)
+- [【パパママ必読】文部科学省「生成AI利用ガイドライン」を分かりやすく解説！](/posts/mext-ai-guideline-ver2/)
+- [「AIネイティブ」な子供に育てるために必要な3つのスキルとは？](/posts/ai-native-3-skills/)

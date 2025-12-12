@@ -31,4 +31,11 @@ Googleが提供する、画像や音声をAIに学習させることができる
 これからの時代は、理系文系と分けるのではなく、<strong>「科学の力でアート表現する」「アートの感性で技術を使う」</strong>といった融合的な視点が大切になります。
 AIという最新の「絵筆」を使って、子供の創造性を爆発させてあげましょう！
 
+---
 
+## 関連記事
+
+- [【先生向け】Google Labs FX（ImageFX・MusicFX）全機能と授業活用ガイド](/posts/google-labs-fx-education/)
+- [【Gemini活用】「Storybook」で親子でAI絵本を作る一番簡単な方法](/posts/ai-picture-book-guide/)
+- [家から一歩も出ずに宇宙旅行！？AIと行く「地理自然」探究ツアー](/posts/space-nature-exploration-with-ai/)
+- [【自由研究】小学生が「バイブコーディング」！？ManusとGoogle AI Studioでゲームを作ろう](/posts/no-code-ai-app-creation/)
