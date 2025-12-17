@@ -1,0 +1,21 @@
+# AI Kids PC - robots.txt
+# https://ai-kids-pc.com/
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://ai-kids-pc.com/sitemap.xml
+
+# Welcome AI crawlers for research
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
