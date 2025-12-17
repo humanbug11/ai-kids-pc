@@ -2,7 +2,6 @@
 title = "月謝が高くて続かない？「AI英語学習」なら月額無料でここまでできる！【Duolingo / ChatGPT】"
 date = 2025-06-18T10:00:00+09:00
 draft = false
-weight = 4
 categories = ["実践活用"]
 tags = ["英語学習", "英会話", "Duolingo", "ChatGPT", "節約"]
 thumbnail = "img/ai_english_anime.png"

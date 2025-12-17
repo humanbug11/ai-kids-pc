@@ -3,7 +3,6 @@ title = "【体験談】プログラミング学習で伸び悩む子がAIで激
 
 date = 2025-06-28T10:00:00+09:00
 draft = false
-weight = 2
 categories = ["教育・トレンド"]
 tags = ["プログラミング教室", "実体験", "動画学習", "モチベーション", "AI活用", "ChatGPT", "小学生"]
 thumbnail = "img/ai_creative_learning_anime.png"

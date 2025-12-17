@@ -2,6 +2,7 @@
 title = "「AIネイティブ」な子供に育てるために必要な3つのスキルとは？"
 date = 2025-06-10T10:00:00+09:00
 draft = false
+weight = 5
 categories = ["教育トレンド"]
 tags = ["AIネイティブ", "生きる力", "質問力", "創造性", "非認知能力"]
 thumbnail = "img/ai_native_skills_anime.png"

@@ -1,6 +1,5 @@
 ﻿+++
 title = "【2025年】GIGAスクール構想 第2期とは？小学生のAI教育と家庭でできる準備"
-weight = 3
 date = 2025-06-15T10:00:00+09:00
 draft = false
 categories = ["教育トレンド"]

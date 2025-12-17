@@ -3,7 +3,6 @@ title = "【2025年】子供用パソコンはAI PC（Copilot+ PC）がおすす
 
 date = 2025-06-25T10:00:00+09:00
 draft = false
-weight = 4
 categories = ["おすすめ機材"]
 tags = ["AI PC", "NPU", "Copilot", "Surface", "子供用パソコン", "小学生", "おすすめ"]
 thumbnail = "img/ai_pc_recommend_anime.png"

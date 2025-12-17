@@ -2,7 +2,6 @@
 title = "AIが宿題をやる時代？「宿題代行」と言わせない親の声かけ術"
 date = 2025-06-21T10:00:00+09:00
 draft = false
-weight = 5
 categories = ["教育の課題"]
 tags = ["AI宿題", "家庭学習", "親の役割", "思考力", "ChatGPT"]
 thumbnail = "img/ai_homework_anime.png"

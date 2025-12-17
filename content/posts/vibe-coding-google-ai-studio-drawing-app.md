@@ -6,7 +6,7 @@ categories = ["AI教育", "プログラミング"]
 tags = ["バイブコーディング", "Google AI Studio", "Gemini", "アプリ開発", "中学生"]
 thumbnail = "img/vibe_coding_drawing_app.png"
 description = "話題の「バイブコーディング」を中学生と実践！Google AI Studioにアイデアを入力するだけで、スマホでも動くお絵かきアプリが完成。AIとの対話でデバッグも簡単、理想以上のアプリができた体験を詳しく解説します。"
-weight = 1
+weight = 2
 +++
 
 「プログラミングって難しそう…」
