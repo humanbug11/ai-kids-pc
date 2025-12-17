@@ -97,9 +97,9 @@ AIに対して「<strong>面白いゲームを作って</strong>」とだけ言�
 </div>
 
 <div style="text-align: center; margin: 20px 0;">
-<a href="https://px.a8.net/svt/ejp?a8mat=45K80X+DLEC1E+5TB0+5ZU29" rel="nofollow">
-<img border="0" width="120" height="60" alt="" src="https://www27.a8.net/svt/bgt?aid=251206305822&wid=001&eno=01&mid=s00000027126001007000&mc=1"></a>
-<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=45K80X+DLEC1E+5TB0+5ZU29" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=45K80X+DLEC1E+5TB0+609HT" rel="nofollow">
+<img border="0" width="100" height="100" alt="" src="https://www23.a8.net/svt/bgt?aid=251206305822&wid=001&eno=01&mid=s00000027126001009000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=45K80X+DLEC1E+5TB0+609HT" alt="">
 </div>
 
 この本を読むと、「なぜ算数を勉強するのか？」「なぜ人と話が噛み合わないのか？」といった疑問が氷解します。プログラミング教室に通っているお子さんはもちろん、私たち大人にも強烈な気づきを与えてくれる一冊です。
