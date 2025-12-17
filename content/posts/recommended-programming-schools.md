@@ -44,6 +44,10 @@ description = "「オンライン」と「通学」どっちがいいの？小�
 *   毎週の送迎はシンドイ…という方。
 *   「ゲームばかりして！」と怒るのではなく、その情熱を学びに変えたい方。
 
+<div style="text-align: center; margin: 20px 0;">
+<a href="https://px.a8.net/svt/ejp?a8mat=45K811+GF7GHE+4QCS+5YRHE" rel="nofollow">小中学生専門のオンランプログラミングスクール【アンズテック】</a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=45K811+GF7GHE+4QCS+5YRHE" alt="">
+</div>
 
 ---
 
