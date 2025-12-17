@@ -1,7 +1,7 @@
 +++
 title = "【公開】プログラミング講師のデスクツアー！AI「バイブコーディング」を支える愛用ガジェットたち"
 date = 2025-12-08T10:00:00+09:00
-draft = false
+draft = true
 categories = ["コラム", "おすすめ機材"]
 tags = ["デスクツアー", "Vibe Coding", "生成AI", "作業環境", "Gemini"]
 thumbnail = "img/vibe_coding_desk_anime.png"
