@@ -10,7 +10,7 @@ description = "OpenAIの動画生成AI『Sora』がついに一般公開！IT講
 
 こんにちは、IT講師のケイです。
 
-2024年12月、ついにOpenAIの動画生成AI<strong>「Sora（ソラ）」</strong>が一般公開されました！
+昨年（2024年12月）、OpenAIの動画生成AI<strong>「Sora（ソラ）」</strong>が一般公開されました！
 
 テキストを入力するだけでプロ顔負けの動画が作れるこのAI、話題になっていますよね。
 
