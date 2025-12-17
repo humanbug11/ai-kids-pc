@@ -1,0 +1,2 @@
+# Redirect old pages.dev domain to new custom domain
+https://ai-kids-pc.pages.dev/* https://ai-kids-pc.com/:splat 301
