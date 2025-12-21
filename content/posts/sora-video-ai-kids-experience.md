@@ -1,5 +1,5 @@
 +++
-title = "【話題】動画生成AI『Sora』がついに公開！子供と一緒にYouTuber気分を味わおう"
+title = "【話題】動画生成AI『Sora』のアプリがついに公開！子供と一緒にYouTuber気分を味わおう"
 date = 2025-12-18T10:00:00+09:00
 draft = false
 categories = ["AI体験", "プログラミング教室"]
