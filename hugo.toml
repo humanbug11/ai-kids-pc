@@ -54,8 +54,3 @@ googleAnalytics = "G-ZSFSHPHVBF"
   url = "/privacy-policy/"
   weight = 1
 
-[[menu.footer]]
-  name = "免責事項"
-  url = "/disclaimer/"
-  weight = 2
-
