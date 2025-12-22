@@ -5,10 +5,10 @@ draft = false
 categories = ["AI体験", "プログラミング教室"]
 tags = ["Sora", "動画生成AI", "OpenAI", "著作権", "AIリテラシー"]
 thumbnail = "img/sora_kids_video_creation.png"
-description = "OpenAIの動画生成AI『Sora』がついに一般公開！IT講師ケイがプログラミング教室の子どもたちと動画制作に挑戦。著作権やコンテンツポリシーを学びながら、AIリテラシーを身につける方法を解説します。"
+description = "OpenAIの動画生成AI『Sora』がついに一般公開！IT講師キッタカがプログラミング教室の子どもたちと動画制作に挑戦。著作権やコンテンツポリシーを学びながら、AIリテラシーを身につける方法を解説します。"
 +++
 
-こんにちは、IT講師のケイです。
+こんにちは、IT講師のキッタカです。
 
 昨年（2024年12月）、OpenAIの動画生成AI<strong>「Sora（ソラ）」</strong>が一般公開されました！
 さらに2025年9月には後継モデル<strong>「Sora 2」</strong>が発表され、ますます話題になっています。
