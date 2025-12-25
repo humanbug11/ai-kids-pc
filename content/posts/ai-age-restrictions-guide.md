@@ -9,7 +9,7 @@ thumbnail = "img/ai_age_restriction_anime.png"
 description = "ChatGPTの年齢制限は13歳、Claudeは18歳…主要AIサービスの利用規約を徹底比較。「知らなかった」では済まされない、子供にAIを使わせる前に確認すべき5つのポイントを解説します。"
 +++
 
-こんにちは、現役IT講師のキッタカです。
+こんにちは、現役IT講師のきっちゃん先生です。
 
 ---
 

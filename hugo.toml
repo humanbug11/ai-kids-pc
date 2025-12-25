@@ -50,7 +50,12 @@ googleAnalytics = "G-ZSFSHPHVBF"
     unsafe = true
 
 [[menu.footer]]
+  name = "ホーム"
+  url = "/"
+  weight = 1
+
+[[menu.footer]]
   name = "プライバシーポリシー"
   url = "/privacy-policy/"
-  weight = 1
+  weight = 2
 
