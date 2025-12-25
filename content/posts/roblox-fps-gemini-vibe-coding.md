@@ -2,7 +2,7 @@
 title = "【実録】知識ゼロの元エンジニアが、生成AI(Gemini)と小学生と「RobloxでFPS」を作ってみた結果〜これが本当のバイブコーディング〜"
 date = 2025-12-09T10:00:00+09:00
 draft = false
-categories = ["コラム", "教育実践"]
+categories = ["コラム", "教育トレンド"]
 tags = ["Roblox", "Gemini", "Vibe Coding", "ゲーム開発", "生成AI", "教育"]
 thumbnail = "img/roblox_gemini_fps_anime.png"
 description = "「RobloxでFPSが作りたい！」生徒の無茶振りから始まったプロジェクト。Lua言語未経験の講師が、生成AI(Gemini)をフル活用して子供たちとチーム対戦ゲームを作り上げるまでの「バイブコーディング」実録ドキュメントです。"

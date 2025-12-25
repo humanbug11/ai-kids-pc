@@ -2,7 +2,7 @@
 title = "AIが宿題をやる時代？「宿題代行」と言わせない親の声かけ術"
 date = 2025-06-21T10:00:00+09:00
 draft = false
-categories = ["教育の課題"]
+categories = ["メディアリテラシー"]
 tags = ["AI宿題", "家庭学習", "親の役割", "思考力", "ChatGPT"]
 thumbnail = "img/ai_homework_anime.png"
 description = "「宿題をAIにやらせていい？」と子供に聞かれたら。安易に禁止するのではなく、AIを「壁打ち相手」として使い、思考力を伸ばすための親の声かけ術と、宿題の本質的な意味について。"

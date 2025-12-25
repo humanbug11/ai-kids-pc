@@ -2,7 +2,7 @@
 title = "【先生向け】Googleの最新AI「Labs FX」が凄すぎる！ImageFX・MusicFX・Whisk・Flowの全機能と授業活用ガイド"
 date = 2025-12-09T23:00:00+09:00
 draft = false
-categories = ["教育実践", "AIツール", "Google"]
+categories = ["教育トレンド", "AI活用術"]
 tags = ["Google Labs", "ImageFX", "MusicFX", "Whisk", "Flow", "生成AI", "教材作成"]
 thumbnail = "img/google_labs_fx_anime.png"
 description = "Googleの実験的AIツール「Labs FX」の4大機能（ImageFX, MusicFX, Whisk, Flow）を徹底解説。画像・音楽・動画生成を授業どう活かす？保護者の同意があれば子供も利用可能な最新AIで、クリエイティブな教育を始めましょう。"
