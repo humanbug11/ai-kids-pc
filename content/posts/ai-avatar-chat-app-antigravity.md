@@ -41,7 +41,8 @@ thumbnail: "/images/aituber/aituber-demo.png"
 百聞は一見にしかず。実際に動いている様子を動画でご覧ください。
 （※録画の都合上、私の声は入っていませんが、あけみ先生の応答音声は流れますので音量にご注意ください）
 
-<video controls src="/images/aituber/aituber-demo-video.mp4" width="100%"></video>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">デモ動画はこちらで公開しています！<br><br>(※ここにXの投稿リンクを埋め込みます)</p></blockquote>
+
 
 画面の中にいるのは、3Dキャラクターの「あけみ先生」。
 (※3Dモデルは[AvatarSample_A](https://hub.vroid.com/characters/2843975675147313744/models/5644550979324015604)を使用させていただきました)
