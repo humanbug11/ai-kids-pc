@@ -4,7 +4,7 @@ date: 2025-12-27T07:15:00+09:00
 draft: false
 description: "Googleの最新AIエージェント「Antigravity」を使えば、エンジニアチームはもう不要？個人の発想とAIで実現する、新しいアプリ開発の形。教育者が自らツールを作る未来について。"
 categories: ["AI", "Programming", "Antigravity", "AITuber", "Education"]
-thumbnail: "/images/aituber/aituber-demo.png"
+thumbnail: "/images/aituber/aituber-thumbnail-anime.png"
 ---
 
 こんにちは、IT教育に奮闘する現役教師です。
