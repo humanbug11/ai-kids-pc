@@ -41,10 +41,10 @@
     {{- end }}
 
     <!-- Favicon - Multiple formats for better compatibility -->
-    <link rel="shortcut icon" href="{{ .Site.Params.favicon | relURL }}">
-    <link rel="icon" type="image/x-icon" href="{{ .Site.Params.favicon | relURL }}">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ .Site.Params.favicon | relURL }}">
-    <link rel="apple-touch-icon" href="{{ .Site.Params.favicon | relURL }}">
+    <link rel="shortcut icon" href="{{.Site.Params.favicon | relURL }}">
+    <link rel="icon" type="image/x-icon" href="{{.Site.Params.favicon | relURL }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{.Site.Params.favicon | relURL }}">
+    <link rel="apple-touch-icon" href="{{.Site.Params.favicon | relURL }}">
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZSFSHPHVBF"></script>
     <script>
@@ -76,7 +76,7 @@
         </div>
         {{ block "footer" . }}{{ partial "footer.html" . }}{{ end }}
     </div>
-    <script async defer src="{{ " js/menu.js" | relURL }}"></script>
+    <script async defer src="{{ "js/menu.js" | relURL }}"></script>
     {{ range .Site.Params.customJS -}}
     <script src="{{ . | relURL }}"></script>
     {{- end }}
