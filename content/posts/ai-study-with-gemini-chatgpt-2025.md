@@ -7,7 +7,7 @@ categories: ["AI", "Education", "学習"]
 thumbnail: "/images/ai-study-2025/thumbnail.png"
 ---
 
-こんにちは、IT教育に奮闘する現役教師です。
+こんにちは、現役IT講師のきっちゃん先生です。
 
 2025年も残りわずかとなりました。今年は<strong>「高校生とAI」</strong>の関係が劇的に変化した1年でした。
 
