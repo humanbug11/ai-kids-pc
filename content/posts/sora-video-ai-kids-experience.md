@@ -8,7 +8,7 @@ thumbnail = "img/sora_kids_video_creation.png"
 description = "OpenAIの動画生成AI『Sora』がついに一般公開！IT講師きっちゃん先生がプログラミング教室の子どもたちと動画制作に挑戦。著作権やコンテンツポリシーを学びながら、AIリテラシーを身につける方法を解説します。"
 +++
 
-こんにちは、IT講師のきっちゃん先生です。
+こんにちは、現役IT講師のきっちゃん先生です。
 
 昨年（2024年12月）、OpenAIの動画生成AI<strong>「Sora（ソラ）」</strong>が一般公開されました！
 さらに2025年9月には後継モデル<strong>「Sora 2」</strong>が発表され、ますます話題になっています。

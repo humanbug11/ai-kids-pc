@@ -7,7 +7,7 @@ categories: ["AI", "Programming", "Antigravity", "AITuber", "Education"]
 thumbnail: "/images/aituber/aituber-thumbnail-anime.png"
 ---
 
-こんにちは、IT教育に奮闘する現役教師です。
+こんにちは、現役IT講師のきっちゃん先生です。
 
 今日は、少し個人的な、でも教育関係者の皆様にどうしてもお伝えしたい<strong>「未来の可能性」</strong>についての話をさせてください。
 
