@@ -15,7 +15,7 @@ googleAnalytics = "G-ZSFSHPHVBF"
 
 [Params]
   subtitle = "子供と一緒に未来の技術を学ぼう"
-  description = "「AIネイティブ」な子供を育てるためのパパ・ママ向けWebメディア。プログラミング教育、AIツールの使い方、GIGAスクール構想など、最新の教育トレンドをわかりやすく解説します。"
+  description = "文科省ガイドラインから最新AIツールまで、現役IT講師が徹底解説。「教育×AI」をテーマに、子供たちの未来を切り拓く正しいITリテラシーと活用法を伝える保護者・教育者向けメディア。"
   favicon = "favicon.ico"
   showSnow = true
   toc = true
