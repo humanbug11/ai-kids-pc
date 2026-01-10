@@ -2,7 +2,7 @@
 title = "【2025年】GIGAスクール構想 第2期とは？小学生のAI教育と家庭でできる準備"
 date = 2025-06-15T10:00:00+09:00
 draft = false
-categories = ["教育トレンド"]
+categories = ["ニュース"]
 tags = ["GIGAスクール構想", "第2期", "AI教育", "文部科学省", "小学生", "タブレット", "1人1台"]
 thumbnail = "img/giga_school_anime.png"
 description = "2025年から始まる「GIGAスクール構想 第2期」とは？AIドリルの導入や協働学習の進化など、学校教育の新しい変化と、家庭で準備すべきサポートについて解説。"

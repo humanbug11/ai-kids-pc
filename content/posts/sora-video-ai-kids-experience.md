@@ -2,7 +2,11 @@
 title = "【話題】動画生成AI『Sora』のアプリがついに公開！子供と一緒にYouTuber気分を味わおう"
 date = 2025-12-18T10:00:00+09:00
 draft = false
+<<<<<<< HEAD
 categories = ["AI活用術", "プログラミング"]
+=======
+categories = ["体験レポート"]
+>>>>>>> eb56c75 (feat: カテゴリバッジをサムネイル左上に表示)
 tags = ["Sora", "動画生成AI", "OpenAI", "著作権", "AIリテラシー"]
 thumbnail = "img/sora_kids_video_creation.png"
 description = "OpenAIの動画生成AI『Sora』がついに一般公開！IT講師きっちゃん先生がプログラミング教室の子どもたちと動画制作に挑戦。著作権やコンテンツポリシーを学びながら、AIリテラシーを身につける方法を解説します。"

@@ -2,7 +2,11 @@
 title = "【Gemini活用】「Storybook」なら一発！親子でAI絵本を作る一番簡単な方法"
 date = 2025-12-06T10:00:00+09:00
 draft = false
+<<<<<<< HEAD
 categories = ["AI活用術"]
+=======
+categories = ["体験レポート"]
+>>>>>>> eb56c75 (feat: カテゴリバッジをサムネイル左上に表示)
 tags = ["Gemini", "画像生成AI", "Gem Storybook", "自由研究", "親子で学ぶ"]
 thumbnail = "img/ai_picture_book_anime.png"
 description = "「複数のAIツールを使うのは難しそう…」という初心者パパ・ママへ。Google Geminiの公式機能「Storybook (Gem)」を使えば、たった一つのアプリで物語も絵も作れます。一番簡単な手順を解説。"

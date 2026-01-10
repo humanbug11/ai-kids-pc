@@ -1,0 +1,18 @@
+{{- $related := where .Site.RegularPages ".Params.categories" "intersect" .Params.categories | first 4 }}
+{{- $related = $related | complement (slice .) }}
+{{- $related = first 3 $related }}
+{{ with $related }}
+<div class="related-posts">
+    <h3>📖 あわせて読みたい</h3>
+    <div class="related-posts__list">
+        {{ range . }}
+        <a href="{{ .RelPermalink }}" class="related-posts__item">
+            {{ with .Params.thumbnail }}
+            <img src="/{{ . }}" alt="{{ $.Title }}" loading="lazy">
+            {{ end }}
+            <span>{{ .Title }}</span>
+        </a>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

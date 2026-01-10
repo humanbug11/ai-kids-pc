@@ -2,7 +2,7 @@
 title = "【2026年午年】Gemini × Canvaで最速！家族写真もアニメ化して「AI年賀状」を作ろう"
 date = 2025-12-09T23:59:00+09:00
 draft = false
-categories = ["AI活用術"]
+categories = ["体験レポート"]
 tags = ["年賀状", "Gemini", "Canva", "画像生成", "家族"]
 thumbnail = "img/ai_new_year_card_2026.png"
 description = "「普通の年賀状じゃつまらない」「子供の写真は載せたいけどプライバシーが心配」そんなパパママ必見！Geminiで午（うま）のイラストや家族のアニメ化画像を作り、Canvaでサクッとレイアウトする『AI年賀状』の作り方を解説します。"

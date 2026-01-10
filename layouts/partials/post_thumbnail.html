@@ -1,0 +1,36 @@
+{{- if $thumbnail := .page.Params.thumbnail }}
+	{{- $class := .class }}
+	{{- $visibility := .page.Site.Params.thumbnail.visibility | default (slice "list" "post") }}
+
+	{{- $valueType := printf "%T" $thumbnail -}}
+	{{- $isMap := in $valueType "map" -}}
+	{{- if $isMap }}
+		{{ $visibility = default (slice "list" "post") (default .page.Site.Params.thumbnail.visibility $thumbnail.visibility) }}
+		{{ $thumbnail = $thumbnail.src }}
+	{{- end }}
+
+	{{- if in $visibility $class }}
+	<figure class="{{ with $class }}{{ . }}__thumbnail {{ end }}thumbnail">
+		{{ if eq $class "list" }}<a class="thumbnail__link" href="{{ .page.RelPermalink }}">{{ end }}
+		<img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}">
+		{{ if eq $class "list" }}</a>{{ end }}
+		{{/* カテゴリバッジをサムネイル左上に表示（aタグの外） */}}
+		{{ if and (eq $class "list") .page.Params.categories }}
+			{{ $category := index .page.Params.categories 0 }}
+			{{ $badgeClass := "category-badge" }}
+			{{ if eq $category "ニュース" }}
+				{{ $badgeClass = "category-badge category-badge--news" }}
+			{{ else if eq $category "体験レポート" }}
+				{{ $badgeClass = "category-badge category-badge--report" }}
+			{{ else if eq $category "注目記事" }}
+				{{ $badgeClass = "category-badge category-badge--featured" }}
+			{{ else if eq $category "学習" }}
+				{{ $badgeClass = "category-badge category-badge--learning" }}
+			{{ else if eq $category "レビュー" }}
+				{{ $badgeClass = "category-badge category-badge--review" }}
+			{{ end }}
+			<span class="{{ $badgeClass }}">{{ $category }}</span>
+		{{ end }}
+	</figure>
+	{{- end }}
+{{- end }}

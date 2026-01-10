@@ -10,17 +10,17 @@ googleAnalytics = "G-ZSFSHPHVBF"
 [Params.Author]
   name = "AI Kids PC 編集長"
   image = "img/teacher_profile_icon.jpg"
-  bio = "福岡出身・大分在住のIT講師きっちゃん先生です！元IT企業勤務で、Web制作やサイト運営なども請け負っています。趣味はAIを活用したバイブコーディングでのアプリ・ゲーム開発。「子供の創造性をAIで伸ばす」をモットーに発信中。"
-  twitter = "https://x.com/kitchan_it"
+  bio = "福岡出身・大分在住のきっちゃん先生です！元IT企業勤務で、Web制作やサイト運営なども請け負っています。趣味はAIを活用したバイブコーディングでのアプリ・ゲーム開発。「子供の創造性をAIで伸ばす」をモットーに発信中。"
 
 [Params]
   subtitle = "子供と一緒に未来の技術を学ぼう"
-  description = "文科省ガイドラインから最新AIツールまで、現役IT講師が徹底解説。「教育×AI」をテーマに、子供たちの未来を切り拓く正しいITリテラシーと活用法を伝える保護者・教育者向けメディア。"
+  description = "「AIネイティブ」な子供を育てるためのパパ・ママ向けWebメディア。プログラミング教育、AIツールの使い方、GIGAスクール構想など、最新の教育トレンドをわかりやすく解説します。"
   favicon = "favicon.ico"
   showSnow = true
   toc = true
   related = true
   customCSS = ["css/custom.css"]
+  customJS = ["js/toc-toggle.js"]
   opengraph = true
   schema = true
   twitter_cards = true
@@ -51,12 +51,12 @@ googleAnalytics = "G-ZSFSHPHVBF"
     unsafe = true
 
 [[menu.footer]]
-  name = "ホーム"
-  url = "/"
+  name = "プライバシーポリシー"
+  url = "/privacy-policy/"
   weight = 1
 
 [[menu.footer]]
-  name = "プライバシーポリシー"
-  url = "/privacy-policy/"
+  name = "免責事項"
+  url = "/disclaimer/"
   weight = 2
 

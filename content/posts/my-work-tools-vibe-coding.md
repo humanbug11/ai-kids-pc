@@ -2,7 +2,7 @@
 title = "【公開】プログラミング講師のデスクツアー！AI「バイブコーディング」を支える愛用ガジェットたち"
 date = 2025-12-08T10:00:00+09:00
 draft = true
-categories = ["コラム", "おすすめ機材"]
+categories = ["体験レポート"]
 tags = ["デスクツアー", "Vibe Coding", "生成AI", "作業環境", "Gemini"]
 thumbnail = "img/vibe_coding_desk_anime.png"
 description = "「AIネイティブ」な開発スタイル＝バイブコーディング。現役IT講師きっちゃん先生の愛用デスク環境を公開！ハイスペックPCからAIツール（Gemini/Cursor）まで、創造性を爆発させる「仕事道具」へのこだわりを語ります。"

@@ -2,7 +2,7 @@
 title = "【実践】バイブコーディングとは？Google AI Studioで中学生がお絵かきアプリを作ってみた！"
 date = 2025-12-10T18:00:00+09:00
 draft = false
-categories = ["AI教育", "プログラミング"]
+categories = ["体験レポート"]
 tags = ["バイブコーディング", "Google AI Studio", "Gemini", "アプリ開発", "中学生"]
 thumbnail = "img/vibe_coding_drawing_app.png"
 description = "話題の「バイブコーディング」を中学生と実践！Google AI Studioにアイデアを入力するだけで、スマホでも動くお絵かきアプリが完成。AIとの対話でデバッグも簡単、理想以上のアプリができた体験を詳しく解説します。"
