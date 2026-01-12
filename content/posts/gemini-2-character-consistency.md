@@ -2,11 +2,7 @@
 title = "【無料】Gemini 2.0で同じキャラクターの連続イラストが作れるようになった！"
 date = 2025-12-21T10:00:00+09:00
 draft = false
-<<<<<<< HEAD
-categories = ["AI活用術"]
-=======
 categories = ["体験レポート"]
->>>>>>> eb56c75 (feat: カテゴリバッジをサムネイル左上に表示)
 tags = ["Gemini", "画像生成", "キャラクター一貫性", "無料", "AI絵本"]
 thumbnail = "img/gemini_character_consistency.png"
 description = "「AIで人を描くと毎回顔が変わる問題」がついに解決！Gemini 2.0の新機能で、同じキャラクターを別シーンでも一貫して描けるように。しかも無料！絵本作りや4コマ漫画に最適な使い方を解説します。"
