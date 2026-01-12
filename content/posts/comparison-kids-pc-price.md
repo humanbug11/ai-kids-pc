@@ -4,7 +4,7 @@ date = 2025-12-10T10:00:00+09:00
 draft = false
 categories = ["おすすめ・比較"]
 
-thumbnail = "img/pc_price_comparison_anime.png"
+thumbnail = "img/kids_pc_selection_anime.png"
 description = "「安物買いの銭失い」にはなりたくない！3万円の中古、5万円の新品、10万円の高性能機。それぞれの価格帯で「何ができて、何ができないのか」を比較表で分かりやすく解説。"
 +++
 
