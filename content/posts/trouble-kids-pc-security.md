@@ -2,7 +2,7 @@
 title = "「子供がパソコンを使ってくれない」時の対処法＆最低限やるべきセキュリティ設定"
 date = 2025-12-11T10:00:00+09:00
 draft = false
-categories = ["注目記事"]
+categories = ["親子で考える"]
 
 thumbnail = "img/trouble_shooting_pc_anime.png"
 description = "せっかく買ったPCがホコリを被っていませんか？子供がPCに興味を持たない理由とその解決策、そして「これだけはやっておけ」という親向けセキュリティ設定（Windows/Chrome）を解説。"

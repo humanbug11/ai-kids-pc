@@ -3,7 +3,7 @@ title = "【2025年】子供用パソコンはAI PC（Copilot+ PC）がおすす
 
 date = 2025-06-25T10:00:00+09:00
 draft = false
-categories = ["注目記事"]
+categories = ["おすすめ比較"]
 tags = ["AI PC", "NPU", "Copilot", "Surface", "子供用パソコン", "小学生", "おすすめ"]
 thumbnail = "img/ai_pc_recommend_anime.png"
 description = "2025年の新常識「AI PC（Copilot+ PC）」とは？Surface Laptop（第7世代）など、子供の学習用パソコンとしてAI搭載モデルを選ぶメリットと、Surface Laptopのおすすめポイントを解説。"

@@ -1,8 +1,8 @@
-+++
+﻿+++
 title = "【解説】生成AIの次はAIエージェント、その次にAGI!?　AIの進化をやさしく解説"
 date = 2025-12-22T10:00:00+09:00
 draft = false
-categories = ["AI教育"]
+categories = ["AI学習ガイド"]
 tags = ["生成AI", "AIエージェント", "AGI", "AI入門", "子供向け"]
 thumbnail = "img/ai-evolution-thumbnail.png"
 description = "ChatGPTやGeminiだけじゃない！AIはどんどん進化しています。生成AI、AIエージェント、そしてAGIとは？親子で一緒にAIの未来を学びましょう。"
