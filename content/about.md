@@ -30,13 +30,26 @@ url: "/about/"
 
 ## 🎓 運営教室のご案内
 
-<a href="https://www.seedingneo.com/" target="_blank">
-<img src="/img/seedingneo_banner.png" alt="SeedingNeoパソコン・プログラミング教室" style="width: 100%; max-width: 600px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+<div style="background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); padding: 25px; border-radius: 16px; margin: 20px 0;">
+
+<a href="https://www.seedingneo.com/" target="_blank" style="display: block; text-align: center;">
+<img src="/img/seedingneo_banner.png" alt="SeedingNeoパソコン・プログラミング教室" style="width: 100%; max-width: 500px; border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12); margin-bottom: 20px;">
 </a>
 
-**SeedingNeoパソコン・プログラミング教室**では、小学生から大人まで、パソコンの基礎からプログラミング、AIツールの活用まで幅広く学べます。
+<h3 style="text-align: center; margin: 0 0 15px; color: #333;">SeedingNeo パソコン・プログラミング教室</h3>
 
-👉 **[教室の詳細はこちら](https://www.seedingneo.com/)**
+<p style="text-align: center; color: #555; line-height: 1.8; margin-bottom: 20px;">
+小学生から大人まで、パソコンの基礎からプログラミング、<br>
+AIツールの活用まで幅広く学べる教室です。
+</p>
+
+<p style="text-align: center;">
+<a href="https://www.seedingneo.com/" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #FF9800, #F57C00); color: white; padding: 12px 30px; border-radius: 30px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 12px rgba(255,152,0,0.4);">
+📚 教室の詳細はこちら
+</a>
+</p>
+
+</div>
 
 ---
 
