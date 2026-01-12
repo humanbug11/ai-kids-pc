@@ -1,7 +1,7 @@
 ﻿+++
 title = "【2025年版】予算別・小学生向けパソコン徹底比較！3万・5万・10万で何が買える？"
 date = 2025-12-10T10:00:00+09:00
-draft = true
+draft = false
 categories = ["おすすめ・比較"]
 
 thumbnail = "img/pc_price_comparison_anime.png"

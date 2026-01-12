@@ -59,3 +59,23 @@ googleAnalytics = "G-ZSFSHPHVBF"
   name = "プライバシーポリシー"
   url = "/privacy-policy/"
   weight = 2
+
+[[menu.main]]
+  name = "ホーム"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "体験レポート"
+  url = "/categories/体験レポート/"
+  weight = 2
+
+[[menu.main]]
+  name = "ニュース"
+  url = "/categories/ニュース/"
+  weight = 3
+
+[[menu.main]]
+  name = "運営者情報"
+  url = "/about/"
+  weight = 4
