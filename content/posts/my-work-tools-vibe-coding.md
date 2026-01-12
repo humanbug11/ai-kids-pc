@@ -1,4 +1,4 @@
-+++
+﻿+++
 title = "【公開】プログラミング講師のデスクツアー！AI「バイブコーディング」を支える愛用ガジェットたち"
 date = 2025-12-08T10:00:00+09:00
 draft = true
@@ -25,9 +25,9 @@ description = "「AIネイティブ」な開発スタイル＝バイブコーデ
 まず、デスクの主役は何と言ってもパソコンです。
 私は<strong>「デスクトップPC」</strong>をメインに使っています。
 
-*   **CPU:** Intel Core i7 (第14世代)
-*   **メモリ:** 64GB
-*   **GPU:** NVIDIA GeForce RTX 4070 Ti
+*   <strong>CPU:</strong> Intel Core i7 (第14世代)
+*   <strong>メモリ:</strong> 64GB
+*   <strong>GPU:</strong> NVIDIA GeForce RTX 4070 Ti
 
 「えっ、そんなにハイスペックが必要なの！？」と驚かれるかもしれません。
 はい、私の仕事にはこれが必要です。
@@ -72,8 +72,8 @@ AIという「優秀な部下」にどう指示を出し、どう導くか。
 
 最後に、地味だけど一番大事なのが「直接触れる道具」です。
 
-*   **キーボード:** HHKB Professional HYBRID Type-S
-*   **マウス:** Logicool MX Master 3S
+*   <strong>キーボード:</strong> HHKB Professional HYBRID Type-S
+*   <strong>マウス:</strong> Logicool MX Master 3S
 
 キーボードは、エンジニアの神器「HHKB」です。スコスコとした打鍵感が心地よく、一日中打っていても疲れません。
 「弘法筆を選ばず」と言いますが、<strong>「弘法だからこそ筆を選ぶ」</strong>のだと私は思います。

@@ -1,4 +1,4 @@
----
+﻿---
 title: "【2025年まとめ】文科省ガイドライン＆ChatGPT/Geminiで変わる高校生の学び方"
 date: 2025-12-28T10:30:00+09:00
 draft: false
@@ -21,7 +21,7 @@ thumbnail: "/images/ai-study-2025/thumbnail.png"
 
 2024年12月26日、文部科学省は<strong>「初等中等教育段階における生成AIの利活用に関するガイドライン（Ver.2.0）」</strong>を公表しました。これは2023年7月の暫定版を大幅に改訂したものです。
 
-> 📄 **公式資料**
+> 📄 <strong>公式資料</strong>
 > - [ガイドライン本体（PDF）](https://www.mext.go.jp/content/20241226-mxt_shuukyo02-000030823_001.pdf)
 > - [概要資料（PDF）](https://www.mext.go.jp/content/20241226-mxt_shuukyo02-000030823_003.pdf)
 > - [文科省ページ](https://www.mext.go.jp/a_menu/other/mext_02412.html)
@@ -53,7 +53,7 @@ thumbnail: "/images/ai-study-2025/thumbnail.png"
 
 2025年、Googleは教育分野で大きな動きを見せました。<strong>「Gemini for Education」</strong>と、学習に特化したAIモデル<strong>「LearnLM」</strong>の登場です。
 
-> 📄 **公式資料**
+> 📄 <strong>公式資料</strong>
 > - [Google Cloud：LearnLMとは](https://cloud.google.com/solutions/learnlm?hl=ja)
 
 ### LearnLMとは？「答えを教えない」AI

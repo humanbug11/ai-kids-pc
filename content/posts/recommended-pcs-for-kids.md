@@ -22,9 +22,9 @@ description = "「安物買いの銭失い」をしたくない親御さんへ�
 
 先に結論を言います。迷ったら以下の3つから、用途に合わせて選んでください。
 
-1.  **【持ち運び最強】** Surface Go 4（または3）
-2.  **【コスパ最強】** Lenovo IdeaPad Slim 170 (15.6型)
-3.  **【学校と同じ】** Lenovo IdeaPad Duet Chromebook
+1.  <strong>【持ち運び最強】</strong> Surface Go 4（または3）
+2.  <strong>【コスパ最強】</strong> Lenovo IdeaPad Slim 170 (15.6型)
+3.  <strong>【学校と同じ】</strong> Lenovo IdeaPad Duet Chromebook
 
 それぞれの理由を、講師目線で解説します。
 
@@ -41,8 +41,8 @@ description = "「安物買いの銭失い」をしたくない親御さんへ�
 
 正直、iPadと迷う方も多いと思いますが、<strong>「将来仕事で使うスキル」</strong>を身につけさせるなら、ファイルの概念やフォルダ管理が学べるWindows（Surface）に軍配が上がります。
 
-*   **おすすめモデル:** Surface Go 4 (型番: XHU-00015 / 法人モデルですが個人でも購入可能)
-*   **注意点:** <strong>【超重要】キーボード（タイプカバー）は別売りです！</strong> 本体だけではパソコンとして使えないので、必ず対応キーボードを別途購入してください。
+*   <strong>おすすめモデル:</strong> Surface Go 4 (型番: XHU-00015 / 法人モデルですが個人でも購入可能)
+*   <strong>注意点:</strong> <strong>【超重要】キーボード（タイプカバー）は別売りです！</strong> 本体だけではパソコンとして使えないので、必ず対応キーボードを別途購入してください。
 
 <table cellpadding="0" cellspacing="0" border="0" style=" border:1px solid #ccc; width:100%;"><tbody><tr style="border-style:none;"><td style="vertical-align:top; border-style:none; padding:10px; width:44px;"><a href="https://rpx.a8.net/svt/ejp?a8mat=3TLJXS+28YZ1U+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00t2ng4.2bo11105.g00t2ng4.2bo12536%2Fa23111363239_3TLJXS_28YZ1U_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fhikaritv%252F2010123314%252F%26amp%3Bm%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fhikaritv%252Fi%252F10217974%252F%26amp%3Brafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" rel="nofollow"><img border="0" alt="" src="https://thumbnail.image.rakuten.co.jp/@0_mall/hikaritv/cabinet/plala/201/01233/2010123314_k.jpg?_ex=64x64" /></a></td><td style="font-size:12px; vertical-align:middle; border-style:none; padding:10px;"><p style="padding:0; margin:0;"><a href="https://rpx.a8.net/svt/ejp?a8mat=3TLJXS+28YZ1U+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00t2ng4.2bo11105.g00t2ng4.2bo12536%2Fa23111363239_3TLJXS_28YZ1U_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fhikaritv%252F2010123314%252F%26amp%3Bm%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fhikaritv%252Fi%252F10217974%252F%26amp%3Brafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" rel="nofollow">【スーパーSALE開催中！】 Microsoft Surface Go 4 プラチナ タブレットPC Windows 11 8GB 128GB 10.5インチ 2in1 軽量設計 XHU-00015</a></p><p style="color:#666; margin-top:5px line-height:1.5;">価格:<span style="font-size:14px; color:#C00; font-weight:bold;">109998円</span><br/><span style="font-size:10px; font-weight:normal;">(2025/12/7 19:36時点)</span><br/><span style="font-weight:bold;">感想(0件)</span></p></td></tr></tbody></table>
 <img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=3TLJXS+28YZ1U+2HOM+BWGDT" alt="">
@@ -61,7 +61,7 @@ description = "「安物買いの銭失い」をしたくない親御さんへ�
 Ryzen 5搭載モデルなら、子供が将来「動画編集やりたい！」と言い出しても余裕で対応できます。
 「安くて良いものが欲しい」という賢い親御さんにピッタリです。
 
-*   **おすすめモデル:** Lenovo IdeaPad Slim 170 (AMD Ryzen 5 / 16GBメモリ / 512GB SSD)
+*   <strong>おすすめモデル:</strong> Lenovo IdeaPad Slim 170 (AMD Ryzen 5 / 16GBメモリ / 512GB SSD)
 
 <table cellpadding="0" cellspacing="0" border="0" style=" border:1px solid #ccc; width:100%;"><tbody><tr style="border-style:none;"><td style="vertical-align:top; border-style:none; padding:10px; width:44px;"><a href="https://rpx.a8.net/svt/ejp?a8mat=3TLJXS+28YZ1U+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00uh374.2bo1129e.g00uh374.2bo12ba1%2Fa23111363239_3TLJXS_28YZ1U_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fpcshop-best%252Fideapadslim3gen8%252F%26amp%3Bm%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fpcshop-best%252Fi%252F10000056%252F%26amp%3Brafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" rel="nofollow"><img border="0" alt="" src="https://thumbnail.image.rakuten.co.jp/@0_mall/pcshop-best/cabinet/compass1747371844.jpg?_ex=64x64" /></a></td><td style="font-size:12px; vertical-align:middle; border-style:none; padding:10px;"><p style="padding:0; margin:0;"><a href="https://rpx.a8.net/svt/ejp?a8mat=3TLJXS+28YZ1U+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00uh374.2bo1129e.g00uh374.2bo12ba1%2Fa23111363239_3TLJXS_28YZ1U_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fpcshop-best%252Fideapadslim3gen8%252F%26amp%3Bm%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fpcshop-best%252Fi%252F10000056%252F%26amp%3Brafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" rel="nofollow">＼楽天ランキング5冠／ 新品 Lenovo ノートパソコン IdeaPad Slim 170 15.6型 Ryzen5 7520U（Corei7と同等スペック） メモリ16GB SSD512GB Windows11 WEBカメラ オフィス付き 法人向け ビジネス 初期設定済み MicrosoftOffice 2024 仕事 在宅 新品 オフィス</a></p><p style="color:#666; margin-top:5px line-height:1.5;">価格:<span style="font-size:14px; color:#C00; font-weight:bold;">79800円～</span><br/><span style="font-size:10px; font-weight:normal;">(2025/12/7 19:40時点)</span><br/><span style="font-weight:bold;">感想(199件)</span></p></td></tr></tbody></table>
 <img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3TLJXS+28YZ1U+2HOM+BWGDT" alt="">
@@ -79,7 +79,7 @@ Androidアプリも動くので、学習用アプリもたくさん使えます�
 ただし、<strong>本格的なプログラミング（UnityやPythonの一部）ができない</strong>という制限があります。
 「まずは小学校の間だけ使えればいい（Scratchメイン）」という割り切りができるなら、最強の選択肢です。
 
-*   **おすすめモデル:** Lenovo IdeaPad Duet 560 Chromebook (13.3インチ / Snapdragon 7c / 8GBメモリ)
+*   <strong>おすすめモデル:</strong> Lenovo IdeaPad Duet 560 Chromebook (13.3インチ / Snapdragon 7c / 8GBメモリ)
 
 <table cellpadding="0" cellspacing="0" border="0" style=" border:1px solid #ccc; width:100%;"><tbody><tr style="border-style:none;"><td style="vertical-align:top; border-style:none; padding:10px; width:44px;"><a href="https://rpx.a8.net/svt/ejp?a8mat=3TLJXS+28YZ1U+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00r7ld4.2bo11ef1.g00r7ld4.2bo12ffe%2Fa23111363239_3TLJXS_28YZ1U_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fbiccamera%252F4571591440774%252F%26amp%3Bm%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fbiccamera%252Fi%252F13705036%252F%26amp%3Brafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" rel="nofollow"><img border="0" alt="" src="https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/6786/00000009747319_a01.jpg?_ex=64x64" /></a></td><td style="font-size:12px; vertical-align:middle; border-style:none; padding:10px;"><p style="padding:0; margin:0;"><a href="https://rpx.a8.net/svt/ejp?a8mat=3TLJXS+28YZ1U+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00r7ld4.2bo11ef1.g00r7ld4.2bo12ffe%2Fa23111363239_3TLJXS_28YZ1U_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fbiccamera%252F4571591440774%252F%26amp%3Bm%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fbiccamera%252Fi%252F13705036%252F%26amp%3Brafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" rel="nofollow">【エントリーで最大全額ポイント還元｜12/11まで】 LENOVO｜レノボジャパン ノートパソコン IdeaPad Duet 560 Chromebook ストームグレー 82QS001WJP [13.3型 /Chrome OS /Snapdragon /メモリ：8GB /eMMC：256GB /2021年11月モデル]【rbpc2022】</a></p><p style="color:#666; margin-top:5px line-height:1.5;">価格:<span style="font-size:14px; color:#C00; font-weight:bold;">70400円</span><br/><span style="font-size:10px; font-weight:normal;">(2025/12/7 19:42時点)</span><br/><span style="font-weight:bold;">感想(1件)</span></p></td></tr></tbody></table>
 <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=3TLJXS+28YZ1U+2HOM+BWGDT" alt="">
