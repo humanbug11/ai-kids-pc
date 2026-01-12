@@ -28,6 +28,18 @@ url: "/about/"
 
 ---
 
+## 🎓 運営教室のご案内
+
+<a href="https://www.seedingneo.com/" target="_blank">
+<img src="/img/seedingneo_banner.png" alt="SeedingNeoパソコン・プログラミング教室" style="width: 100%; max-width: 600px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+</a>
+
+**SeedingNeoパソコン・プログラミング教室**では、小学生から大人まで、パソコンの基礎からプログラミング、AIツールの活用まで幅広く学べます。
+
+👉 **[教室の詳細はこちら](https://www.seedingneo.com/)**
+
+---
+
 ## サイトのミッション
 
 1. **AIを「怖い」から「楽しい」へ** - 子供と一緒にAIを学び、創造性を育む
