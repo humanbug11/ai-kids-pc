@@ -205,42 +205,43 @@ b {
     font-weight: 500;
 }
 
-/* モバイル目次: 折りたたみ対応 */
-@media (max-width: 767px) {
-    .toc {
-        max-height: 180px;
-        overflow: hidden;
-        position: relative;
-        transition: max-height 0.3s ease;
-    }
-    
-    .toc::after {
-        content: "▼ タップで目次を展開";
-        display: block;
-        text-align: center;
-        background: linear-gradient(transparent, #fff 60%);
-        padding: 30px 0 10px;
-        position: absolute;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        font-size: 0.85rem;
-        color: #FF9800;
-        font-weight: bold;
-        cursor: pointer;
-    }
-    
-    .toc.expanded {
-        max-height: 2000px;
-    }
-    
-    .toc.expanded::after {
-        content: "▲ 目次を閉じる";
-        background: none;
-        position: static;
-        padding: 10px 0 0;
-    }
+/* 目次: 折りたたみ対応（全デバイス） */
+.toc {
+    max-height: 60px;
+    overflow: hidden;
+    position: relative;
+    transition: max-height 0.3s ease;
+    cursor: pointer;
+}
 
+.toc::after {
+    content: "▼ タップで目次を展開";
+    display: block;
+    text-align: center;
+    background: linear-gradient(transparent, #fff 60%);
+    padding: 30px 0 10px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    font-size: 0.85rem;
+    color: #FF9800;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.toc.expanded {
+    max-height: 3000px;
+}
+
+.toc.expanded::after {
+    content: "▲ 目次を閉じる";
+    background: none;
+    position: static;
+    padding: 10px 0 0;
+}
+
+@media (max-width: 767px) {
     /* 関連記事をモバイルでは縦並び */
     .related-posts__list {
         grid-template-columns: 1fr;
