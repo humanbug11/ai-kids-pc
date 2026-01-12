@@ -22,12 +22,12 @@
 				{{ $badgeClass = "category-badge category-badge--news" }}
 			{{ else if eq $category "体験レポート" }}
 				{{ $badgeClass = "category-badge category-badge--report" }}
-			{{ else if eq $category "注目記事" }}
-				{{ $badgeClass = "category-badge category-badge--featured" }}
-			{{ else if eq $category "学習" }}
+			{{ else if eq $category "親子で考える" }}
+				{{ $badgeClass = "category-badge category-badge--family" }}
+			{{ else if eq $category "おすすめ・比較" }}
+				{{ $badgeClass = "category-badge category-badge--recommend" }}
+			{{ else if eq $category "AI学習ガイド" }}
 				{{ $badgeClass = "category-badge category-badge--learning" }}
-			{{ else if eq $category "レビュー" }}
-				{{ $badgeClass = "category-badge category-badge--review" }}
 			{{ end }}
 			<span class="{{ $badgeClass }}">{{ $category }}</span>
 		{{ end }}

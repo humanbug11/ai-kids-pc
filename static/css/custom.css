@@ -284,19 +284,19 @@ b {
     background: linear-gradient(135deg, #4CAF50, #388E3C);
 }
 
-/* 注目記事: オレンジ（サイトのハイライトカラー） */
-.category-badge--featured {
+/* 親子で考える: オレンジ */
+.category-badge--family {
     background: linear-gradient(135deg, #FF9800, #F57C00);
 }
 
-/* 学習: パープル */
-.category-badge--learning {
-    background: linear-gradient(135deg, #9C27B0, #7B1FA2);
+/* おすすめ・比較: ピンク */
+.category-badge--recommend {
+    background: linear-gradient(135deg, #E91E63, #C2185B);
 }
 
-/* レビュー: ピンク */
-.category-badge--review {
-    background: linear-gradient(135deg, #E91E63, #C2185B);
+/* AI学習ガイド: パープル */
+.category-badge--learning {
+    background: linear-gradient(135deg, #9C27B0, #7B1FA2);
 }
 
 /* モバイルではバッジを少し小さく */
