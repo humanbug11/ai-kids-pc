@@ -51,12 +51,11 @@ googleAnalytics = "G-ZSFSHPHVBF"
     unsafe = true
 
 [[menu.footer]]
-  name = "プライバシーポリシー"
-  url = "/privacy-policy/"
+  name = "ホームへ戻る"
+  url = "/"
   weight = 1
 
 [[menu.footer]]
-  name = "免責事項"
-  url = "/disclaimer/"
+  name = "プライバシーポリシー"
+  url = "/privacy-policy/"
   weight = 2
-
