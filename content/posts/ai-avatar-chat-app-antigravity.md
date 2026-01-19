@@ -1,9 +1,9 @@
----
+﻿---
 title: "【教育×AI】AIエージェントとペアプログラミング？IT講師（専門外）でも「AIアバターとお話しできるアプリ」が個人開発できた話"
 date: 2025-12-27T07:15:00+09:00
 draft: false
 description: "Googleの最新AIエージェント「Antigravity」を使えば、エンジニアチームはもう不要？個人の発想とAIで実現する、新しいアプリ開発の形。教育者が自らツールを作る未来について。"
-categories: ["AI", "Programming", "Antigravity", "AITuber", "Education"]
+categories: ["体験レポート"]
 thumbnail: "/images/aituber/aituber-thumbnail-anime.png"
 ---
 

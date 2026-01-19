@@ -2,7 +2,11 @@
 title = "【話題】NotebookLMで子供と一緒にオリジナルPodcastを作ろう！音声AIの新しい学び方"
 date = 2025-12-23T21:00:00+09:00
 draft = false
+<<<<<<< HEAD
 categories = ["AI学習ガイド"]
+=======
+categories = ["体験レポート"]
+>>>>>>> cce5d33 (Add new blog article: Engineer workflow changes with AI in 2026)
 tags = ["Google", "NotebookLM", "Podcast", "音声AI", "親子で学ぶ"]
 thumbnail = "img/notebooklm_podcast.png"
 description = "Googleの無料AIツール「NotebookLM」を使えば、調べ学習のまとめを自動でPodcast化できます。子供と一緒にオリジナル番組を作る方法を解説。"

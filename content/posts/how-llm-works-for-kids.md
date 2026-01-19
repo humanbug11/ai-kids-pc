@@ -2,7 +2,11 @@
 title = "【入門】生成AI（LLM）の仕組みを子供と学ぼう！どうやって人とチャットできるの？"
 date = 2025-12-25T17:00:00+09:00
 draft = false
+<<<<<<< HEAD
 categories = ["AI学習ガイド"]
+=======
+categories = ["注目記事"]
+>>>>>>> cce5d33 (Add new blog article: Engineer workflow changes with AI in 2026)
 tags = ["生成AI", "LLM", "ChatGPT", "Gemini", "AI入門", "子供向け"]
 thumbnail = "img/llm-mechanism-thumbnail.png"
 description = "「AIってどうやって人と話しているの？」子供に聞かれたら、この記事を一緒に読んでみてください。ChatGPTやGeminiの裏側にある『LLM』の仕組みを、小学生でも分かるようにやさしく解説します。"

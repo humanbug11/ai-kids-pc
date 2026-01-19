@@ -2,7 +2,11 @@
 title = "【2025年】小学生向けゲーミングPCおすすめ6選｜フォートナイト・マイクラ快適"
 date = 2025-06-22T10:00:00+09:00
 draft = false
+<<<<<<< HEAD
 categories = ["おすすめ・比較"]
+=======
+categories = ["注目記事"]
+>>>>>>> cce5d33 (Add new blog article: Engineer workflow changes with AI in 2026)
 weight = 4
 tags = ["ゲーミングPC", "ノートPC", "フォートナイト", "マインクラフト", "RTX4060", "小学生", "おすすめ"]
 thumbnail = "img/gaming_pc_recommend_anime.png"

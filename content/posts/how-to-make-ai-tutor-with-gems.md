@@ -2,7 +2,11 @@
 title = "【Google Gemini】自分専用の「AI家庭教師（Tutor）」を作ろう！Gems活用術"
 date = 2025-06-05T10:00:00+09:00
 draft = false
+<<<<<<< HEAD
 categories = ["体験レポート"]
+=======
+categories = ["注目記事"]
+>>>>>>> cce5d33 (Add new blog article: Engineer workflow changes with AI in 2026)
 tags = ["Google Gemini", "Gems", "個別指導", "カスタマイズ", "勉強法"]
 thumbnail = "img/ai_tutor_gems_anime.png"
 description = "Google Geminiの新機能「Gems」で、子供専用の「AI家庭教師」を作る方法。「褒め上手な先生」にカスタマイズして、子供のやる気を引き出すプロンプト例を紹介。"

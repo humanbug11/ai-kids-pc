@@ -1,5 +1,13 @@
 <article class="list__item post">
-    {{ partial "post_thumbnail.html" (dict "class" "list" "page" .) }}
+    <div class="list__thumbnail-wrapper">
+        {{ partial "post_thumbnail.html" (dict "class" "list" "page" .) }}
+        {{- with .Params.categories }}
+        {{- $cat := index . 0 }}
+        {{- if or (eq $cat "ニュース") (eq $cat "体験レポート") (eq $cat "注目記事") }}
+        <span class="list__category-tag">{{ $cat }}</span>
+        {{- end }}
+        {{- end }}
+    </div>
     <div class="list__body">
         <header class="list__header">
             <h2 class="list__title post__title">

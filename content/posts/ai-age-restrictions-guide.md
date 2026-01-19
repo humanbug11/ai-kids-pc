@@ -2,7 +2,11 @@
 title = "【保護者必読】ChatGPTは13歳から！主要AI5社の年齢制限と子供に使わせる前に知っておくべきこと"
 date = 2025-12-23T20:00:00+09:00
 draft = false
+<<<<<<< HEAD
 categories = ["親子で考える"]
+=======
+categories = ["注目記事"]
+>>>>>>> cce5d33 (Add new blog article: Engineer workflow changes with AI in 2026)
 tags = ["AI利用規約", "年齢制限", "ChatGPT", "Gemini", "保護者向け", "子供の安全"]
 weight = 5
 thumbnail = "img/ai_age_restriction_anime.png"

@@ -2,7 +2,7 @@
 title = "【自由研究】小学生が「バイブコーディング」！？ManusとGoogle AI Studioでブラウザゲームを作ろう"
 date = 2025-12-12T10:00:00+09:00
 draft = false
-categories = ["体験レポート"]
+categories = ["注目記事"]
 tags = ["バイブコーディング", "Manus", "Google AI Studio", "生成AI", "アプリ開発", "ゲーム制作"]
 thumbnail = "img/no_code_app_anime.png"
 description = "「ブラウザで動くゲームを作って」と打つだけ。話題の「バイブコーディング」なら小学生でも本格的なゲームが作れます。Manusを使ったランキング機能付きブロックパズル制作体験記。"

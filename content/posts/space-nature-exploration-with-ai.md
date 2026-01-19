@@ -2,7 +2,11 @@
 title = "家から一歩も出ずに宇宙旅行！？AIと行く「地理自然」探究ツアー"
 date = 2025-06-17T10:00:00+09:00
 draft = false
+<<<<<<< HEAD
 categories = ["体験レポート"]
+=======
+categories = ["注目記事"]
+>>>>>>> cce5d33 (Add new blog article: Engineer workflow changes with AI in 2026)
 tags = ["宇宙", "自然観察", "Google Earth", "NASA", "iNaturalist"]
 thumbnail = "img/space_nature_ai_anime.png"
 description = "Google Earthでの世界遺産ツアーや、AI図鑑アプリ「Biome」を使った自然観察など、AIとデジタル技術を使って子供の好奇心を刺激する「お家サイエンス」の楽しみ方。"

@@ -2,7 +2,11 @@
 title = "夏休みの自由研究に！AIで「科学アート」のSTEAM教育に挑戦"
 date = 2025-06-14T10:00:00+09:00
 draft = false
+<<<<<<< HEAD
 categories = ["体験レポート"]
+=======
+categories = ["注目記事"]
+>>>>>>> cce5d33 (Add new blog article: Engineer workflow changes with AI in 2026)
 tags = ["自由研究", "Teachable Machine", "クリエイティビティ", "科学実験", "アート"]
 thumbnail = "img/steam_ai_anime.png"
 description = "夏休みの自由研究におすすめ！自分の絵が動き出す「Animated Drawings」や、AIに学習させる「Teachable Machine」など、家庭でできるAI×STEAM教育の実験テーマを紹介。"

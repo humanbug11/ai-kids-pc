@@ -2,8 +2,12 @@
 title = "【10年後の未来】「なくなる仕事」「生まれる仕事」 AI時代に子供が目指すべき職業は？"
 date = 2025-06-16T10:00:00+09:00
 draft = false
+categories = ["注目記事"]
 weight = 3
+<<<<<<< HEAD
 categories = ["親子で考える"]
+=======
+>>>>>>> cce5d33 (Add new blog article: Engineer workflow changes with AI in 2026)
 tags = ["キャリア教育", "仕事", "生き方", "代替可能性", "AI共存"]
 thumbnail = "img/future_jobs_anime.png"
 description = "AI時代になくなる仕事、生まれる仕事とは？WEFや野村総研のデータを基に、10年後の未来を見据えた「子供が目指すべきキャリア」と、親が育むべき「AIに代替されない情熱」について徹底解説します。"

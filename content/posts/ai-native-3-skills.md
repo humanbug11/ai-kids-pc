@@ -2,8 +2,12 @@
 title = "「AIネイティブ」な子供に育てるために必要な3つのスキルとは？"
 date = 2025-06-10T10:00:00+09:00
 draft = false
+categories = ["注目記事"]
 weight = 5
+<<<<<<< HEAD
 categories = ["ニュース"]
+=======
+>>>>>>> cce5d33 (Add new blog article: Engineer workflow changes with AI in 2026)
 tags = ["AIネイティブ", "生きる力", "質問力", "創造性", "非認知能力"]
 thumbnail = "img/ai_native_skills_anime.png"
 description = "AIネイティブ世代の子供に必要な3つのスキル（問いを立てる力、審美眼、共創力）とは？プログラミングスキル以上に重要な「人間力」の育て方を解説。"

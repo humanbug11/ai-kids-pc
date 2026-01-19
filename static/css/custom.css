@@ -1,54 +1,371 @@
-/* Custom CSS */
-/* Add any custom styles here */
+/* ===========================================
+   GameMakers.jp風デザイン - カスタムCSS
+   ai-kids-pc サイト用
+   =========================================== */
 
-/* Smart phone layout: Image Top, Text Bottom */
+/* CSS変数定義 */
+:root {
+    --accent-teal: #1ABC9C;
+    --accent-teal-dark: #16A085;
+    --accent-yellow: #FFD54F;
+    --accent-yellow-light: #FFF8E1;
+    --accent-orange: #FF9800;
+    --card-shadow: 0 4px 15px rgba(0,0,0,0.08);
+    --card-shadow-hover: 0 8px 25px rgba(0,0,0,0.15);
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    --border-radius: 8px;
+    --text-dark: #2a2a2a;
+    --text-gray: #666;
+    --bg-light: #f8f9fa;
+}
+
+/* ===========================================
+   ヘッダー・ナビゲーション改善
+   =========================================== */
+
+/* ヘッダーにアクセントライン */
+.divider {
+    height: 6px;
+    background: linear-gradient(90deg, var(--accent-teal) 0%, var(--accent-orange) 100%);
+}
+
+/* メニューのホバー効果改善 */
+.menu__item {
+    transition: var(--transition-smooth);
+}
+
+.menu__item:hover {
+    background: var(--accent-teal);
+}
+
+.menu__item--active {
+    background: var(--accent-teal);
+}
+
+/* ロゴエリアの強化 */
+.logo__tagline {
+    color: var(--accent-teal);
+    border-top-color: var(--accent-teal);
+}
+
+/* ===========================================
+   記事カードレイアウト（リスト表示）
+   =========================================== */
+
+/* 記事カード全体 */
+.list__item {
+    background: #fff;
+    border-radius: var(--border-radius);
+    overflow: hidden;
+    transition: var(--transition-smooth);
+    margin-bottom: 25px;
+    box-shadow: var(--card-shadow);
+    border: 1px solid #eee;
+}
+
+.list__item:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--card-shadow-hover);
+    border-color: var(--accent-teal);
+}
+
+/* サムネイル画像のスケールエフェクト */
+.list__thumbnail {
+    overflow: hidden;
+    border-radius: var(--border-radius) var(--border-radius) 0 0;
+}
+
+.list__thumbnail img {
+    transition: transform 0.4s ease;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.list__item:hover .list__thumbnail img {
+    transform: scale(1.08);
+}
+
+/* 記事タイトルのスタイル */
+.list__title {
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.6;
+    color: var(--text-dark);
+    transition: color 0.2s ease;
+    margin-bottom: 8px;
+}
+
+.list__title a:hover {
+    color: var(--accent-teal);
+}
+
+/* メタ情報（日付等） */
+.list__meta {
+    font-size: 0.8rem;
+    color: var(--text-gray);
+    padding: 5px 0;
+}
+
+/* 抜粋テキスト */
+.list__excerpt {
+    font-size: 0.9rem;
+    color: #555;
+    line-height: 1.7;
+}
+
+/* ===========================================
+   カテゴリタグ・ラベル
+   =========================================== */
+
+/* メタ内のカテゴリリンク */
+.meta a[href*="/categories/"],
+.meta a[href*="/tags/"] {
+    background: var(--accent-teal);
+    color: #fff !important;
+    padding: 3px 10px;
+    border-radius: 4px;
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    transition: var(--transition-smooth);
+}
+
+.meta a[href*="/categories/"]:hover,
+.meta a[href*="/tags/"]:hover {
+    background: var(--accent-teal-dark);
+    text-decoration: none;
+}
+
+/* タグバッジ */
+.tags__item {
+    background: var(--accent-teal);
+    border-radius: 4px;
+    transition: var(--transition-smooth);
+}
+
+.tags__item:hover {
+    background: var(--accent-teal-dark);
+    transform: translateY(-2px);
+}
+
+.tags__badge {
+    background: var(--accent-orange);
+}
+
+/* カテゴリタグオーバーレイ（サムネイル上） */
+.list__thumbnail-wrapper {
+    position: relative;
+    overflow: hidden;
+}
+
+.list__category-tag {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    background: var(--accent-teal);
+    color: #fff;
+    padding: 5px 14px;
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    border-radius: 4px;
+    z-index: 10;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+/* ===========================================
+   サイドバーのモダン化
+   =========================================== */
+
+/* ウィジェット共通スタイル */
+.widget {
+    background: #fff;
+    border-radius: var(--border-radius);
+    box-shadow: var(--card-shadow);
+    margin-bottom: 20px;
+    overflow: hidden;
+    border: 1px solid #eee;
+}
+
+/* ウィジェットタイトル */
+.widget__title {
+    background: linear-gradient(135deg, var(--accent-teal) 0%, var(--accent-teal-dark) 100%);
+    color: #fff;
+    padding: 12px 15px;
+    margin: 0;
+    font-size: 0.9rem;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+}
+
+/* ウィジェット内リンク */
+.widget a {
+    transition: color 0.2s ease;
+}
+
+.widget a:hover {
+    color: var(--accent-teal);
+}
+
+/* プロフィールウィジェット */
+.authorbox {
+    border-radius: var(--border-radius);
+    background: #fff;
+}
+
+.authorbox__avatar img {
+    border-radius: 50%;
+    border: 3px solid var(--accent-teal);
+}
+
+/* 検索ウィジェット */
+.widget-search__input {
+    border-radius: var(--border-radius);
+    border: 2px solid #eee;
+    transition: border-color 0.2s ease;
+}
+
+.widget-search__input:focus {
+    border-color: var(--accent-teal);
+    outline: none;
+}
+
+.widget-search__submit {
+    background: var(--accent-teal);
+    border-radius: 0 var(--border-radius) var(--border-radius) 0;
+}
+
+/* ===========================================
+   ボタンスタイル
+   =========================================== */
+
+.btn {
+    background: var(--accent-teal);
+    border-radius: var(--border-radius);
+    transition: var(--transition-smooth);
+    font-weight: 600;
+}
+
+.btn:hover {
+    background: var(--accent-teal-dark);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(26, 188, 156, 0.3);
+}
+
+/* 続きを読むボタン */
+.list__footer-readmore {
+    background: var(--accent-teal);
+    padding: 8px 20px;
+}
+
+/* ===========================================
+   記事詳細ページ
+   =========================================== */
+
+/* 記事タイトル */
+.post__title {
+    font-size: 1.8rem;
+    line-height: 1.4;
+    color: var(--text-dark);
+}
+
+/* 記事サムネイル */
+.post__thumbnail {
+    border-radius: var(--border-radius);
+    overflow: hidden;
+    margin-bottom: 25px;
+}
+
+/* 引用ブロック */
+blockquote {
+    border-left: 5px solid var(--accent-teal);
+    background: var(--bg-light);
+    padding: 15px 20px;
+    border-radius: 0 var(--border-radius) var(--border-radius) 0;
+}
+
+/* リンク強調 */
+.content a {
+    color: var(--accent-teal);
+    font-weight: 600;
+}
+
+.content a:hover {
+    color: var(--accent-teal-dark);
+}
+
+/* 目次 */
+.toc__title {
+    background: linear-gradient(135deg, var(--accent-teal) 0%, var(--accent-teal-dark) 100%);
+}
+
+/* ===========================================
+   フッターの改善
+   =========================================== */
+
+.footer {
+    background: var(--text-dark);
+}
+
+.footer a:hover {
+    color: var(--accent-teal);
+}
+
+/* ===========================================
+   スマートフォン向けレイアウト
+   =========================================== */
+
 @media (max-width: 767px) {
     .list__item {
         display: block;
-        /* Stack elements vertically */
-        margin-bottom: 30px;
-        padding-bottom: 20px;
-        border-bottom: 1px solid #eee;
+        margin-bottom: 20px;
+        padding: 0;
+        border-radius: var(--border-radius);
     }
 
     .list__thumbnail {
         width: 100%;
         max-width: 100% !important;
         float: none !important;
-        margin: 0 0 15px 0 !important;
-        /* Space below image */
+        margin: 0 !important;
+        border-radius: var(--border-radius) var(--border-radius) 0 0;
     }
 
     .list__thumbnail img {
         width: 100%;
         max-width: 100% !important;
         height: auto;
-        border-radius: 8px;
-        /* Slightly larger radius for big images */
+        border-radius: 0;
         object-fit: cover;
         aspect-ratio: 16 / 9;
     }
 
+    .list__header,
+    .list__excerpt {
+        padding: 0 15px;
+    }
+
     .list__header {
+        padding-top: 15px;
         margin-bottom: 10px;
     }
 
     .list__title {
-        font-size: 1.2rem;
-        /* Slightly larger is okay for full width */
+        font-size: 1.1rem;
         margin: 0;
-        line-height: 1.4;
-        font-weight: bold;
+        line-height: 1.5;
     }
 
     .list__content {
         margin: 0;
+        padding-bottom: 15px;
     }
 
     .list__excerpt {
-        font-size: 0.9rem;
-        color: #666;
-        line-height: 1.6;
+        font-size: 0.85rem;
         display: -webkit-box;
         -webkit-line-clamp: 3;
         line-clamp: 3;
@@ -58,253 +375,151 @@
 
     .list__footer {
         display: none;
-        /* Hide Read More button on mobile */
     }
 
     .list__meta {
-        display: none;
-        /* Optional: Hide date/author to save space */
+        padding: 5px 15px;
+        margin-top: 5px;
     }
 
-    /* Reduce single post title size on mobile to prevent it from being too huge */
+    /* 記事タイトル */
     h1.post__title {
         font-size: 1.4rem;
-        line-height: 1.3;
+        line-height: 1.4;
+        margin-bottom: 15px;
+    }
+
+    /* サイドバー調整 */
+    .widget {
         margin-bottom: 15px;
     }
 }
 
-/* Fix bold text rendering */
-strong,
-b {
-    font-weight: 700 !important;
-}
+/* ===========================================
+   PC向けレイアウト（GameMakers風横並び）
+   =========================================== */
 
-/* PC Layout: Horizontal (Image Left, Text Right) */
 @media screen and (min-width: 768px) {
     .list__item {
         display: flex;
-        align-items: flex-start;
-        gap: 20px;
+        align-items: stretch;
+        gap: 0;
+        padding: 0;
+        min-height: 180px;
+    }
+
+    /* サムネイル - 正方形に近い比率 */
+    .list__thumbnail-wrapper {
+        width: 240px;
+        min-width: 240px;
+        max-width: 240px;
+        flex-shrink: 0;
+        position: relative;
+        overflow: hidden;
+        border-radius: var(--border-radius) 0 0 var(--border-radius);
     }
 
     .list__thumbnail {
-        width: 300px;
-        flex-shrink: 0;
+        width: 100%;
+        height: 100%;
         margin: 0 !important;
     }
 
+    .list__thumbnail img {
+        width: 100%;
+        height: 100%;
+        min-height: 180px;
+        object-fit: cover;
+        border-radius: 0;
+    }
+
+    /* カテゴリタグ - サムネイル上 */
+    .list__category-tag {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+    }
+
+    /* 本文エリア */
     .list__body {
         flex-grow: 1;
+        padding: 15px 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
     }
 
     .list__header {
         margin-top: 0;
+        margin-bottom: 8px;
+    }
+
+    .list__title {
+        font-size: 0.95rem;
+        line-height: 1.6;
+        margin-bottom: 10px;
+    }
+
+    .list__meta {
+        margin-top: auto;
+        padding-top: 10px;
+    }
+
+    .list__excerpt {
+        display: none;
+    }
+
+    .list__footer {
+        display: none;
+    }
+
+    .menu {
+        border-bottom: 6px solid var(--accent-teal);
     }
 }
 
-/* ========================================
-   UI/UX改善: 滞在時間延長のためのデザイン強化
-   ======================================== */
+/* ===========================================
+   アニメーション・エフェクト
+   =========================================== */
 
-/* 記事カード: 影と角丸でモダンな印象に */
+/* ページ読み込み時のフェードイン */
 .list__item {
-    background: #fff;
-    border-radius: 12px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
-    transition: box-shadow 0.2s ease, transform 0.2s ease;
-    padding: 15px;
-    margin-bottom: 20px;
+    animation: fadeInUp 0.5s ease-out;
 }
 
-.list__item:hover {
-    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
-    transform: translateY(-3px);
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 
-/* サムネイル画像の角丸 */
-.list__thumbnail img {
-    border-radius: 8px;
-}
-
-/* 本文の行間を広く: 読みやすさ向上 */
-.post__content p,
-.content p {
-    line-height: 1.9;
-}
-
-.post__content li,
-.content li {
-    line-height: 1.8;
-}
-
-/* サイドバーウィジェット: 統一感のある影 */
-.widget {
-    border-radius: 10px;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
-    padding: 18px;
-    background: #fff;
-    margin-bottom: 20px;
-}
-
-.widget__title {
-    border-bottom: 2px solid #FF9800;
-    padding-bottom: 8px;
-    margin-bottom: 15px;
-}
-
-/* 関連記事セクション */
-.related-posts {
-    background: #f9f9f9;
-    border-radius: 12px;
-    padding: 25px;
-    margin-top: 30px;
-}
-
-.related-posts h3 {
-    margin: 0 0 20px;
-    font-size: 1.2rem;
-    color: #333;
-}
-
-.related-posts__list {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 15px;
-}
-
-.related-posts__item {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    padding: 12px;
-    background: #fff;
-    border-radius: 8px;
-    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
-    transition: box-shadow 0.2s ease;
-    text-decoration: none;
-    color: #333;
-}
-
-.related-posts__item:hover {
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
-    color: #FF9800;
-}
-
-.related-posts__item img {
-    width: 80px;
-    height: 50px;
-    object-fit: cover;
-    border-radius: 6px;
-    flex-shrink: 0;
-}
-
-.related-posts__item span {
-    font-size: 0.9rem;
-    line-height: 1.4;
-    font-weight: 500;
-}
-
-/* 目次: 折りたたみ対応（全デバイス） */
-.toc {
-    max-height: 60px;
-    overflow: hidden;
+/* リンクのアンダーラインアニメーション */
+.content a {
     position: relative;
-    transition: max-height 0.3s ease;
-    cursor: pointer;
 }
 
-.toc::after {
-    content: "▼ タップで目次を展開";
-    display: block;
-    text-align: center;
-    background: linear-gradient(transparent, #fff 60%);
-    padding: 30px 0 10px;
+.content a::after {
+    content: '';
     position: absolute;
-    bottom: 0;
+    bottom: -2px;
     left: 0;
-    right: 0;
-    font-size: 0.85rem;
-    color: #FF9800;
-    font-weight: bold;
-    cursor: pointer;
+    width: 0;
+    height: 2px;
+    background: var(--accent-teal);
+    transition: width 0.3s ease;
 }
 
-.toc.expanded {
-    max-height: 3000px;
+.content a:hover::after {
+    width: 100%;
 }
 
-.toc.expanded::after {
-    content: "▲ 目次を閉じる";
-    background: none;
-    position: static;
-    padding: 10px 0 0;
-}
-
-@media (max-width: 767px) {
-    /* 関連記事をモバイルでは縦並び */
-    .related-posts__list {
-        grid-template-columns: 1fr;
-    }
-}
-
-/* ========================================
-   カテゴリバッジ: サムネイル左上オーバーレイ
-   ======================================== */
-
-/* サムネイルコンテナにposition:relativeを設定 */
-.list__thumbnail,
-.thumbnail {
-    position: relative;
-}
-
-/* カテゴリバッジ共通スタイル */
-.category-badge {
-    position: absolute;
-    top: 10px;
-    left: 10px;
-    padding: 4px 12px;
-    font-size: 0.75rem;
-    font-weight: 700;
-    color: #fff;
-    background: rgba(100, 100, 100, 0.9);
-    border-radius: 4px;
-    z-index: 10;
-    letter-spacing: 0.5px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-}
-
-/* ニュース: 青 */
-.category-badge--news {
-    background: linear-gradient(135deg, #2196F3, #1976D2);
-}
-
-/* 体験レポート: 緑 */
-.category-badge--report {
-    background: linear-gradient(135deg, #4CAF50, #388E3C);
-}
-
-/* 親子で考える: オレンジ */
-.category-badge--family {
-    background: linear-gradient(135deg, #FF9800, #F57C00);
-}
-
-/* おすすめ・比較: ピンク */
-.category-badge--recommend {
-    background: linear-gradient(135deg, #E91E63, #C2185B);
-}
-
-/* AI学習ガイド: パープル */
-.category-badge--learning {
-    background: linear-gradient(135deg, #9C27B0, #7B1FA2);
-}
-
-/* モバイルではバッジを少し小さく */
-@media (max-width: 767px) {
-    .category-badge {
-        top: 8px;
-        left: 8px;
-        padding: 3px 10px;
-        font-size: 0.7rem;
-    }
+/* Bold テキストの修正 */
+strong,
+b {
+    font-weight: 700 !important;
 }

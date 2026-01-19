@@ -3,7 +3,11 @@ title = "【体験談】プログラミング学習で伸び悩む子がAIで激
 
 date = 2025-06-28T10:00:00+09:00
 draft = false
+<<<<<<< HEAD
 categories = ["体験レポート"]
+=======
+categories = ["注目記事"]
+>>>>>>> cce5d33 (Add new blog article: Engineer workflow changes with AI in 2026)
 tags = ["プログラミング教室", "実体験", "動画学習", "モチベーション", "AI活用", "ChatGPT", "小学生"]
 thumbnail = "img/ai_creative_learning_anime.png"
 description = "【現役講師が解説】動画教材で伸び悩む子供が、ChatGPTやClaudeを使って自分のゲームを作り始めたら劇的に成長。プログラミング教室での実体験から、AI時代の効果的な学習法を紹介。"
