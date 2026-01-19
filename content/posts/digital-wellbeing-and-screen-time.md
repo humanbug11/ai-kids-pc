@@ -2,11 +2,7 @@
 title = "スマホタブレットを持たせる前に！子供を守る「デジタルウェルビーイング」"
 date = 2025-06-09T10:00:00+09:00
 draft = false
-<<<<<<< HEAD
 categories = ["親子で考える"]
-=======
-categories = ["注目記事"]
->>>>>>> cce5d33 (Add new blog article: Engineer workflow changes with AI in 2026)
 tags = ["スクリーンタイム", "スマホ依存", "視力低下", "デジタルウェルビーイング", "ルール"]
 thumbnail = "img/digital_wellbeing_anime.png"
 description = "子供のスクリーンタイムやスマホ依存が心配な親へ。ただ禁止するのではなく、デジタルの「量」より「質」を重視する「デジタルウェルビーイング」の考え方と、家庭でできるルール作りを紹介。"

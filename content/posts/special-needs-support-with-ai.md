@@ -2,11 +2,7 @@
 title = "【発達支援】「書くのが苦手」な子こそAIを！テクノロジーが学習のバリアを取り除く"
 date = 2025-06-24T10:00:00+09:00
 draft = false
-<<<<<<< HEAD
 categories = ["親子で考える"]
-=======
-categories = ["注目記事"]
->>>>>>> cce5d33 (Add new blog article: Engineer workflow changes with AI in 2026)
 tags = ["発達障害", "ディスレクシア", "学習支援", "音声入力", "アクセシビリティ"]
 thumbnail = "img/special_needs_ai_anime.png"
 description = "「書くのが苦手」「読むのがつらい」発達に特性のある子供こそAIを。音声入力や読み上げ機能を活用して、学習のバリアを取り除く「合理的配慮」としてのテクノロジー活用法。"

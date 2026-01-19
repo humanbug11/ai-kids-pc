@@ -2,11 +2,7 @@
 title = "AI教育ブログへようこそ！"
 date = 2025-06-01
 draft = false
-<<<<<<< HEAD
 categories = ["ニュース"]
-=======
-categories = ["注目記事"]
->>>>>>> cce5d33 (Add new blog article: Engineer workflow changes with AI in 2026)
 tags = ["お知らせ", "サイトマップ"]
 thumbnail = "img/welcome.png"
 description = "「AI Kids PC」へようこそ！当ブログは、GIGAスクール、プログラミング、AI活用など、AI時代を生きる子供を持つパパママのための教育情報メディアです。サイトマップはこちら。"

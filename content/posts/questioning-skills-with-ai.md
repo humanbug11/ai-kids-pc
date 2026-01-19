@@ -2,11 +2,7 @@
 title = "AI時代に一番必要な「質問力（プロンプト力）」を、家庭での会話で鍛える方法"
 date = 2025-06-23T10:00:00+09:00
 draft = false
-<<<<<<< HEAD
 categories = ["体験レポート"]
-=======
-categories = ["注目記事"]
->>>>>>> cce5d33 (Add new blog article: Engineer workflow changes with AI in 2026)
 tags = ["質問力", "プロンプトエンジニアリング", "対話", "地頭力", "家庭教育"]
 thumbnail = "img/question_skills_anime.png"
 description = "AI時代に最も必要なスキル「質問力（プロンプト力）」を鍛える方法。家庭での「Why」「How」の問いかけや、AIへの「5W1Hゲーム」など、親子でできるトレーニング術。"

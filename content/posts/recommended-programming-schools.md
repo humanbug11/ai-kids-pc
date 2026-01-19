@@ -3,12 +3,8 @@ title = "【2025年】小学生プログラミング教室おすすめ比較！�
 
 date = 2025-12-06T10:00:00+09:00
 draft = false
-categories = ["注目記事"]
-weight = 1
-<<<<<<< HEAD
 categories = ["体験レポート"]
-=======
->>>>>>> cce5d33 (Add new blog article: Engineer workflow changes with AI in 2026)
+weight = 1
 tags = ["プログラミング教室", "小学生", "おすすめ", "オンライン", "QUREO", "アンズテック", "無料体験"]
 thumbnail = "img/programming_school_anime.png"
 description = "「オンライン」と「通学」どっちがいいの？小学生向けプログラミング教室の選び方を元教師が解説。マインクラフトで学べるQUREOや、ゲーム制作に特化したアンズテックなど、おすすめスクールも紹介します。"

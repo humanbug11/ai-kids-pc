@@ -2,11 +2,7 @@
 title = "月謝が高くて続かない？「AI英語学習」なら月額無料でここまでできる！【Duolingo / ChatGPT】"
 date = 2025-06-18T10:00:00+09:00
 draft = false
-<<<<<<< HEAD
 categories = ["体験レポート"]
-=======
-categories = ["注目記事"]
->>>>>>> cce5d33 (Add new blog article: Engineer workflow changes with AI in 2026)
 tags = ["英語学習", "英会話", "Duolingo", "ChatGPT", "節約"]
 thumbnail = "img/ai_english_anime.png"
 description = "月謝無料でできる最強のAI英語学習法。Duolingoでのゲーム感覚学習から、ChatGPTを使った「いつでも話せる英会話先生」の作り方まで、子供が楽しく続けられるツールを紹介。"

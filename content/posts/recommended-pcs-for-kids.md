@@ -2,11 +2,7 @@
 title = "【2025年版】小学生のパソコン選び、迷ったらコレ！元エンジニアが選ぶ「本気のおすすめ」3選"
 date = 2025-06-20T10:00:00+09:00
 draft = false
-<<<<<<< HEAD
 categories = ["おすすめ・比較"]
-=======
-categories = ["注目記事"]
->>>>>>> cce5d33 (Add new blog article: Engineer workflow changes with AI in 2026)
 tags = ["パソコン選び", "Surface", "Lenovo", "Chromebook", "小学生"]
 thumbnail = "img/kids_pc_selection_anime.png"
 description = "「安物買いの銭失い」をしたくない親御さんへ。現場のIT講師が本気で選んだ、小学生におすすめのパソコン3機種（Surface Go 4, Lenovo IdeaPad, Chromebook）を、忖度なしの「本音レビュー」で紹介します。"
