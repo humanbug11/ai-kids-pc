@@ -185,7 +185,7 @@
     background: #fff;
     border-radius: var(--border-radius);
     box-shadow: var(--card-shadow);
-    margin-bottom: 20px;
+    margin-bottom: 25px;
     overflow: hidden;
     border: 1px solid #eee;
 }
@@ -194,16 +194,43 @@
 .widget__title {
     background: linear-gradient(135deg, var(--accent-teal) 0%, var(--accent-teal-dark) 100%);
     color: #fff;
-    padding: 12px 15px;
+    padding: 14px 18px;
     margin: 0;
-    font-size: 0.9rem;
+    font-size: 0.95rem;
     font-weight: 700;
     letter-spacing: 0.5px;
+}
+
+/* ウィジェット内コンテンツ余白 */
+.widget__content {
+    padding: 15px 18px;
+}
+
+/* ウィジェット内リスト */
+.widget ul {
+    padding: 15px 18px;
+    margin: 0;
+}
+
+.widget ul li {
+    padding: 10px 0;
+    border-bottom: 1px solid #f0f0f0;
+    line-height: 1.6;
+}
+
+.widget ul li:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+}
+
+.widget ul li:first-child {
+    padding-top: 0;
 }
 
 /* ウィジェット内リンク */
 .widget a {
     transition: color 0.2s ease;
+    display: block;
 }
 
 .widget a:hover {
@@ -214,6 +241,7 @@
 .authorbox {
     border-radius: var(--border-radius);
     background: #fff;
+    padding: 20px;
 }
 
 .authorbox__avatar img {
@@ -221,11 +249,21 @@
     border: 3px solid var(--accent-teal);
 }
 
+.authorbox__description {
+    line-height: 1.7;
+    margin-top: 12px;
+}
+
 /* 検索ウィジェット */
+.widget-search {
+    padding: 15px 18px;
+}
+
 .widget-search__input {
     border-radius: var(--border-radius);
     border: 2px solid #eee;
     transition: border-color 0.2s ease;
+    padding: 10px 12px;
 }
 
 .widget-search__input:focus {
@@ -236,6 +274,7 @@
 .widget-search__submit {
     background: var(--accent-teal);
     border-radius: 0 var(--border-radius) var(--border-radius) 0;
+    padding: 10px 15px;
 }
 
 /* ===========================================
@@ -298,8 +337,46 @@ blockquote {
 }
 
 /* 目次 */
+.toc {
+    cursor: pointer;
+    border-radius: var(--border-radius);
+    overflow: hidden;
+    background: #fff;
+    box-shadow: var(--card-shadow);
+    margin-bottom: 25px;
+}
+
 .toc__title {
     background: linear-gradient(135deg, var(--accent-teal) 0%, var(--accent-teal-dark) 100%);
+    padding: 12px 15px;
+    color: #fff;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.toc__title::after {
+    content: "▼";
+    font-size: 0.8rem;
+    transition: transform 0.3s ease;
+}
+
+.toc.expanded .toc__title::after {
+    transform: rotate(180deg);
+}
+
+.toc__menu {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+    padding: 0 15px;
+}
+
+.toc.expanded .toc__menu {
+    max-height: 1000px;
+    padding: 15px;
+    transition: max-height 0.5s ease-in;
 }
 
 /* ===========================================
@@ -522,4 +599,175 @@ blockquote {
 strong,
 b {
     font-weight: 700 !important;
+}
+
+/* ===========================================
+   関連記事セクション
+   =========================================== */
+
+.related-posts {
+    margin-top: 40px !important;
+    padding: 25px !important;
+    background: var(--bg-light) !important;
+    border-radius: var(--border-radius) !important;
+    border: 1px solid #eee !important;
+}
+
+.related-posts h3 {
+    font-size: 1.1rem !important;
+    font-weight: 700 !important;
+    color: var(--text-dark) !important;
+    margin: 0 0 20px 0 !important;
+    padding-bottom: 10px !important;
+    border-bottom: 2px solid var(--accent-teal) !important;
+}
+
+.related-posts__list {
+    display: grid !important;
+    grid-template-columns: repeat(3, 1fr) !important;
+    gap: 15px !important;
+}
+
+.related-posts__item {
+    display: flex !important;
+    flex-direction: column !important;
+    background: #fff !important;
+    border-radius: var(--border-radius) !important;
+    overflow: hidden !important;
+    box-shadow: var(--card-shadow) !important;
+    transition: var(--transition-smooth) !important;
+    text-decoration: none !important;
+    border: 1px solid #eee !important;
+}
+
+.related-posts__item:hover {
+    transform: translateY(-3px) !important;
+    box-shadow: var(--card-shadow-hover) !important;
+    border-color: var(--accent-teal) !important;
+}
+
+.related-posts__item img {
+    width: 100% !important;
+    height: 120px !important;
+    object-fit: cover !important;
+    border-radius: var(--border-radius) var(--border-radius) 0 0 !important;
+}
+
+.related-posts__item span {
+    display: block !important;
+    padding: 12px !important;
+    font-size: 0.85rem !important;
+    font-weight: 600 !important;
+    line-height: 1.4 !important;
+    color: var(--text-dark) !important;
+    /* 2行で省略 */
+    display: -webkit-box !important;
+    -webkit-line-clamp: 2 !important;
+    line-clamp: 2;
+    -webkit-box-orient: vertical !important;
+    overflow: hidden !important;
+}
+
+/* タブレット対応 */
+@media (max-width: 900px) {
+    .related-posts__list {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+}
+
+/* スマホ対応 */
+@media (max-width: 600px) {
+    .related-posts {
+        padding: 15px !important;
+        margin-top: 30px !important;
+    }
+
+    .related-posts__list {
+        grid-template-columns: 1fr !important;
+        gap: 12px !important;
+    }
+
+    .related-posts__item {
+        flex-direction: row !important;
+        align-items: center !important;
+    }
+
+    .related-posts__item img {
+        width: 100px !important;
+        min-width: 100px !important;
+        height: 70px !important;
+        border-radius: var(--border-radius) 0 0 var(--border-radius) !important;
+    }
+
+    .related-posts__item span {
+        padding: 10px !important;
+        font-size: 0.8rem !important;
+    }
+}
+
+/* ===========================================
+   記事内の関連記事リンク（マークダウン形式）
+   =========================================== */
+
+/* 「## 関連記事」直後のリストをカード風に */
+.content h2#関連記事 + ul,
+.content h2:has(+ ul):not(:has(+ ul + p)) + ul {
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 20px 0 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 12px !important;
+}
+
+/* 「関連記事」を含むh2の直後のul */
+.content ul:has(> li > a[href*="/posts/"]) {
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 20px 0 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 12px !important;
+}
+
+.content ul:has(> li > a[href*="/posts/"]) > li {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.content ul:has(> li > a[href*="/posts/"]) > li > a {
+    display: block !important;
+    padding: 16px 20px !important;
+    background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%) !important;
+    border: 1px solid #e2e8f0 !important;
+    border-left: 4px solid var(--accent-teal) !important;
+    border-radius: 8px !important;
+    color: var(--text-dark) !important;
+    text-decoration: none !important;
+    font-weight: 600 !important;
+    font-size: 0.95rem !important;
+    line-height: 1.5 !important;
+    transition: all 0.25s ease !important;
+    position: relative !important;
+}
+
+.content ul:has(> li > a[href*="/posts/"]) > li > a::before {
+    content: "📖" !important;
+    margin-right: 10px !important;
+    font-size: 1.1rem !important;
+}
+
+.content ul:has(> li > a[href*="/posts/"]) > li > a:hover {
+    background: linear-gradient(135deg, #e0f7fa 0%, #b2ebf2 100%) !important;
+    border-color: var(--accent-teal) !important;
+    transform: translateX(5px) !important;
+    box-shadow: 0 4px 12px rgba(0, 150, 136, 0.15) !important;
+}
+
+/* スマホ対応 */
+@media (max-width: 600px) {
+    .content ul:has(> li > a[href*="/posts/"]) > li > a {
+        padding: 14px 16px !important;
+        font-size: 0.9rem !important;
+    }
 }
