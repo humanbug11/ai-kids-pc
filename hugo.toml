@@ -79,3 +79,8 @@ googleAnalytics = "G-ZSFSHPHVBF"
   name = "運営者情報"
   url = "/about/"
   weight = 4
+
+[[menu.main]]
+  name = "お問い合わせ"
+  url = "/contact/"
+  weight = 5
