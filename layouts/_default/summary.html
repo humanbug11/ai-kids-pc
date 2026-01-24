@@ -3,7 +3,7 @@
         {{ partial "post_thumbnail.html" (dict "class" "list" "page" .) }}
         {{- with .Params.categories }}
         {{- $cat := index . 0 }}
-        {{- if or (eq $cat "ニュース") (eq $cat "体験レポート") (eq $cat "注目記事") }}
+        {{- if or (eq $cat "ニュース") (eq $cat "体験レポート") (eq $cat "注目記事") (eq $cat "親子で考える") (eq $cat "おすすめ・比較") (eq $cat "AI学習ガイド") }}
         <span class="list__category-tag">{{ $cat }}</span>
         {{- end }}
         {{- end }}
