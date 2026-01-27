@@ -470,6 +470,11 @@ blockquote {
     .widget {
         margin-bottom: 15px;
     }
+
+    /* カテゴリバッジを非表示 */
+    .category-badge {
+        display: none;
+    }
 }
 
 /* ===========================================

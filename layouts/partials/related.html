@@ -7,9 +7,14 @@
     <div class="related-posts__list">
         {{ range . }}
         <a href="{{ .RelPermalink }}" class="related-posts__item">
-            {{ with .Params.thumbnail }}
-            <img src="/{{ . }}" alt="{{ $.Title }}" loading="lazy">
-            {{ end }}
+            {{- $thumbnail := .Params.thumbnail -}}
+            {{- if $thumbnail -}}
+                {{- $valueType := printf "%T" $thumbnail -}}
+                {{- if in $valueType "map" -}}
+                    {{- $thumbnail = $thumbnail.src -}}
+                {{- end -}}
+            <img src="{{ $thumbnail | absURL }}" alt="{{ .Title }}" loading="lazy">
+            {{- end -}}
             <span>{{ .Title }}</span>
         </a>
         {{ end }}
