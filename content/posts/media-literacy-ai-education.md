@@ -12,7 +12,7 @@ description: "TikTokやYouTubeショートで「本物か偽物か」見分け�
 
 先日、小学4年生の生徒からこんな質問を受けました。
 
-> 「先生、YouTubeで見た"犬が赤ちゃんを守る"動画、あれ本当？」
+> 「先生、YouTubeで見た"犬が赤ちゃんを守る"動画、あれ本当だと思う？」
 
 皆さんなら、どう答えますか？
 
@@ -120,6 +120,16 @@ YouTubeを開くと、派手な色、驚いた表情、「衝撃」「激レア�
 > 📊 <strong>教育アプローチ</strong>: 教育専門家によると、AIによるディープフェイクの見分け方を教える際は、不自然な目の動き、口の動きのズレ、照明や影の不一致などの「<strong>レッドフラグ</strong>」を識別するスキルを育てることが効果的です[^9]。
 
 子供は「<strong>見た目がリアルでも、本当のことじゃないものは簡単に作れる</strong>」と実感します。この肌感覚こそが、最強の防御力になります。
+
+<div style="background: #fff3e0; padding: 20px; border-radius: 10px; margin: 20px 0;">
+    <strong>🎬 実際に作ってみました！</strong><br>
+    先生もAIを使って「よく見るショート動画風」の映像を作ってみました。<br>
+    <strong>所要時間はたった1分。</strong>これが現実です。
+    <video controls width="100%" style="margin-top: 15px; border-radius: 8px;">
+        <source src="/img/download.mp4" type="video/mp4">
+        お使いのブラウザは動画タグをサポートしていません。
+    </video>
+</div>
 
 ---
 
