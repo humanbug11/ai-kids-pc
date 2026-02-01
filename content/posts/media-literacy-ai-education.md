@@ -123,7 +123,7 @@ YouTubeを開くと、派手な色、驚いた表情、「衝撃」「激レア�
 
 <div style="background: #fff3e0; padding: 20px; border-radius: 10px; margin: 20px 0;">
     <strong>🎬 実際に作ってみました！</strong><br>
-    先生もAIを使って「よく見るショート動画風」の映像を作ってみました。<br>
+    先生もOpenAIの動画生成AI「<strong>Sora</strong>」を使って「よく見るショート動画風」の映像を作ってみました。<br>
     <strong>所要時間はたった1分。</strong>これが現実です。
     <video controls width="100%" style="margin-top: 15px; border-radius: 8px;">
         <source src="/img/download.mp4" type="video/mp4">
