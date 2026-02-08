@@ -3,8 +3,8 @@ title: "【親子で実践】1枚で作品を伝えるサムネイル画像をAI
 date: 2026-02-08T13:00:00+09:00
 draft: false
 layout: "post"
-categories: ["クリエイティブ", "Gemini"]
-tags: ["画像生成AI", "Gemini", "サムネイル"]
+categories: ["体験レポート", "クリエイティブ", "Gemini"]
+tags: ["体験レポート", "画像生成AI", "Gemini", "サムネイル"]
 thumbnail: "images/img020701.png"
 lead: "「作品の顔」となるサムネイル画像、AIなら一瞬でプロ級に？Geminiの最新画像生成能力を使って、親子で魅力的なサムネイルを作ってみましょう！"
 ---
