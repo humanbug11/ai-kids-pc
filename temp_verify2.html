@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html class="no-js" lang="ja">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-adsense-account" content="ca-pub-1359917410417877">
+    <meta name="msvalidate.01" content="59A6F26859FD8CB892242665D112602E" />
+    <title>【教育×AI】AIエージェントとペアプログラミング？IT講師（専門外）でも「AIアバターとお話しできるアプリ」が個人開発できた話 - 子供と学ぶ未来の技術</title>
+    <script>(function (d, e) { d[e] = d[e].replace("no-js", "js"); })(document.documentElement, "className");</script>
+    <meta name="description"
+        content="Googleの最新AIエージェント「Antigravity」を使えば、エンジニアチームはもう不要？個人の発想とAIで実現する、新しいアプリ開発の形。教育者が自らツールを作る未来について。">
+    <meta property="og:url" content="http://localhost:1313/posts/ai-avatar-chat-app-antigravity/">
+  <meta property="og:site_name" content="子供と学ぶ未来の技術">
+  <meta property="og:title" content="【教育×AI】AIエージェントとペアプログラミング？IT講師（専門外）でも「AIアバターとお話しできるアプリ」が個人開発できた話">
+  <meta property="og:description" content="Googleの最新AIエージェント「Antigravity」を使えば、エンジニアチームはもう不要？個人の発想とAIで実現する、新しいアプリ開発の形。教育者が自らツールを作る未来について。">
+  <meta property="og:locale" content="ja">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2025-12-27T07:15:00+09:00">
+    <meta property="article:modified_time" content="2026-01-19T18:52:31+09:00">
+
+    
+  <meta itemprop="name" content="【教育×AI】AIエージェントとペアプログラミング？IT講師（専門外）でも「AIアバターとお話しできるアプリ」が個人開発できた話">
+  <meta itemprop="description" content="Googleの最新AIエージェント「Antigravity」を使えば、エンジニアチームはもう不要？個人の発想とAIで実現する、新しいアプリ開発の形。教育者が自らツールを作る未来について。">
+  <meta itemprop="datePublished" content="2025-12-27T07:15:00+09:00">
+  <meta itemprop="dateModified" content="2026-01-19T18:52:31+09:00">
+  <meta itemprop="wordCount" content="3900">
+  <meta itemprop="keywords" content="体験レポート">
+    
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="【教育×AI】AIエージェントとペアプログラミング？IT講師（専門外）でも「AIアバターとお話しできるアプリ」が個人開発できた話">
+  <meta name="twitter:description" content="Googleの最新AIエージェント「Antigravity」を使えば、エンジニアチームはもう不要？個人の発想とAIで実現する、新しいアプリ開発の形。教育者が自らツールを作る未来について。">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <link rel="dns-prefetch" href="//fonts.gstatic.com">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" >
+
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/custom.css">
+
+    
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.ico">
+    <link rel="apple-touch-icon" href="/favicon.ico">
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZSFSHPHVBF"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-ZSFSHPHVBF');
+    </script>
+    
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1359917410417877"
+        crossorigin="anonymous"></script>
+</head>
+
+<body class="body">
+    <div class="container container--outer">
+        <header class="header">
+	<div class="container header__container">
+		
+	<div class="logo logo--mixed">
+		<a class="logo__link" href="/" title="AI Kids PC" rel="home">
+			<div class="logo__item logo__imagebox">
+					<img class="logo__img" src="/img/logo.png">
+				</div><div class="logo__item logo__text">
+					<div class="logo__title">AI Kids PC</div>
+					<div class="logo__tagline">子供と学ぶ未来の技術</div>
+				</div>
+		</a>
+	</div>
+		
+<nav class="menu">
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1">メニュー</span>
+	</button>
+	<ul class="menu__list">
+		<li class="menu__item">
+			<a class="menu__link" href="/">
+				
+				<span class="menu__text">ホーム</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/categories/%E4%BD%93%E9%A8%93%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/">
+				
+				<span class="menu__text">体験レポート</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/categories/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/">
+				
+				<span class="menu__text">ニュース</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/about/">
+				
+				<span class="menu__text">運営者情報</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/contact/">
+				
+				<span class="menu__text">お問い合わせ</span>
+				
+			</a>
+		</li>
+	</ul>
+</nav>
+
+	</div>
+</header>
+        <div class="wrapper flex">
+            <div class="primary">
+                
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">【教育×AI】AIエージェントとペアプログラミング？IT講師（専門外）でも「AIアバターとお話しできるアプリ」が個人開発できた話</h1>
+			
+		</header>
+		
+	<figure class="post__thumbnail thumbnail">
+		
+		<img class="thumbnail__image" src="/images/aituber/aituber-thumbnail-anime.png" alt="【教育×AI】AIエージェントとペアプログラミング？IT講師（専門外）でも「AIアバターとお話しできるアプリ」が個人開発できた話">
+		
+		
+		
+	</figure>
+
+<div class="post__toc toc">
+	<div class="toc__title">目次</div>
+	<div class="toc__menu">
+		<nav id="TableOfContents">
+  <ul>
+    <li><a href="#1-開発したアプリあけみ先生とお話ししよう">1. 開発したアプリ：「あけみ先生」とお話ししよう</a>
+      <ul>
+        <li><a href="#実際の動作デモ">実際の動作デモ</a></li>
+        <li><a href="#公開について">※公開について</a></li>
+      </ul>
+    </li>
+    <li><a href="#2-開発プロセスの変革aiは検索ツールから相棒エージェントへ">2. 開発プロセスの変革：AIは「検索ツール」から「相棒（エージェント）」へ</a>
+      <ul>
+        <li><a href="#aiエージェントは何をしてくれるのか">AIエージェントは何をしてくれるのか？</a></li>
+      </ul>
+    </li>
+    <li><a href="#3-教育者が作る側に回る意味">3. 教育者が「作る側」に回る意味</a></li>
+    <li><a href="#4-最後にあなたの作りたいを聞かせてください">4. 最後に：あなたの「作りたい」を聞かせてください</a>
+      <ul>
+        <li><a href="#ai時代だからこそプログラミング的思考が重要に">AI時代だからこそ、プログラミング的思考が重要に</a></li>
+      </ul>
+    </li>
+    <li><a href="#関連記事">関連記事</a></li>
+  </ul>
+</nav>
+	</div>
+</div><div class="content post__content clearfix">
+			<p>こんにちは、現役IT講師のきっちゃん先生です。</p>
+<p>今日は、少し個人的な、でも教育関係者の皆様にどうしてもお伝えしたい<strong>「未来の可能性」</strong>についての話をさせてください。</p>
+<p>突然ですが、先生方はこれまでに「授業でこんなアプリがあったらいいのに」「子供たちがもっと楽しく学べるツールを自分で作れたら」と考えたことはありませんか？
+そして、その直後にこう諦めたことはないでしょうか。</p>
+<p><strong>「でも、自分にはプログラミングの専門知識がないから無理だ」</strong>
+<strong>「アプリ開発なんて、エンジニアやデザイナー、たくさんの専門家が集まってやるもんでしょう？」</strong></p>
+<p>正直に申し上げます。私もそう思っていました。
+<strong>昨日までは。</strong></p>
+<p>今回、Googleの最新AIエージェント「<strong>Antigravity</strong>」と協力して、なんと<strong>「AIアバターとお話しできるアプリ」</strong>をゼロから開発してしまいました。
+しかも、たった一人で（正確には、AIという相棒と二人三脚で）。
+作業時間は、仕事納めの金曜日の夜、わずか3時間程度でした。</p>
+<p>かつてはエンジニア、デザイナー、テスター、デバッガー……多くの専門職が集まってチームで行っていたことが、今や<strong>「個人の発想」と「AIエージェント」</strong>があれば実現できる時代が到来しています。</p>
+<p>この記事では、実際に私が開発したアプリの紹介と、<strong>「AIエージェント×個人の発想」</strong>がもたらす教育現場へのインパクトについてお話しします。</p>
+<hr>
+<h2 id="1-開発したアプリあけみ先生とお話ししよう">1. 開発したアプリ：「あけみ先生」とお話ししよう</h2>
+<p>まずは、論より証拠。実際に作ったアプリの画面をご覧ください。</p>
+<p><img src="/images/aituber/aituber-demo.png" alt="完成したAIアバターアプリ"></p>
+<h3 id="実際の動作デモ">実際の動作デモ</h3>
+<p>百聞は一見にしかず。実際に動いている様子を動画でご覧ください。
+（※録画の都合上、私の声は入っていませんが、あけみ先生の応答音声は流れますので音量にご注意ください）</p>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Googleの最新AIエージェント「Antigravity」を試してみました。 これ、単なるチャットボットじゃない...！<br><br>✅要件定義 <br>✅環境構築 <br>✅コーディング <br>✅エラー修正<br><br>全部自律的にこなす「熟練エンジニア」が隣にいる感覚。AIエージェント×個人の可能性、無限大です。<a href="https://twitter.com/hashtag/Antigravity?src=hash&amp;ref_src=twsrc%5Etfw">#Antigravity</a> <a href="https://twitter.com/hashtag/%E7%94%9F%E6%88%90AI?src=hash&amp;ref_src=twsrc%5Etfw">#生成AI</a> <a href="https://twitter.com/hashtag/Tech?src=hash&amp;ref_src=twsrc%5Etfw">#Tech</a> <a href="https://t.co/7tKbxqqyE0">pic.twitter.com/7tKbxqqyE0</a></p>&mdash; きっちゃん先生 (@kitchan_it) <a href="https://twitter.com/kitchan_it/status/2004688130058953019?ref_src=twsrc%5Etfw">December 26, 2025</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<p>画面の中にいるのは、3Dキャラクターの「あけみ先生」。
+(※3Dモデルは<a href="https://hub.vroid.com/characters/2843975675147313744/models/5644550979324015604">AvatarSample_A</a>を使用させていただきました)
+このアプリ、ただ絵が表示されているだけではありません。</p>
+<ul>
+<li><strong>音声認識</strong>: こちらがマイクに向かって話しかけると、その内容を理解します。</li>
+<li><strong>AIによる思考</strong>: 話しかけられた内容に対して、あけみ先生（AI）が返答を考えます。</li>
+<li><strong>音声合成</strong>: 考えた返答を、自然な声で喋ってくれます。</li>
+<li><strong>3Dアニメーション</strong>: 喋る内容に合わせて、口が動き、表情が変わります。</li>
+</ul>
+<p>例えば、「あけみ先生、テスト勉強がつらいよ〜」と話しかけると、
+<strong>「あら、そげんしんけん悩まんでも大丈夫！あんたならできるって知っちょるよ！」</strong>
+と、大分弁混じりの優しい声で励ましてくれるのです（私が大分にいるので、プロンプトで方言を入れてみました笑）。</p>
+<p>まるでZoomで先生と話しているような感覚で、AIキャラクターと自然な会話が成立します。</p>
+<h3 id="公開について">※公開について</h3>
+<p>「ぜひ使ってみたい！」というお声をいただきそうですが、残念ながらこのアプリ、現時点では一般公開ができません。
+これには「大人の事情」がありまして……このアプリは、AIの音声認識や合成のために、<strong>有料で利用回数制限のあるAPI</strong>を使用しているためです。
+個人のPCで楽しむ分には問題ないのですが、Webで公開してみんなが使い始めると、私のお財布がすごい勢いで軽くなってしまいます（笑）。</p>
+<p>しかし、ここで皆様にお伝えしたいのは、アプリそのものの公開云々ではなく、<strong>「こんな高度なシステムを、専門外の人間が作れてしまった」</strong>という事実です。</p>
+<hr>
+<h2 id="2-開発プロセスの変革aiは検索ツールから相棒エージェントへ">2. 開発プロセスの変革：AIは「検索ツール」から「相棒（エージェント）」へ</h2>
+<p>これまで、私たちが何かアプリを作ろうとした場合、以下のような役割分担が必要でした。</p>
+<ul>
+<li><strong>エンジニア</strong>: コードを書く人（フロントエンド、バックエンド…）</li>
+<li><strong>デザイナー</strong>: 画面の見た目や使いやすさを考える人</li>
+<li><strong>テスター/デバッガー</strong>: バグを見つけて修正する人</li>
+</ul>
+<p>「プログラミング教育」といっても、先生一人がこれら全てのスキルを持つのは不可能です。だからこそ、「アプリ開発＝プロの仕事」という固定観念がありました。</p>
+<p>しかし、今回私が利用した<strong>AIエージェント「Antigravity」</strong>は、この常識を覆しました。
+私がやったのは、<strong>「日本語で指示を出すこと」</strong>だけです。</p>
+<h3 id="aiエージェントは何をしてくれるのか">AIエージェントは何をしてくれるのか？</h3>
+<p>「AIエージェント」と聞いてもピンとこないかもしれませんが、単なるチャットボット（質問に答えるだけのAI）とは全く違います。
+彼らは、まるで<strong>熟練のプロジェクトマネージャー兼エンジニア</strong>のように振る舞います。具体的には、以下のようなプロセスを自律的にこなしてくれるのです。</p>
+<ol>
+<li><strong>要件定義</strong>: 「こんなアプリがいい」という曖昧な要望を、「具体的にどんな機能が必要か」という仕様書に落とし込む。</li>
+<li><strong>ワークフロー構築</strong>: 開発の手順（まずは環境構築、次に画面作成、その次にAPI連携…）を自分で計画する。</li>
+<li><strong>コーディング</strong>: 実際にプログラムのコードを高速で書き上げる。</li>
+<li><strong>実行と修正</strong>: 自分でブラウザを開いて動くか確認し、エラーが出れば勝手に原因を特定して修正案を提示する。</li>
+</ol>
+<blockquote>
+<p><strong>私</strong>: 「ブラウザで動く、3Dキャラクターと会話できるアプリを作りたい。キャラクターはVRMファイルを使って、背景はリッチなグラデーションにして。」</p>
+<p><strong>Antigravity</strong>: 「承知しました。ReactとThree.jsを使って構築しますね。まずは環境をセットアップします……（カタカタとコードを生成）」</p>
+</blockquote>
+<p>信じられないかもしれませんが、私は1行もコードを書いていません（というより、複雑すぎて書けません）。
+Antigravityは、私の指示を理解し、必要なライブラリを選定し、コードを書き、そしてエラーが出れば自分で調べて修正までしてくれました。</p>
+<p><img src="/images/aituber/antigravity-setup.png" alt="Antigravityでの開発画面"></p>
+<p>まさに、<strong>「超優秀なエンジニアが、常に隣に座って指示を待っている」</strong>状態です。
+私たち人間に求められるのは、「どう書くか（HOW）」の知識ではなく、<strong>「何を作りたいか（WHAT）」という明確なビジョンと発想</strong>だけになりつつあります。</p>
+<hr>
+<h2 id="3-教育者が作る側に回る意味">3. 教育者が「作る側」に回る意味</h2>
+<p>この技術革新は、教育現場に何をもたらすでしょうか？</p>
+<p>私は、<strong>「先生こそが最強の開発者になれる」</strong>と確信しています。</p>
+<p>なぜなら、
+「ここの単元、子供たちがもっと視覚的に理解できたらいいのに」
+「漢字の書き取り、もっとゲーム感覚でできたら続くのに」
+といった<strong>「現場の課題」と「解決のアイデア」を一番持っているのは、エンジニアではなく先生方自身</strong>だからです。</p>
+<p>これまでは技術的な壁がありましたが、AIエージェントがその壁を取り払ってくれます。</p>
+<ul>
+<li>歴史の先生が、<strong>「織田信長と直接チャットできるアプリ」</strong>を作る。</li>
+<li>英語の先生が、<strong>「自分の発音の癖を指摘してくれる英会話ボット」</strong>を作る。</li>
+<li>特別支援学級の先生が、<strong>「その子の特性に完全に合わせたスケジュール管理アプリ」</strong>を作る。</li>
+</ul>
+<p>そんなことが、個人の趣味の範囲で、しかも数時間〜数日で実現できる世界がきています。</p>
+<hr>
+<h2 id="4-最後にあなたの作りたいを聞かせてください">4. 最後に：あなたの「作りたい」を聞かせてください</h2>
+<p>今回の「あけみ先生アプリ」も、最初は私の「大分弁の先生キャラと話せたら面白いかも？」という、ちょっとした思いつきから始まりました。
+そんな些細なアイデアが、AIエージェントの手を借りることで、実際に動くアプリケーションとして命を吹き込まれました。</p>
+<p>プログラミングの知識は、もはや必須条件ではありません。
+必要なのは、<strong>「こんなものがあったら面白い！」という好奇心と、情熱だけ</strong>です。</p>
+<p>もし、この記事を読んで、
+「自分も何か作ってみたい！」
+「AIエージェントって実際どうやって使うの？」
+「実はこんなアイデアを温めているんだけど…」
+という方がいらっしゃいましたら、ぜひX（Twitter）でコメントをください。</p>
+<p>教育者の視点と技術が交わることで、もっと面白い未来が作れると信じています。
+AIと一緒に、ワクワクするような「ものづくり」の世界へ飛び込んでみませんか？</p>
+<p><a href="https://x.com/kitchan_it">Xでコメントする</a></p>
+<h3 id="ai時代だからこそプログラミング的思考が重要に">AI時代だからこそ、プログラミング的思考が重要に</h3>
+<p>AIエージェントは確かに優秀ですが、彼らに的確な指示（プロンプト）を出し、思い通りのアプリに仕上げるためには、実は<strong>プログラミング的な思考</strong>が不可欠だと感じました。</p>
+<ul>
+<li><strong>論理的思考</strong>: 手順を順序立てて伝える力</li>
+<li><strong>抽象と具体の往復</strong>: 曖昧なアイデアを具体的な機能に落とし込む力</li>
+<li><strong>構造化</strong>: 複雑な問題を小さなタスクに分解する力</li>
+</ul>
+<p>「コードを書く技術」はAIが担ってくれますし、「どう動かすか」の設計もAIがサポートしてくれます。しかし、<strong>AIの提案を確認し、正しい方向へ導く力</strong>は人間にしかできません。方針の指示が少しでも違うと、AIは理想とは全く違うものを作ってしまうからです。</p>
+<p>やはり、プログラミング教育の本質はここにあるのだと再認識しました。</p>
+<p>AIで減る仕事も多いですが、だれでもアイディアが形になるので増える仕事も多そうです！
+子供たちのために、誰かのためにAIと一緒に自分の作って見たかったアプリを作れる時代が来ましたね！</p>
+<p>AIはまだまだ進化中です。日々一緒にAI時代の体験や使ってみた情報を共有しましょう！</p>
+<hr>
+<h2 id="関連記事">関連記事</h2>
+<ul>
+<li><a href="/posts/vibe-coding-google-ai-studio-drawing-app/">【実践】バイブコーディングとは？Google AI Studioで中学生がお絵かきアプリを作ってみた！</a></li>
+<li><a href="/posts/roblox-fps-gemini-vibe-coding/">【実録】知識ゼロの元エンジニアが、生成AI(Gemini)と小学生と「RobloxでFPS」を作ってみた結果〜これが本当のバイブコーディング〜</a></li>
+</ul>
+
+		</div>
+		
+		
+
+<div class="related-posts">
+    <h3>📖 あわせて読みたい</h3>
+    <div class="related-posts__list">
+        
+        <a href="/posts/recommended-programming-schools/" class="related-posts__item"><img src="http://localhost:1313/img/programming_school_anime.png" alt="【2025年】小学生プログラミング教室おすすめ比較！オンライン vs 通学の選び方" loading="lazy"><span>【2025年】小学生プログラミング教室おすすめ比較！オンライン vs 通学の選び方</span>
+        </a>
+        
+        <a href="/posts/vibe-coding-google-ai-studio-drawing-app/" class="related-posts__item"><img src="http://localhost:1313/img/vibe_coding_drawing_app.png" alt="【実践】バイブコーディングとは？Google AI Studioで中学生がお絵かきアプリを作ってみた！" loading="lazy"><span>【実践】バイブコーディングとは？Google AI Studioで中学生がお絵かきアプリを作ってみた！</span>
+        </a>
+        
+        <a href="/posts/gemini-minecraft-agent-building/" class="related-posts__item"><img src="http://localhost:1313/images/gemini-future-house.png" alt="【Gemini×マイクラ】AIが生成した建築物を、エージェントに作らせてみた！プログラミング企画" loading="lazy"><span>【Gemini×マイクラ】AIが生成した建築物を、エージェントに作らせてみた！プログラミング企画</span>
+        </a>
+        
+    </div>
+</div>
+
+
+	</article>
+</main>
+
+
+
+
+            </div>
+            <aside class="sidebar"><div class="widget-search widget">
+    <form class="widget-search__form" role="search" method="get" action="/search/">
+        <input class="widget-search__field" type="search" placeholder="サイト内を検索..." value="" name="q" aria-label="検索">
+        <input class="widget-search__submit" type="submit" value="Search">
+    </form>
+</div>
+<div class="widget-ranking widget">
+    <h4 class="widget__title">編集長のおすすめ 5選</h4>
+    <div class="widget__content">
+        <ul class="widget__list">
+            
+            <li class="widget__item">
+                <div class="ranking-item">
+                    <div class="ranking-badge"></div>
+                    <a class="widget__link" href="/posts/notebooklm-podcast-with-kids/">
+                        
+                        <div class="ranking-thumb" style="background-image: url('/img/notebooklm_podcast.png');">
+                        </div>
+                        
+                        <div class="ranking-text">
+                            【話題】NotebookLMで子供と一緒にオリジナルPodcastを作ろう！音声AIの新しい学び方
+                        </div>
+                    </a>
+                </div>
+            </li>
+            
+            <li class="widget__item">
+                <div class="ranking-item">
+                    <div class="ranking-badge"></div>
+                    <a class="widget__link" href="/posts/recommended-programming-schools/">
+                        
+                        <div class="ranking-thumb" style="background-image: url('/img/programming_school_anime.png');">
+                        </div>
+                        
+                        <div class="ranking-text">
+                            【2025年】小学生プログラミング教室おすすめ比較！オンライン vs 通学の選び方
+                        </div>
+                    </a>
+                </div>
+            </li>
+            
+            <li class="widget__item">
+                <div class="ranking-item">
+                    <div class="ranking-badge"></div>
+                    <a class="widget__link" href="/posts/vibe-coding-google-ai-studio-drawing-app/">
+                        
+                        <div class="ranking-thumb" style="background-image: url('/img/vibe_coding_drawing_app.png');">
+                        </div>
+                        
+                        <div class="ranking-text">
+                            【実践】バイブコーディングとは？Google AI Studioで中学生がお絵かきアプリを作ってみた！
+                        </div>
+                    </a>
+                </div>
+            </li>
+            
+            <li class="widget__item">
+                <div class="ranking-item">
+                    <div class="ranking-badge"></div>
+                    <a class="widget__link" href="/posts/future-careers-in-ai-era/">
+                        
+                        <div class="ranking-thumb" style="background-image: url('/img/future_jobs_anime.png');">
+                        </div>
+                        
+                        <div class="ranking-text">
+                            【10年後の未来】「なくなる仕事」「生まれる仕事」 AI時代に子供が目指すべき職業は？
+                        </div>
+                    </a>
+                </div>
+            </li>
+            
+            <li class="widget__item">
+                <div class="ranking-item">
+                    <div class="ranking-badge"></div>
+                    <a class="widget__link" href="/posts/recommended-gaming-pcs-for-kids/">
+                        
+                        <div class="ranking-thumb" style="background-image: url('/img/gaming_pc_recommend_anime.png');">
+                        </div>
+                        
+                        <div class="ranking-text">
+                            【2025年】小学生向けゲーミングPCおすすめ6選｜フォートナイト・マイクラ快適
+                        </div>
+                    </a>
+                </div>
+            </li>
+            
+        </ul>
+    </div>
+</div>
+
+<div class="widget-recent widget">
+    <h4 class="widget__title">最近の投稿</h4>
+    <div class="widget__content">
+        <ul class="widget__list">
+            <li class="widget__item"><a class="widget__link" href="/posts/gemini-minecraft-agent-building/">【Gemini×マイクラ】AIが生成した建築物を、エージェントに作らせてみた！プログラミング企画</a></li>
+            <li class="widget__item"><a class="widget__link" href="/posts/engineer-workflow-change-2026/">【保護者必見】2026年、エンジニアの働き方が激変！AIで「チーム開発」から「個人×AI」の時代へ</a></li>
+            <li class="widget__item"><a class="widget__link" href="/posts/english-vocabulary-learning-with-gem/">【学習】Gemで英単語学習をしてみよう！AI英語コーチ「ケビン」の作り方</a></li>
+            <li class="widget__item"><a class="widget__link" href="/posts/japan-ai-basic-plan-2025/">【2025年決定】日本政府の「AI基本計画」を徹底解説！子供たちの未来はどう変わる？</a></li>
+            <li class="widget__item"><a class="widget__link" href="/posts/new-year-2026/">【2026年】あけましておめでとうございます！今年は「AI×創造」で駆け抜ける1年に</a></li>
+        </ul>
+    </div>
+</div>
+<div class="widget-categories widget">
+	<h4 class="widget__title">カテゴリー</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E6%AF%94%E8%BC%83/">おすすめ・比較</a></li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/">ニュース</a></li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/%E4%BD%93%E9%A8%93%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/">体験レポート</a></li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/%E8%A6%AA%E5%AD%90%E3%81%A7%E8%80%83%E3%81%88%E3%82%8B/">親子で考える</a></li>
+		</ul>
+	</div>
+</div>
+<div class="widget-profile widget">
+    <div class="widget-profile__header" style="text-align: center;">
+        <img class="widget-profile__img" src="/img/teacher_profile_icon.jpg"
+            alt="AI Kids PC 編集長" style="border-radius: 50%; object-fit: cover; padding: 10px;">
+        <h3 class="widget-profile__title">AI Kids PC 編集長</h3>
+    </div>
+    <div class="widget-profile__content widget__content">
+        <p>福岡出身・大分在住のきっちゃん先生です！元IT企業勤務で、Web制作やサイト運営なども請け負っています。趣味はAIを活用したバイブコーディングでのアプリ・ゲーム開発。「子供の創造性をAIで伸ばす」をモットーに発信中。</p>
+    </div>
+</div>
+</aside>
+        </div>
+        <footer class="footer">
+    <div class="container footer__container flex">
+        
+<div class="footer__links">
+	<a class="footer__link" href="/">ホームへ戻る</a> | <a class="footer__link" href="/privacy-policy/">プライバシーポリシー</a>
+</div>
+        <div class="footer__copyright">
+            &copy; 2026 子供と学ぶ未来の技術.
+            <span class="footer__copyright-credits">Powered by <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> & <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a>. Co-created with Google Antigravity.</span>
+        </div>
+    </div>
+</footer>
+
+<style>
+    #snow-container {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        pointer-events: none;
+        z-index: -1;
+        overflow: hidden;
+    }
+
+    .snowflake {
+        position: absolute;
+        top: -10px;
+        color: #fff;
+        font-size: 1em;
+        font-family: Arial;
+        text-shadow: 0 0 1px #000;
+    }
+</style>
+<div id="snow-container"></div>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const snowContainer = document.getElementById('snow-container');
+        const maxSnowflakes = 25;
+
+        function createSnowflake() {
+            if (snowContainer.children.length >= maxSnowflakes) return;
+
+            const snowflake = document.createElement('div');
+            snowflake.classList.add('snowflake');
+            snowflake.innerHTML = '❄';
+            snowflake.style.left = Math.random() * 100 + 'vw';
+            snowflake.style.opacity = Math.random();
+            snowflake.style.fontSize = (Math.random() * 10 + 10) + 'px';
+
+            const duration = Math.random() * 5 + 5;
+            snowflake.style.transition = `top ${duration}s linear, opacity ${duration}s ease-in`;
+
+            snowContainer.appendChild(snowflake);
+
+            
+            setTimeout(() => {
+                snowflake.style.top = '100vh';
+                snowflake.style.opacity = '0';
+            }, 50);
+
+            
+            setTimeout(() => {
+                snowflake.remove();
+            }, duration * 1000);
+        }
+
+        setInterval(createSnowflake, 800);
+    });
+</script>
+
+    </div>
+    <script async defer src="/js/menu.js"></script>
+    <script src="/js/toc-toggle.js"></script></body>
+
+</html>
