@@ -1,7 +1,7 @@
 ﻿+++
 title = "【2025年版】小学生のパソコン選び、迷ったらコレ！元エンジニアが選ぶ「本気のおすすめ」3選"
 date = 2025-06-20T10:00:00+09:00
-draft = false
+draft = true
 categories = ["おすすめ・比較"]
 tags = ["パソコン選び", "Surface", "Lenovo", "Chromebook", "小学生"]
 thumbnail = "img/kids_pc_selection_anime.png"

@@ -1,7 +1,7 @@
 ﻿+++
 title = "夏休みの自由研究に！AIで「科学アート」のSTEAM教育に挑戦"
 date = 2025-06-14T10:00:00+09:00
-draft = false
+draft = true
 categories = ["体験レポート"]
 tags = ["自由研究", "Teachable Machine", "クリエイティビティ", "科学実験", "アート"]
 thumbnail = "img/steam_ai_anime.png"

@@ -776,3 +776,98 @@ b {
         font-size: 0.9rem !important;
     }
 }
+
+/* ===========================================
+   ウェルカムメッセージボックス（トップページ用）
+   =========================================== */
+.welcome-box {
+    background: #fff;
+    padding: 25px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    border: 2px solid #e0e0e0;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
+
+.welcome-box h2 {
+    margin-top: 0;
+    color: #333;
+    font-size: 1.5rem;
+    border-bottom: 2px solid var(--accent-orange);
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+    line-height: 1.4;
+}
+
+.welcome-box p {
+    font-size: 1rem;
+    line-height: 1.8;
+    color: #555;
+    margin-bottom: 10px;
+}
+
+.welcome-box p:last-of-type {
+    font-size: 0.95rem;
+    color: #666;
+}
+
+.welcome-box .cta-section {
+    margin-top: 20px;
+    padding-top: 15px;
+    border-top: 1px dashed #ccc;
+}
+
+.welcome-box .cta-label {
+    display: block;
+    margin-bottom: 10px;
+    color: #e65100;
+    font-weight: bold;
+}
+
+.welcome-box .cta-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.welcome-box .cta-btn {
+    padding: 8px 12px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 0.9rem;
+    color: var(--text-dark);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.welcome-box .cta-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    opacity: 0.9;
+}
+
+/* 個別ボタン色 */
+.cta-btn.guide { background: #fff3e0; color: #e65100 !important; }
+.cta-btn.parent { background: #e3f2fd; color: #1565c0 !important; }
+.cta-btn.recommend { background: #f3e5f5; color: #7b1fa2 !important; }
+
+/* スマホ対応 */
+@media (max-width: 600px) {
+    .welcome-box {
+        padding: 20px;
+        margin-bottom: 20px;
+    }
+    .welcome-box h2 {
+        font-size: 1.3rem;
+    }
+    .welcome-box p {
+        font-size: 0.95rem;
+    }
+    .cta-buttons {
+        gap: 8px;
+    }
+    .cta-btn {
+        font-size: 0.85rem;
+        padding: 6px 10px;
+    }
+}

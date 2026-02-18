@@ -1,7 +1,7 @@
 ﻿+++
 title = "家から一歩も出ずに宇宙旅行！？AIと行く「地理自然」探究ツアー"
 date = 2025-06-17T10:00:00+09:00
-draft = false
+draft = true
 categories = ["体験レポート"]
 tags = ["宇宙", "自然観察", "Google Earth", "NASA", "iNaturalist"]
 thumbnail = "img/space_nature_ai_anime.png"

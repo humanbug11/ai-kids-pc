@@ -1,7 +1,7 @@
 ﻿---
 title: "【2026年】あけましておめでとうございます！今年は「AI×創造」で駆け抜ける1年に"
 date: 2026-01-03T09:00:00+09:00
-draft: false
+draft: true
 categories: ["ニュース"]
 tags: ["2026", "新年の抱負", "AI教育", "午年"]
 thumbnail: "/images/new-year-2026/thumbnail.png"

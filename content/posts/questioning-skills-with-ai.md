@@ -1,7 +1,7 @@
 ﻿+++
 title = "AI時代に一番必要な「質問力（プロンプト力）」を、家庭での会話で鍛える方法"
 date = 2025-06-23T10:00:00+09:00
-draft = false
+draft = true
 categories = ["体験レポート"]
 tags = ["質問力", "プロンプトエンジニアリング", "対話", "地頭力", "家庭教育"]
 thumbnail = "img/question_skills_anime.png"

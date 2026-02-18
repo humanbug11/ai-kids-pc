@@ -1,7 +1,7 @@
 ﻿+++
 title = "【Gemini活用】「Storybook」なら一発！親子でAI絵本を作る一番簡単な方法"
 date = 2025-12-06T10:00:00+09:00
-draft = false
+draft = true
 categories = ["体験レポート"]
 tags = ["Gemini", "画像生成AI", "Gem Storybook", "自由研究", "親子で学ぶ"]
 thumbnail = "img/ai_picture_book_anime.png"

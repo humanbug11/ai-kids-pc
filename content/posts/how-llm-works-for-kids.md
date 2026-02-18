@@ -1,7 +1,7 @@
 ﻿+++
 title = "【入門】生成AI（LLM）の仕組みを子供と学ぼう！どうやって人とチャットできるの？"
 date = 2025-12-25T17:00:00+09:00
-draft = false
+draft = true
 categories = ["AI学習ガイド"]
 tags = ["生成AI", "LLM", "ChatGPT", "Gemini", "AI入門", "子供向け"]
 thumbnail = "img/llm-mechanism-thumbnail.png"

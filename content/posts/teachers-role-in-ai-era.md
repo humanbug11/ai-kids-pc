@@ -1,7 +1,7 @@
 ﻿+++
 title = "AI時代の先生の役割とは？「教える人」から「伴走する人（ファシリテーター）」へ"
 date = 2025-06-06T10:00:00+09:00
-draft = false
+draft = true
 categories = ["ニュース"]
 tags = ["先生の役割", "ファシリテーター", "メンター", "個別最適化", "学校教育"]
 thumbnail = "img/teacher_ai_anime.png"

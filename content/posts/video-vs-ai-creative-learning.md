@@ -2,7 +2,7 @@
 title = "【体験談】プログラミング学習で伸び悩む子がAIで激変した理由"
 
 date = 2025-06-28T10:00:00+09:00
-draft = false
+draft = true
 categories = ["体験レポート"]
 tags = ["プログラミング教室", "実体験", "動画学習", "モチベーション", "AI活用", "ChatGPT", "小学生"]
 thumbnail = "img/ai_creative_learning_anime.png"

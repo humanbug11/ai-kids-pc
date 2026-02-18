@@ -1,7 +1,7 @@
 ﻿---
 title: "【2025年まとめ】文科省ガイドライン＆ChatGPT/Geminiで変わる高校生の学び方"
 date: 2025-12-28T10:30:00+09:00
-draft: false
+draft: true
 description: "2025年は教育×AIが大きく動いた1年。文部科学省ガイドラインVer.2.0とGoogle Gemini for Education（LearnLM）の登場で、学びの形が変わりつつあります。公式情報をもとに振り返ります。"
 categories: ["注目記事"]
 thumbnail: "/images/ai-study-2025/thumbnail.png"

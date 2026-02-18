@@ -2,7 +2,7 @@
 title = "【2025年】子供用パソコンはAI PC（Copilot+ PC）がおすすめ！選び方と人気モデル"
 
 date = 2025-06-25T10:00:00+09:00
-draft = false
+draft = true
 categories = ["おすすめ・比較"]
 tags = ["AI PC", "NPU", "Copilot", "Surface", "子供用パソコン", "小学生", "おすすめ"]
 thumbnail = "img/ai_pc_recommend_anime.png"

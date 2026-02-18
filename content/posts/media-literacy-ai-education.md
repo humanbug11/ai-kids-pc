@@ -1,7 +1,7 @@
 ---
 title: "【AI教育】「その動画、本物？」と疑える子へ。子供を守る最強の盾は『裏側の仕組み』を知ること"
 date: 2026-02-01T18:00:00+09:00
-draft: false
+draft: true
 categories: ["親子で考える"]
 tags: ["AI教育", "メディアリテラシー", "YouTube", "子供", "フェイクニュース", "プログラミング教育"]
 thumbnail: "/images/media-literacy/thumbnail.png"

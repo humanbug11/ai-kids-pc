@@ -1,7 +1,7 @@
 ﻿+++
 title = "世界はどうなってる？アメリカ・ヨーロッパ・アジアの「AI教育」最新事情まとめ【2025年版】"
 date = 2025-12-06T12:00:00+09:00
-draft = false
+draft = true
 categories = ["ニュース"]
 tags = ["海外事情", "アメリカ", "シンガポール", "韓国", "イギリス", "AI教育"]
 thumbnail = "img/global_ai_anime.png"

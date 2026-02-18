@@ -1,7 +1,7 @@
 ﻿+++
 title = "【発達支援】「書くのが苦手」な子こそAIを！テクノロジーが学習のバリアを取り除く"
 date = 2025-06-24T10:00:00+09:00
-draft = false
+draft = true
 categories = ["親子で考える"]
 tags = ["発達障害", "ディスレクシア", "学習支援", "音声入力", "アクセシビリティ"]
 thumbnail = "img/special_needs_ai_anime.png"

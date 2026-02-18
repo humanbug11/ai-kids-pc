@@ -1,7 +1,7 @@
 ﻿+++
 title = "【Google Gemini】自分専用の「AI家庭教師（Tutor）」を作ろう！Gems活用術"
 date = 2025-06-05T10:00:00+09:00
-draft = false
+draft = true
 categories = ["体験レポート"]
 tags = ["Google Gemini", "Gems", "個別指導", "カスタマイズ", "勉強法"]
 thumbnail = "img/ai_tutor_gems_anime.png"

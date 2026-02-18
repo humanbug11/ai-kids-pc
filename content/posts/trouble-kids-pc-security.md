@@ -1,7 +1,7 @@
 ﻿+++
 title = "「子供がパソコンを使ってくれない」時の対処法＆最低限やるべきセキュリティ設定"
 date = 2025-12-11T10:00:00+09:00
-draft = false
+draft = true
 categories = ["親子で考える"]
 
 thumbnail = "img/trouble_shooting_pc_anime.png"

@@ -1,7 +1,7 @@
 ﻿+++
 title = "「AIがコードを書く時代」に、子供にプログラミングを習わせる意味はあるの？"
 date = 2025-06-08T10:00:00+09:00
-draft = false
+draft = true
 categories = ["体験レポート"]
 tags = ["習い事", "将来性", "論理的思考", "プロンプトエンジニアリング", "脱暗記"]
 thumbnail = "img/coding_vs_ai_anime.png"

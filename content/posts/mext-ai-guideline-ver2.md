@@ -1,7 +1,7 @@
 ﻿+++
 title = "【パパママ必読】文部科学省「生成AI利用ガイドライン」を分かりやすく解説！小学生の活用ルールは？"
 date = 2025-06-12T10:00:00+09:00
-draft = false
+draft = true
 categories = ["ニュース"]
 tags = ["ガイドライン", "文部科学省", "生成AI", "夏休みの宿題", "ルール作り"]
 thumbnail = "img/ai_guideline_anime.png"
