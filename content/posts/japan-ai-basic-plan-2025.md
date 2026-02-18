@@ -1,7 +1,7 @@
 ﻿---
 title: "【2025年決定】日本政府の「AI基本計画」を徹底解説！子供たちの未来はどう変わる？"
 date: 2026-01-04T17:50:00+09:00
-draft: true
+draft: false
 categories: ["ニュース"]
 tags: ["AI基本計画", "2026", "AI法", "保護者向け", "教育"]
 thumbnail: "/images/japan-ai-basic-plan-2025/thumbnail.png"

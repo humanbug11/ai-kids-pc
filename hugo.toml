@@ -71,11 +71,6 @@ googleAnalytics = "G-ZSFSHPHVBF"
   weight = 2
 
 [[menu.main]]
-  name = "ニュース"
-  url = "/categories/ニュース/"
-  weight = 3
-
-[[menu.main]]
   name = "運営者情報"
   url = "/about/"
   weight = 4
