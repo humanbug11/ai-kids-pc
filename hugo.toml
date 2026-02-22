@@ -71,6 +71,11 @@ googleAnalytics = "G-ZSFSHPHVBF"
   weight = 2
 
 [[menu.main]]
+  name = "AI学習ガイド"
+  url = "/categories/AI学習ガイド/"
+  weight = 3
+
+[[menu.main]]
   name = "運営者情報"
   url = "/about/"
   weight = 4
