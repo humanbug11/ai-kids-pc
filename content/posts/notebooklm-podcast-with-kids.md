@@ -6,7 +6,6 @@ categories = ["AI学習ガイド"]
 tags = ["Google", "NotebookLM", "Podcast", "音声AI", "親子で学ぶ"]
 thumbnail = "img/notebooklm_podcast.png"
 description = "Googleの無料AIツール「NotebookLM」を使えば、調べ学習のまとめを自動でPodcast化できます。子供と一緒にオリジナル番組を作る方法を解説。"
-weight = 1
 +++
 
 「子供の調べ学習、せっかくまとめたのに読み返さないまま眠ってる…」
