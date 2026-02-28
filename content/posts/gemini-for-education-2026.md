@@ -122,8 +122,7 @@ Deep Researchの正しい使い方は：
 
 > 📊 私は以前、Robloxでゲームを作る際に「Robloxコーチ」というカスタムGemsを作り、Lua言語の知識ゼロから生徒たちとFPSゲームを完成させました。Gemsの力を実感しています。
 
-詳しい作り方は、以前の記事で解説しています。
-→ [【Google Gemini】自分専用の「AI家庭教師」を作ろう！Gems活用術](/posts/how-to-make-ai-tutor-with-gems/)
+詳しい作り方は、Gemsの記事を公開後にリンクを追加予定です。
 
 ---
 
@@ -298,6 +297,5 @@ Gemini for Educationの主要機能を、改めて整理します。
 ## 関連記事
 
 - [【2026年版】NotebookLMで「テスト勉強」が激変！教科書を入れるだけでクイズが自動で作れる時代](/posts/notebooklm-study-guide-2026/)
-- [【Google Gemini】自分専用の「AI家庭教師」を作ろう！Gems活用術](/posts/how-to-make-ai-tutor-with-gems/)
 - [【実録】知識ゼロの元エンジニアが、Geminiと小学生とRobloxでFPSを作ってみた結果](/posts/roblox-fps-gemini-vibe-coding/)
 - [【2025年】GIGAスクール構想 第2期とは？小学生のAI教育と家庭でできる準備](/posts/education-2025-giga-phase2/)

@@ -68,7 +68,5 @@ AIやデジタルツールは、あくまで「道具」です。
 
 ## 関連記事
 
-- [「AIネイティブ」な子供に育てるために必要な3つのスキルとは？](/posts/ai-native-3-skills/)
-- [AI時代の先生の役割とは？「教える人」から「伴走する人」へ](/posts/teachers-role-in-ai-era/)
-- [【2025年版】子供に教えたい「AI倫理」と「著作権」 親の心得](/posts/ai-ethics-and-copyright/)
-- [【2025年】子供用パソコンはAI PC（Copilot+ PC）がおすすめ！](/posts/recommended-ai-pcs-2025/)
+- [【実践】バイブコーディングとは？Google AI Studioでアプリを作ってみた！](/posts/vibe-coding-google-ai-studio-drawing-app/)
+- [【保護者必読】ChatGPTは13歳から！主要AI5社の年齢制限と子供に使わせる前に知っておくべきこと](/posts/ai-age-restrictions-guide/)

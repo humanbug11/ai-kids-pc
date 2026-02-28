@@ -120,7 +120,6 @@ AIは、膨大なデータから答えを探してくる「具体」の作業は
 
 ## 関連記事
 
-- [「AIがコードを書く時代」に、子供にプログラミングを習わせる意味はあるの？](/posts/programming-vs-ai-education/)
-- [AI時代に一番必要な「質問力（プロンプト力）」を鍛える方法](/posts/questioning-skills-with-ai/)
-- [「AIネイティブ」な子供に育てるために必要な3つのスキルとは？](/posts/ai-native-3-skills/)
-- [【2025年】小学生プログラミング教室おすすめ比較！オンライン vs 通学の選び方](/posts/recommended-programming-schools/)
+- [【実践】バイブコーディングとは？Google AI Studioでアプリを作ってみた！](/posts/vibe-coding-google-ai-studio-drawing-app/)
+- [【実録】生成AI(Gemini)と小学生とRobloxでFPSを作ってみた結果](/posts/roblox-fps-gemini-vibe-coding/)
+- [【解説】生成AIの次はAIエージェント、その次にAGI!? AIの進化をやさしく解説](/posts/ai-evolution-generative-agent-agi/)

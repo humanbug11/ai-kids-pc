@@ -128,7 +128,7 @@ AIは暴力・性的・差別的なコンテンツを生成する可能性があ
 画像生成AI（DALL-E、Imagen）は要注意。  
 「〇〇（アニメキャラ）を描いて！」は<strong>著作権侵害のリスク</strong>があります。
 
-→ [AI倫理についてはこちら](/posts/ai-ethics-and-copyright/)
+
 
 ### ルール⑤：使用時間を決めておく
 
@@ -226,7 +226,5 @@ AIはどんどん進化して、性能もよくなっています。
 
 ## 関連記事
 
-- [【教室現場から】「AIでハッキング？」と不安がる保護者に伝えたい「正しく怖がる」ためのリテラシー](/posts/sns-ai-risk-and-literacy/)
-- [【2025年版】子供に教えたい「AI倫理」と「著作権」 親の心得](/posts/ai-ethics-and-copyright/)
-- [「AIネイティブ」な子供に育てるために必要な3つのスキルとは？](/posts/ai-native-3-skills/)
-- [スクリーンタイムとデジタルウェルビーイング：子供の健康を守る使い方](/posts/digital-wellbeing-and-screen-time/)
+- [【2025年】GIGAスクール構想 第2期とは？小学生のAI教育と家庭でできる準備](/posts/education-2025-giga-phase2/)
+- [【実践】バイブコーディングとは？Google AI Studioでアプリを作ってみた！](/posts/vibe-coding-google-ai-studio-drawing-app/)

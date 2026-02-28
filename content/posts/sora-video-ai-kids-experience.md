@@ -168,5 +168,3 @@ Soraは単なる「動画を作るツール」ではありません。
 ## 関連記事
 
 - [【実践】バイブコーディングとは？Google AI Studioでアプリを作ってみた！](/posts/vibe-coding-google-ai-studio-drawing-app/)
-- [【保護者必見】子どものAI利用と著作権、押さえておきたいポイント](/posts/ai-ethics-and-copyright/)
-- [【2025年版】小学生のパソコン選び、迷ったらコレ！おすすめ3選](/posts/recommended-pcs-for-kids/)

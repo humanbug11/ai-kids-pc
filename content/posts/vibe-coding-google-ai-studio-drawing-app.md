@@ -192,4 +192,3 @@ AIに正確に意図を伝えるには、「何をしたいのか」を明確に
 <strong>関連記事</strong>
 
 - [Robloxでゲームを作ってみた！Geminiバイブコーディング体験記](/posts/roblox-fps-gemini-vibe-coding/)
-- [子供向けAI学習ガイド：Gemsでオリジナル家庭教師を作ろう](/posts/how-to-make-ai-tutor-with-gems/)

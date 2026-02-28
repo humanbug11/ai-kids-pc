@@ -143,5 +143,3 @@ AIという最強の味方がいれば、大人も子供も関係ありません
 
 - [【実践】バイブコーディングとは？Google AI Studioでアプリを作ってみた！](/posts/vibe-coding-google-ai-studio-drawing-app/)
 - [【自由研究】小学生が「バイブコーディング」！？ManusとGoogle AI Studioでゲームを作ろう](/posts/no-code-ai-app-creation/)
-- [【体験談】プログラミング学習で伸び悩む子がAIで激変した理由](/posts/video-vs-ai-creative-learning/)
-- [【Google Gemini】自分専用の「AI家庭教師」を作ろう！Gems活用術](/posts/how-to-make-ai-tutor-with-gems/)

@@ -271,6 +271,3 @@ GoogleのAIサービスには年齢制限があります。保護者の方が一
 ## 関連記事
 
 - [【話題】NotebookLMで子供と一緒にオリジナルPodcastを作ろう！音声AIの新しい学び方](/posts/notebooklm-podcast-with-kids/)
-- [【2025年まとめ】文科省ガイドライン＆ChatGPT/Geminiで変わる高校生の学び方](/posts/ai-study-with-gemini-chatgpt-2025/)
-- [【Google Gemini】自分専用の「AI家庭教師」を作ろう！Gems活用術](/posts/how-to-make-ai-tutor-with-gems/)
-- [AI時代に一番必要な「質問力（プロンプト力）」を鍛える方法](/posts/questioning-skills-with-ai/)
