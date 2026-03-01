@@ -4,7 +4,7 @@ date = 2026-03-01T20:30:00+09:00
 draft = false
 categories = ["AI学習ガイド"]
 tags = ["生成AI", "受験勉強", "ChatGPT", "自宅学習", "勉強法", "数学", "ニュース"]
-image = "img/ai_math_tutor_2026.png"
+thumbnail = "img/ai_math_tutor_2026.png"
 description = "高校生の8割以上が受験勉強にAIを活用しているという2026年最新調査をもとに、特に効果が高いとされる「数学×AI」の最強の勉強法と、コピペを防ぐ実践的なプロンプト（指示語）の出し方を現役IT講師が解説します。"
 +++
 
