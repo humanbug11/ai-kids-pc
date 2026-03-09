@@ -111,5 +111,5 @@ AIに問題を投げる際、最後にこの一言を付け加えます。
 ※1：株式会社A.ver「【生成AIと受験勉強の実態調査2026】」（2026年1月23日 PR TIMES配信）
 
 <strong>【関連記事】こちらもおすすめ！</strong>
-- [あなただけのAI家庭教師！Gemini Gems（ジェム）で学習ボットを作る方法](/posts/how-to-make-ai-tutor-with-gems/)
-- [親の7割が知らない!? AI時代の「未来のキャリア」に本当に必要なスキル](/posts/future-careers-in-ai-era/)
+- [【話題】NotebookLMで子供と一緒にオリジナルPodcastを作ろう！音声AIの新しい学び方](/posts/notebooklm-podcast-with-kids/)
+- [【2025年】GIGAスクール構想 第2期とは？小学生のAI教育と家庭でできる準備](/posts/education-2025-giga-phase2/)
