@@ -112,5 +112,4 @@ AIに問題を投げる際、最後にこの一言を付け加えます。
 
 <strong>【関連記事】こちらもおすすめ！</strong>
 - [あなただけのAI家庭教師！Gemini Gems（ジェム）で学習ボットを作る方法](/posts/how-to-make-ai-tutor-with-gems/)
-- [【2026年最新版】Gemini for Education：小中学生のAI学習はどう変わる？](/)
 - [親の7割が知らない!? AI時代の「未来のキャリア」に本当に必要なスキル](/posts/future-careers-in-ai-era/)
