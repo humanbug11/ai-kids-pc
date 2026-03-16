@@ -1,7 +1,7 @@
 +++
 title = "新学期から使える！AI活用で「自学自習」が習慣になる子の育て方"
-date = 2026-03-23T10:00:00+09:00
-draft = true
+date = 2026-03-16T10:00:00+09:00
+draft = false
 categories = ["AI学習ガイド"]
 tags = ["自学自習", "勉強習慣", "Gemini", "ChatGPT", "NotebookLM", "小学生", "中学生", "家庭学習", "新学期"]
 thumbnail = "img/ai-self-study-habit-kids.png"
