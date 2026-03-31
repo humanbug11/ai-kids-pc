@@ -132,11 +132,13 @@ NotebookLMの<strong>「Audio Overview（音声概要）」機能</strong>を使
 
 ## 🎨 体験④：画像生成AIで「オリジナルキャラクター」を作ろう
 
-**使うツール**：[Adobe Firefly](https://firefly.adobe.com/)（無料プランあり）または Canva AI
+**使うツール**：[Google Gemini](https://gemini.google.com/)（無料・おすすめ）／[Adobe Firefly](https://firefly.adobe.com/)（無料プランあり）／ Canva AI
 
 ### やること
 
 <strong>「こんなキャラクターを描いて」とテキストで入力するだけで、AIがイラストを生成します。</strong>絵が苦手な子でも、頭の中のイメージを形にできます。
+
+まずは<strong>Google Gemini</strong>がおすすめです。Googleアカウントがあれば無料でそのまま使えて、日本語での指示がとても通りやすいです。より本格的なイラストを作りたい場合は Adobe Firefly や Canva AI も試してみてください。
 
 ### 入力例
 
