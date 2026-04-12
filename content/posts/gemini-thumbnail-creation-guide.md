@@ -230,6 +230,4 @@ YouTubeサムネイル向けの16:9横長構図。大きめのキャラクター
 
 ### あわせて読みたい
 
-- [【無料】Gemini 2.0で同じキャラクターの連続イラストが作れるようになった！](/posts/gemini-2-character-consistency/)
-- [【Gemini活用】「Storybook」なら一発！親子でAI絵本を作る一番簡単な方法](/posts/ai-picture-book-guide/)
 - [【実践】バイブコーディングとは？Google AI Studioで中学生がお絵かきアプリを作ってみた！](/posts/vibe-coding-google-ai-studio-drawing-app/)

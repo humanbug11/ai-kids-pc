@@ -322,4 +322,3 @@ AIに聞いた内容を言葉で説明できれば、それは「理解してい
 - [新学期から使える！AI活用で「自学自習」が習慣になる子の育て方](/posts/ai-self-study-habit-kids/)
 - [【2026年最新】数学の点数が上がる！高校生の3人に1人が実践するAI家庭教師術](/posts/ai-tutor-math-study-2026/)
 - [AIでアプリを「作れる人」と「作れない人」の決定的な差とは？](/posts/vibe-coding-mindset-difference/)
-- [ChatGPTとGeminiを使いこなす！英語学習にAIを取り入れる方法](/posts/english-learning-with-ai/)
