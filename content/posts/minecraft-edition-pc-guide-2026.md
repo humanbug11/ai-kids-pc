@@ -156,13 +156,15 @@ Microsoftが教育機関向けに開発した版で、<strong>科学・数学・
 - 参考価格：88,999円〜（税込）
 - 購入先：[価格.comで確認する](https://kakaku.com/item/K0001692412/)
 
-### ② Lenovo IdeaPad Slim 3 Gen 10（89,000円〜）
+### ② Lenovo IdeaPad Slim 170（89,000円〜）
 
-<strong>14型・1.39kgの軽量モデル。</strong>学校への持ち運びにも便利。CPUスコアも高く、統合版・教育版なら十分快適です。
+<strong>Ryzen 7搭載でコスパ抜群の15.6型モデル。</strong>Wi-Fi 6対応、バッテリー14時間駆動で家庭学習にも安心。統合版・教育版なら十分快適に動きます。
 
-- CPU：AMD Ryzen 5 7535HS
-- メモリ：16GB
-- ストレージ：512GB SSD
+- CPU：AMD Ryzen 7 5700U
+- メモリ：16GB DDR4-3200
+- ストレージ：512GB SSD（PCIe NVMe）
+- ディスプレイ：15.6型 FHD IPS（光沢なし）
+- 重量：1.6kg
 - 参考価格：89,000円〜（税込）
 - 購入先：[Amazonで確認する](https://www.amazon.co.jp/Lenovo-SSD512GB-Windows11-%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E9%A7%86%E5%8B%9514-0%E6%99%82%E9%96%93-82R400EYJP/dp/B0CJTB5G98?th=1)
 
