@@ -204,14 +204,25 @@ Microsoftが教育機関向けに開発した版で、<strong>科学・数学・
 
 ### 【ノート・入門】ドスパラ GALLERIA RL7C-R35-5N（134,780円〜）
 
-<strong>Java版入門として最安クラスのRTX搭載モデル。</strong>影MODなしの基本プレイからMOD入門まで対応。ドスパラ直販（144,980円）でも購入できます。
+<strong>Java版入門として最安クラスのRTX搭載モデル。</strong>影MODなしの基本プレイからMOD入門まで対応。
 
 - CPU：Intel Core i7-13620H
 - GPU：GeForce RTX 3050 Laptop GPU
 - メモリ：16GB
 - ストレージ：500GB SSD
 - 参考価格：134,780円〜（税込、価格.com最安）
-- 購入先：[価格.comで確認する](https://kakaku.com/item/K0001667279/) / [ドスパラ直販](https://www.dospara.co.jp/TC143/MC15968.html)
+- 購入先：[価格.comで確認する](https://kakaku.com/item/K0001667279/)
+
+### 【ノート・入門】ドスパラ GALLERIA RL7C-R35-5N Minecraft同梱（144,980円〜）
+
+<strong>Minecraft: Java & Bedrock Editionが同梱されたお得なセット。</strong>ドスパラ直販限定のMinecraft同梱キャンペーンで、ゲームを別途購入する手間なくすぐに遊び始められます。
+
+- CPU：Intel Core i7-13620H
+- GPU：GeForce RTX 3050 6GB Laptop GPU
+- メモリ：16GB DDR5
+- ストレージ：500GB SSD
+- 参考価格：144,980円〜（税込）
+- 購入先：[ドスパラ公式サイトで確認する](https://www.dospara.co.jp/TC143/MC15968.html)
 
 ### 【デスクトップ】マウスコンピューター NEXTGEAR JG-A5G60（199,800円〜）
 
