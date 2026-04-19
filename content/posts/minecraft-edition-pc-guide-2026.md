@@ -129,9 +129,12 @@ Microsoftが教育機関向けに開発した版で、<strong>科学・数学・
 
 ---
 
-## おすすめPC【12万円以内】統合版・教育版向け＋Java版入門
+## おすすめPC【12万円以内】統合版・教育版向け
 
-2026年現在、ノートPCの価格は全体的に上昇しており、<strong>統合版・教育版なら10万円前後のノートPCで十分</strong>快適に遊べます。またJava版の入門としてRTX 3050搭載のゲーミングノートも12万円以内に収まります。
+2026年現在、ノートPCの価格は全体的に上昇しています。<strong>統合版・教育版なら9〜12万円台のノートPCで十分</strong>快適に遊べます。いずれもRyzen 5以上・16GB・SSD 512GBを搭載した現行モデルです。
+
+> 💡 <strong>Java版入門（RTX 3050搭載）について</strong>
+> 2026年4月時点でRTX 3050搭載ノートの最安値は13万円台前半となっており、12万円以内での購入は難しい状況です。Java版入門向けは次のセクション（13万円以上）をご覧ください。
 
 最低限のスペックの目安（統合版・教育版）：
 - CPU：Intel Core i5 または AMD Ryzen 5 以上
@@ -139,40 +142,70 @@ Microsoftが教育機関向けに開発した版で、<strong>科学・数学・
 - ストレージ：256GB以上のSSD
 - GPU：内蔵グラフィックスでOK
 
-### ① HP 15-fc ベーシックモデル（94,800円〜）
+### ① Dell 15 Ryzen 5（88,999円〜）
 
-<strong>HPの信頼性とコスパを両立した定番モデル。</strong>統合版・教育版のプレイに十分なスペック。キャンペーン価格94,800円で購入できます（通常102,300円）。
+<strong>コスパ最強の入門モデル。</strong>Ryzen 5・16GB・512GB SSDを搭載しながら9万円を切る価格が魅力。統合版・教育版なら余裕で快適に動きます。
 
-- CPU：AMD Ryzen 3 7320U
-- メモリ：8GB
-- ストレージ：256GB SSD
-- 参考価格：94,800円〜（税込、キャンペーン価格）
-- 購入先：[楽天市場で購入する](https://item.rakuten.co.jp/gracefulcreations/pbjb02139eac9003/)
-
-### ②【ノート】Lenovo LOQ 15（117,810円〜）
-
-<strong>Java版の入門にちょうどいいゲーミングノート。</strong>RTX 3050搭載で、基本的なMODやカスタマイズには対応。持ち運べるゲーミング環境を12万円以内で揃えたい方に。
-
-- CPU：Intel Core i7-13650HX
-- GPU：GeForce RTX 3050
-- メモリ：16GB DDR5
+- CPU：AMD Ryzen 5 7530U
+- メモリ：16GB
 - ストレージ：512GB SSD
-- 参考価格：117,810円〜（税込）
-- 購入先：[Lenovo公式サイトで確認する](https://www.lenovo.com/jp/ja/c/gaming-laptops/) または Amazon.co.jp で「Lenovo LOQ 15」で検索
+- 参考価格：88,999円〜（税込）
+- 購入先：[価格.comで確認する](https://kakaku.com/item/K0001692412/)
 
-> ⚠️ <strong>注意</strong>：①のPCはJava版のMOD・影MODには向きません。影MODを本格的に使いたい場合は次のゲーミングPCをご検討ください。
+### ② Lenovo IdeaPad Slim 3 Gen 10（89,870円〜）
+
+<strong>14型・1.39kgの軽量モデル。</strong>学校への持ち運びにも便利。CPUスコアも高く、統合版・教育版なら十分快適です。
+
+- CPU：AMD Ryzen 5 7535HS
+- メモリ：16GB
+- ストレージ：512GB SSD
+- 参考価格：89,870円〜（税込）
+- 購入先：[価格.comで確認する](https://kakaku.com/item/K0001738447/)
+
+### ③ HP 15 Ryzen 5 7530U（99,800円〜）
+
+<strong>10万円以内でHP品質を確保。</strong>15.6型フルHD IPSの見やすい画面で、ゲームも家庭学習も快適です。
+
+- CPU：AMD Ryzen 5 7530U
+- メモリ：16GB
+- ストレージ：512GB SSD
+- 参考価格：99,800円〜（税込）
+- 購入先：[価格.comで確認する](https://kakaku.com/item/K0001691906/)
+
+### ④ NEC LAVIE Direct N15 Slim（112,900円〜）
+
+<strong>Office付属・国内メーカーの安心感。</strong>Office Home&Business 2024付きでこの価格はお得。家族共用のメインPCとしても使いやすいモデルです。
+
+- CPU：AMD Ryzen 5
+- メモリ：16GB
+- ストレージ：512GB SSD
+- 参考価格：112,900円〜（税込、Microsoft Office Home&Business 2024付属）
+- 購入先：[価格.comで確認する](https://kakaku.com/item/K0001689415/)
+
+> ⚠️ <strong>注意</strong>：これらのPCはJava版のMOD・影MODには向きません。影MODを本格的に使いたい場合は次のゲーミングPCをご検討ください。
 
 ---
 
 ## おすすめPC【13万円以上】Java版・影MOD向け
 
-<strong>影MODを快適に動かすには、RTX 5060以上を搭載したゲーミングPCが必要です。</strong>
+<strong>Java版でMODや影MODを楽しむには、RTX 3050以上の外部GPUが必要です。</strong>2026年4月時点の最安クラスは13万円台前半から。影MODを本格的に使うならRTX 5060以上をおすすめします。
 
 最低限のスペックの目安：
 - CPU：Intel Core i5 / AMD Ryzen 5 以上
 - メモリ：16GB以上
-- GPU：GeForce RTX 5060 以上
-- ストレージ：1TB SSD
+- GPU：GeForce RTX 3050 以上（影MODはRTX 5060以上を推奨）
+- ストレージ：512GB SSD以上
+
+### 【ノート・入門】ドスパラ GALLERIA RL7C-R35-5N（134,780円〜）
+
+<strong>Java版入門として最安クラスのRTX搭載モデル。</strong>影MODなしの基本プレイからMOD入門まで対応。ドスパラ直販（144,980円）でも購入できます。
+
+- CPU：Intel Core i7-13620H
+- GPU：GeForce RTX 3050 Laptop GPU
+- メモリ：16GB
+- ストレージ：500GB SSD
+- 参考価格：134,780円〜（税込、価格.com最安）
+- 購入先：[価格.comで確認する](https://kakaku.com/item/K0001667279/) / [ドスパラ直販](https://www.dospara.co.jp/TC143/MC15968.html)
 
 ### 【デスクトップ】マウスコンピューター NEXTGEAR JG-A5G60（199,800円〜）
 
@@ -233,10 +266,10 @@ Microsoftが教育機関向けに開発した版で、<strong>科学・数学・
 
 | 用途 | 予算の目安 | おすすめPC |
 |---|---|---|
-| 統合版・教育版（普通のノートPC） | <strong>7〜10万円台</strong> | HP 15-fc |
-| Java版・基本MOD（ゲーミングノート入門） | <strong>12万円以内</strong> | Lenovo LOQ 15 |
-| Java版・影MOD（ゲーミングデスクトップ） | <strong>13〜20万円</strong> | HP Victus 15、マウスコンピューター NEXTGEAR |
-| Java版・影MOD・複数ゲーム（ゲーミングノート） | <strong>20〜21万円</strong> | ドスパラ GALLERIA、ASUS TUF Gaming |
+| 統合版・教育版（普通のノートPC） | <strong>9〜12万円台</strong> | Dell 15、Lenovo IdeaPad Slim 3、HP 15、NEC LAVIE |
+| Java版・MOD入門（ゲーミングノート） | <strong>13〜14万円台</strong> | ドスパラ GALLERIA RL7C-R35-5N |
+| Java版・影MOD（ゲーミングデスクトップ） | <strong>15〜20万円</strong> | HP Victus 15、マウスコンピューター NEXTGEAR |
+| Java版・影MOD・複数ゲーム（ゲーミングノート） | <strong>20〜21万円</strong> | ドスパラ GALLERIA RTX 5060、ASUS TUF Gaming |
 
 ※価格は2026年4月時点。セールや在庫状況により変動します。
 
