@@ -228,8 +228,8 @@ Microsoftが教育機関向けに開発した版で、<strong>科学・数学・
 
 <strong>影MODも余裕のミドルクラス。</strong>RTX 5060搭載で、マインクラフトの影MODはもちろん、他の人気ゲームも高フレームレートで遊べます。
 
-- CPU：AMD Ryzen 5 / Intel Core i5
-- GPU：GeForce RTX 5060
+- CPU：AMD Ryzen™ 5 8645HS 6 コア/12 スレッド
+- GPU：NVIDIA® GeForce RTX 4050 Laptop
 - メモリ：16GB
 - ストレージ：512GB SSD
 - 参考価格：156,800円〜（税込）
@@ -239,21 +239,21 @@ Microsoftが教育機関向けに開発した版で、<strong>科学・数学・
 
 <strong>コスパ最高の入門ゲーミングデスクトップ。</strong>マインクラフトに最適化されており、影MODも余裕で動きます。国内メーカーの3年保証・24時間365日サポートも安心です。（デスクトップPCは、モニターは別途購入が必要です。）
 
-- CPU：AMD Ryzen 5 4500
-- GPU：GeForce RTX 5060
+- CPU：AMD Ryzen™ 5 4500
+- GPU：NVIDIA® GeForce RTX™ 5060
 - メモリ：16GB DDR4
 - ストレージ：1TB M.2 SSD
 - 参考価格：199,800円〜（税込）
 - 購入先：[マウスコンピューター公式サイト](https://www.mouse-jp.co.jp/store/g/gngear-jga5g60b5badw101dec/)
 
 
-### 【ノート】ASUS TUF Gaming A15（209,800円〜）
+### 【ノート】ASUS TUF Gaming A15（279,800円〜）
 
 <strong>頑丈さと性能を両立したロングセラー。</strong>落下・水滴に強い軍用規格（MIL-SPEC）準拠で、子供が使っても安心の耐久性が魅力です。
 
-- CPU：AMD Ryzen 7
-- GPU：GeForce RTX 5060
-- メモリ：16GB
+- CPU：AMD Ryzen™ 9 8940HX
+- GPU：NVIDIA® GeForce RTX™ 5060 Laptop GPU (NVIDIA® Optimus™ Technology対応) (最大115W)
+- メモリ：32GB
 - ストレージ：512GB SSD
 - 参考価格：279,800円〜（税込）
 - 購入先：[ASUS公式ストアで確認する](https://store.asus.com/jp/asus-tuf-gaming-a16-fa608.html)
