@@ -246,16 +246,6 @@ Microsoftが教育機関向けに開発した版で、<strong>科学・数学・
 - 参考価格：156,800円〜（税込）
 - 購入先：[HP公式サイトで確認する](https://jp.ext.hp.com/gaming/personal/victus_15_fb/)
 
-### 【ノート】ドスパラ GALLERIA RL7C-R35-5N（144,980円〜）
-
-<strong>Minecraft同梱のゲーミングノート。</strong>Core i7-13620H搭載、ドスパラはMinecraft同梱キャンペーンを実施しており、実質お得に購入できます。
-
-- GPU：GeForce RTX 3050 6GB Laptop GPU
-- メモリ：16GB DDR5
-- ストレージ：500GB SSD
-- 参考価格：144,980円〜（税込）
-- 購入先：[ドスパラ公式サイトで確認する](https://www.dospara.co.jp/TC143/MC15968.html)
-
 ### 【ノート】ASUS TUF Gaming A15（209,800円〜）
 
 <strong>頑丈さと性能を両立したロングセラー。</strong>落下・水滴に強い軍用規格（MIL-SPEC）準拠で、子供が使っても安心の耐久性が魅力です。
