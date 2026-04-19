@@ -224,6 +224,17 @@ Microsoftが教育機関向けに開発した版で、<strong>科学・数学・
 - 参考価格：144,980円〜（税込）
 - 購入先：[ドスパラ公式サイトで確認する](https://www.dospara.co.jp/TC143/MC15968.html)
 
+### 【ノート】HP Victus 15 RTX 5060（156,800円〜）
+
+<strong>影MODも余裕のミドルクラス。</strong>RTX 5060搭載で、マインクラフトの影MODはもちろん、他の人気ゲームも高フレームレートで遊べます。
+
+- CPU：AMD Ryzen 5 / Intel Core i5
+- GPU：GeForce RTX 5060
+- メモリ：16GB
+- ストレージ：512GB SSD
+- 参考価格：156,800円〜（税込）
+- 購入先：[HP公式サイトで確認する](https://jp.ext.hp.com/gaming/personal/victus_15_fb/)
+
 ### 【デスクトップ】マウスコンピューター NEXTGEAR JG-A5G60（199,800円〜）
 
 <strong>コスパ最高の入門ゲーミングデスクトップ。</strong>マインクラフトに最適化されており、影MODも余裕で動きます。国内メーカーの3年保証・24時間365日サポートも安心です。（デスクトップPCは、モニターは別途購入が必要です。）
@@ -235,16 +246,6 @@ Microsoftが教育機関向けに開発した版で、<strong>科学・数学・
 - 参考価格：199,800円〜（税込）
 - 購入先：[マウスコンピューター公式サイト](https://www.mouse-jp.co.jp/store/g/gngear-jga5g60b5badw101dec/)
 
-### 【ノート】HP Victus 15 RTX 5060（156,800円〜）
-
-<strong>影MODも余裕のミドルクラス。</strong>RTX 5060搭載で、マインクラフトの影MODはもちろん、他の人気ゲームも高フレームレートで遊べます。
-
-- CPU：AMD Ryzen 5 / Intel Core i5
-- GPU：GeForce RTX 5060
-- メモリ：16GB
-- ストレージ：512GB SSD
-- 参考価格：156,800円〜（税込）
-- 購入先：[HP公式サイトで確認する](https://jp.ext.hp.com/gaming/personal/victus_15_fb/)
 
 ### 【ノート】ASUS TUF Gaming A15（209,800円〜）
 
