@@ -252,7 +252,7 @@ Microsoftが教育機関向けに開発した版で、<strong>科学・数学・
 - 購入先：[マウスコンピューター公式サイト](https://www.mouse-jp.co.jp/store/g/gngear-jga5g60b5badw101dec/)
 
 
-### 【ノート】ASUS TUF Gaming A15（279,800円〜）
+### 【ノート】ASUS TUF Gaming A16 FA608PM（279,800円〜）
 
 <strong>頑丈さと性能を両立したロングセラー。</strong>落下・水滴に強い軍用規格（MIL-SPEC）準拠で、子供が使っても安心の耐久性が魅力です。
 
