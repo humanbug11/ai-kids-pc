@@ -182,7 +182,7 @@ APIキーは、いわば<strong>「お金や個人情報につながる鍵」</s
 2. <strong>「失敗しても怖くない」</strong>
    AIが何度でも修正してくれるので、「とりあえずやってみる」マインドが育ちました。
 3. <strong>大人レベルの作品が手の届く範囲に</strong>
-   「中学生だから無理」を、AIが取り払ってくれました。最新AIを無料で使えて返答もリアルタイムですごい。を体験。
+   「中学生だから無理」を、AIが取り払ってくれました。<strong>「最新AIを無料で使えて、返答もリアルタイム！」というすごさを、生徒自身が体験できました。</strong>
 
 ### 課題に感じたこと
 
@@ -209,7 +209,7 @@ APIキーは、いわば<strong>「お金や個人情報につながる鍵」</s
 
 ### 🎬 ちょっとだけ未来をお見せします
 
-ネタバレ気味ですが、最終的に<strong>「おに丸」がこんなふうに会話してくれる</strong>ようになります。シリーズの最終回までの楽しみに、ぜひフォローしてください！
+ネタバレ気味ですが、現在は<strong>「おに丸」がこんなふうに会話してくれます</strong>。まだ完成はしていないので、シリーズの最終回まで<strong>ぜひお楽しみに</strong>！フォローもよろしくお願いします。
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
   <iframe src="https://www.youtube.com/embed/KiotpDs8Ca0" title="国東観光AIアバター「おに丸」会話デモ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
