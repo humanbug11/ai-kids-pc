@@ -53,7 +53,7 @@ description = "Anthropicの「Claude Code」を使って、マイクラ統合版
 
 > 📦 <strong>エンドラ魔改造アドオンは現在調整中です</strong>
 > 公開はもう少しお待ちください！代わりに、同じくClaude Codeで作った<strong>「100DAYS」アドオン</strong>を、マイクラ統合版コミュニティの定番投稿サイト「<strong>クラフターズコロニー</strong>」にアップしています。こちらもぜひ遊んでみてください！
-> [クラフターズコロニーのきっちゃん先生ページ](https://minecraft-mcworld.com/author/490d65f222ab180b8972bc6cd393db63a2dface4/)
+> [クラフターズコロニー](https://minecraft-mcworld.com/author/490d65f222ab180b8972bc6cd393db63a2dface4/)
 
 ---
 
@@ -233,7 +233,7 @@ Claude Code × マインクラフト統合版アドオン。これは<strong>子
 教育者の方も、子供と一緒にアドオン制作にチャレンジしてみてはいかがでしょうか？まずは私がClaude Codeで作った<strong>「100DAYS」アドオン</strong>を、ぜひ遊んでみてください！エンドラ魔改造アドオンも公開準備が整い次第アップ予定です。
 
 > 🎮 <strong>遊んでみたい方はこちら</strong>
-> [クラフターズコロニーのきっちゃん先生ページ](https://minecraft-mcworld.com/author/490d65f222ab180b8972bc6cd393db63a2dface4/)
+> [クラフターズコロニー](https://minecraft-mcworld.com/author/490d65f222ab180b8972bc6cd393db63a2dface4/)
 
 ---
 
