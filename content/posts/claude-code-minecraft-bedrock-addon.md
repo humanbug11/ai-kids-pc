@@ -200,7 +200,7 @@ ChatGPTやGeminiと違って、Claude Codeは<strong>「実際にファイルを
 1. <strong>リソースパック（テクスチャ・3Dモデル）は別途必要</strong>
 2. <strong>マイクラのバージョンアップで仕様が変わる</strong>ことがある
 3. <strong>複雑すぎる設計はバグの温床</strong> — シンプルさが鍵
-4. <strong>Claude Codeは有料サブスクリプション</strong>が必要（無料お試しあり）
+4. <strong>Claude Codeは有料</strong>（Claude Pro/Maxプラン、またはAPIキーの従量課金）
 
 ---
 
