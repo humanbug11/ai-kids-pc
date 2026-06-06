@@ -20,6 +20,21 @@ description = "Anthropicの「Claude Code」を使って、マイクラ統合版
 
 ---
 
+## そもそもマイクラの「アドオン」って何？
+
+<strong>マイクラの中身を改造・拡張するための追加データ</strong>のことを、統合版（Bedrock）では<strong>「アドオン」</strong>と呼びます。
+
+- 新しいモンスター・アイテム・ブロックを追加する
+- 既存のMOBの強さや行動を変える
+- 独自ルールのミニゲームを作る
+
+…といったことが、アドオンを入れるだけで可能になります。Switch・スマホ・タブレット・Xbox・PCの統合版マイクラなら、<strong>誰でも簡単にインストール</strong>できます。
+
+> 💡 <strong>保護者向けポイント</strong>
+> アドオンはマイクラ公式が認めた仕組みです。ただし、配布元には注意が必要。今回紹介する<strong>クラフターズコロニー</strong>のような信頼できる日本のコミュニティサイトから入手するのが安心です。
+
+---
+
 ## 今回作ったアドオンの概要
 
 ### エンダードラゴン魔改造アドオン
@@ -45,7 +60,9 @@ description = "Anthropicの「Claude Code」を使って、マイクラ統合版
 
 ### Anthropicの「ターミナルで動くAIエージェント」
 
-[Claude Code](https://claude.com/claude-code)は、Anthropicが提供する<strong>コマンドラインで動くAIエージェント</strong>。コードを書く・修正する・実行する・テストするを、<strong>ターミナル上で対話しながら全部やってくれます</strong>。
+[Claude Code](https://claude.com/claude-code)は、Anthropicが提供する<strong>AIエージェント</strong>。コードを書く・修正する・実行する・テストするを、<strong>対話しながら全部やってくれます</strong>。
+
+コマンドライン（ターミナル）からも使えますが、<strong>今回はVS Code（Visual Studio Code）の拡張機能として導入</strong>しました。これにより、Claude Codeが<strong>プロジェクトのフォルダ構造やコード全体を理解した上で</strong>作業してくれるので、複数ファイルにまたがるアドオン制作にぴったりの環境になります。
 
 ChatGPTやGeminiと違って、Claude Codeは<strong>「実際にファイルを作って、編集して、動かせる」</strong>のが最大の特徴。
 
