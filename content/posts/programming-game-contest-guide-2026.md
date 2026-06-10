@@ -51,7 +51,7 @@ Scratchやマイクラ、Roblox、ゲーム制作、ロボット、AIなど<stro
 ### おおいたキッズプログラミングコンテスト ⭐大分県限定
 - <strong>対象</strong>：<strong>大分県在住の小学生</strong>
 - <strong>内容</strong>：ScratchなどのオリジナルPC作品。優勝者はTech Kids Grand Prixへ推薦
-- <strong>締切</strong>：2026年度は夏頃エントリー開始予定（2025年度は9月末締切）
+- <strong>締切</strong>：2026年度は夏頃エントリー開始予定？（2025年度は9月末締切）
 - <strong>費用</strong>：無料
 - <strong>主催</strong>：大分朝日放送（OAB）／協賛：株式会社OEC
 - 🔗 [https://techkidsschool.jp/grandprix/regions/oita/](https://techkidsschool.jp/grandprix/regions/oita/)
@@ -216,11 +216,15 @@ Scratchやマイクラ、Roblox、ゲーム制作、ロボット、AIなど<stro
 - <strong>応募方法</strong>：オンライン
 - 🔗 [https://ai-ueo.org/u18-ai-championship/](https://ai-ueo.org/u18-ai-championship/)
 
-### AI AD AWARD（中高生クリエイティブチャレンジ）
-- <strong>対象</strong>：中学生・高校生・高専3年以下
+### AI AD AWARD 2025（中高生クリエイティブチャレンジ）
+- <strong>対象</strong>：日本国籍の中学生・高校生・高専3年以下（個人応募のみ）
 - <strong>内容</strong>：AIを活用した広告クリエイティブ作品。受賞作は渋谷の大型ビジョンで放映
+- <strong>締切</strong>：2026年2月22日（次回開催は要確認）
 - <strong>費用</strong>：無料
-- <strong>応募方法</strong>：オンライン（次回開催要確認）
+- <strong>応募方法</strong>：完全オンライン（作品＋簡単な説明文を提出。一次審査のみでプレゼン不要）
+- <strong>主催</strong>：株式会社RePlayce
+- 🔗 公式サイト: [https://sites.google.com/replayce.co.jp/ai-ad-award-2025/](https://sites.google.com/replayce.co.jp/ai-ad-award-2025/)
+- 🔗 募集要項詳細: [Koubo掲載ページ](https://koubo.jp/contest/278100)
 
 ---
 
