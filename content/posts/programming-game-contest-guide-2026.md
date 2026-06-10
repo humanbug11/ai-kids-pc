@@ -28,7 +28,6 @@ Scratchやマイクラ、Roblox、ゲーム制作、ロボット、AIなど<stro
 |---|---|---|
 | ゼロワングランドスラム WEB予選 | 〜2026年6月14日 | 小学生 |
 | WRO福岡予選（エキスパート）申込 | 〜2026年6月29日 | 小中高生 |
-| デジタネ AI＆プログラミングコンテスト | 〜2026年8月25日 | 18歳以下 |
 | <strong>FULMA Creator Awards 2026</strong> | <strong>〜2026年8月31日 13:00</strong> | <strong>小中学生</strong> |
 | Tech Kids Grand Prix 2026 | 2026年7月1日〜9月30日 | 小学生 |
 | U-22プログラミング・コンテスト | 2026年7月1日〜8月31日 | 22歳以下 |
@@ -104,13 +103,6 @@ Scratchやマイクラ、Roblox、ゲーム制作、ロボット、AIなど<stro
 - <strong>費用</strong>：無料
 - <strong>応募方法</strong>：オンライン
 - 🔗 [https://creatorslab.kodansha.co.jp/](https://creatorslab.kodansha.co.jp/)
-
-### デジタネ AI＆プログラミングコンテスト 2026
-- <strong>対象</strong>：デジタネ受講者（18歳以下）
-- <strong>内容</strong>：マインクラフトやRobloxを活用した作品
-- <strong>締切</strong>：2026年8月25日
-- <strong>費用</strong>：デジタネ受講が条件
-- <strong>応募方法</strong>：オンライン
 
 ---
 
