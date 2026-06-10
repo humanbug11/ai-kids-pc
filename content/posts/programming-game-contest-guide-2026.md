@@ -1,7 +1,7 @@
 +++
 title = "【2026年版】大分県からでも応募できる！小中高生・大学生向けプログラミング＆ゲーム制作コンテスト完全ガイド"
 date = 2026-06-10T10:00:00+09:00
-draft = true
+draft = false
 categories = ["おすすめ・比較"]
 tags = ["コンテスト", "プログラミング", "ゲーム制作", "動画制作", "Scratch", "マインクラフト", "Roblox", "AI", "FULMA", "大分", "小学生", "中学生", "高校生", "大学生", "JOI", "U-22"]
 thumbnail = "img/programming-game-contest-guide-2026.png"
