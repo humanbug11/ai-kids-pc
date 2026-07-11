@@ -1,3 +1,5 @@
+@charset "UTF-8";
+
 /* ===========================================
    GameMakers.jp風デザイン - カスタムCSS
    ai-kids-pc サイト用
@@ -827,7 +829,7 @@ b {
 }
 
 /* ===========================================
-   �E�F���J�����b�Z�[�W�{�b�N�X�i�g�b�v�y�[�W�p�j
+   ウェルカムメッセージボックス（トップページ用）
    =========================================== */
 .welcome-box {
     background: #fff;
@@ -895,12 +897,12 @@ b {
     opacity: 0.9;
 }
 
-/* �ʃ{�^���F */
+/* 個別ボタンの色分け */
 .cta-btn.guide { background: #fff3e0; color: #e65100 !important; }
 .cta-btn.parent { background: #e3f2fd; color: #1565c0 !important; }
 .cta-btn.recommend { background: #f3e5f5; color: #7b1fa2 !important; }
 
-/* �X�}�z�Ή� */
+/* スマホ対応 */
 @media (max-width: 600px) {
     .welcome-box {
         padding: 20px;
