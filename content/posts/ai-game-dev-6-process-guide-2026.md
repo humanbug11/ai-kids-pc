@@ -166,7 +166,7 @@ AIの使い方は、<strong>どの制作環境を選ぶかで変わります</st
 |---|---|---|
 | ①企画・アイデア出し | ChatGPT・Gemini・Claude | 丸投げせず「壁打ち」で。最終判断は自分で |
 | ②シナリオ・テキスト生成 | ChatGPT・Claude | 叩き台を自分の言葉・テンションに修正 |
-| ③プログラミング補助 | Scratchは壁打ち／Unity・UE5はClaude Code／ブラウザはGoogle AI Studio・Manus | 1機能ずつ実装→確認。全部盛りは禁物 |
+| ③プログラミング補助 | Scratchは壁打ち／Unity・UE5はClaudeやCodex／ブラウザはGoogle AI Studio・Manus | 1機能ずつ実装→確認。全部盛りは禁物 |
 | ④画像・キャラ素材生成 | ChatGPT・Gemini | コンテストのAI利用ルールを要確認 |
 | ⑤BGM・効果音作成 | Suno／フリー素材サイト併用 | 時間配分でAIと既存素材を使い分け |
 | ⑥デバッグ・改善アドバイス | Claude Code・ChatGPT・Gemini | エラーはコピペしてそのまま相談 |
