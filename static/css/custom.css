@@ -160,6 +160,55 @@
     overflow: hidden;
 }
 
+/* ã‚µãƒ ãƒã‚¤ãƒ«ç”»åƒãŒç„¡ã„è¨˜äº‹ç”¨ã®ãƒ—ãƒ¬ãƒ¼ã‚¹ãƒ›ãƒ«ãƒ€ãƒ¼ï¼ˆã‚«ãƒ†ã‚´ãƒªåã‚’è¡¨ç¤ºï¼‰ */
+.thumbnail--placeholder {
+    aspect-ratio: 16 / 9;
+    width: 100%;
+    background: linear-gradient(135deg, var(--accent-teal) 0%, var(--accent-teal-dark) 100%);
+}
+
+.thumbnail--placeholder .thumbnail__link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    min-height: 120px;
+}
+
+.thumbnail__placeholder-text {
+    color: #fff;
+    font-weight: 700;
+    font-size: 1.05rem;
+    letter-spacing: 0.5px;
+    text-align: center;
+    padding: 0 16px;
+}
+
+.thumbnail--placeholder-news {
+    background: linear-gradient(135deg, var(--accent-teal) 0%, var(--accent-teal-dark) 100%);
+}
+
+.thumbnail--placeholder-report {
+    background: linear-gradient(135deg, #FF9800 0%, #E65100 100%);
+}
+
+.thumbnail--placeholder-family {
+    background: linear-gradient(135deg, #7E57C2 0%, #5E35B1 100%);
+}
+
+.thumbnail--placeholder-recommend {
+    background: linear-gradient(135deg, #EF5350 0%, #C62828 100%);
+}
+
+.thumbnail--placeholder-learning {
+    background: linear-gradient(135deg, #42A5F5 0%, #1565C0 100%);
+}
+
+.thumbnail--placeholder-default {
+    background: linear-gradient(135deg, #90A4AE 0%, #607D8B 100%);
+}
+
 .list__category-tag {
     position: absolute;
     top: 12px;
@@ -778,7 +827,7 @@ b {
 }
 
 /* ===========================================
-   ƒEƒFƒ‹ƒJƒ€ƒƒbƒZ[ƒWƒ{ƒbƒNƒXiƒgƒbƒvƒy[ƒW—pj
+   ï¿½Eï¿½Fï¿½ï¿½ï¿½Jï¿½ï¿½ï¿½ï¿½ï¿½bï¿½Zï¿½[ï¿½Wï¿½{ï¿½bï¿½Nï¿½Xï¿½iï¿½gï¿½bï¿½vï¿½yï¿½[ï¿½Wï¿½pï¿½j
    =========================================== */
 .welcome-box {
     background: #fff;
@@ -846,12 +895,12 @@ b {
     opacity: 0.9;
 }
 
-/* ŒÂ•Êƒ{ƒ^ƒ“F */
+/* ï¿½Â•Êƒ{ï¿½^ï¿½ï¿½ï¿½F */
 .cta-btn.guide { background: #fff3e0; color: #e65100 !important; }
 .cta-btn.parent { background: #e3f2fd; color: #1565c0 !important; }
 .cta-btn.recommend { background: #f3e5f5; color: #7b1fa2 !important; }
 
-/* ƒXƒ}ƒz‘Î‰ */
+/* ï¿½Xï¿½}ï¿½zï¿½Î‰ï¿½ */
 @media (max-width: 600px) {
     .welcome-box {
         padding: 20px;

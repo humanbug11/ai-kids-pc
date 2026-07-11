@@ -1,7 +1,8 @@
-{{- if $thumbnail := .page.Params.thumbnail }}
-	{{- $class := .class }}
-	{{- $visibility := .page.Site.Params.thumbnail.visibility | default (slice "list" "post") }}
+{{- $thumbnail := .page.Params.thumbnail }}
+{{- $class := .class }}
+{{- $visibility := .page.Site.Params.thumbnail.visibility | default (slice "list" "post") }}
 
+{{- if $thumbnail }}
 	{{- $valueType := printf "%T" $thumbnail -}}
 	{{- $isMap := in $valueType "map" -}}
 	{{- if $isMap }}
@@ -18,7 +19,7 @@
 		{{ if and (eq $class "list") .page.Params.categories }}
 			{{ $category := index .page.Params.categories 0 }}
 			{{ $badgeClass := "category-badge" }}
-			{{ if eq $category "ニュース" }}
+			{{ if or (eq $category "ニュース") (eq $category "教育ニュース") }}
 				{{ $badgeClass = "category-badge category-badge--news" }}
 			{{ else if eq $category "体験レポート" }}
 				{{ $badgeClass = "category-badge category-badge--report" }}
@@ -33,4 +34,26 @@
 		{{ end }}
 	</figure>
 	{{- end }}
+
+{{- else if and (eq $class "list") (in $visibility $class) }}
+	{{/* サムネイル画像が無い記事は、カテゴリ名を表示するプレースホルダーを表示する */}}
+	{{- $category := "" }}
+	{{- with .page.Params.categories }}{{ $category = index . 0 }}{{ end }}
+	{{- $placeholderClass := "thumbnail--placeholder-default" }}
+	{{- if or (eq $category "ニュース") (eq $category "教育ニュース") }}
+		{{ $placeholderClass = "thumbnail--placeholder-news" }}
+	{{- else if eq $category "体験レポート" }}
+		{{ $placeholderClass = "thumbnail--placeholder-report" }}
+	{{- else if eq $category "親子で考える" }}
+		{{ $placeholderClass = "thumbnail--placeholder-family" }}
+	{{- else if eq $category "おすすめ・比較" }}
+		{{ $placeholderClass = "thumbnail--placeholder-recommend" }}
+	{{- else if eq $category "AI学習ガイド" }}
+		{{ $placeholderClass = "thumbnail--placeholder-learning" }}
+	{{- end }}
+	<figure class="list__thumbnail thumbnail thumbnail--placeholder {{ $placeholderClass }}">
+		<a class="thumbnail__link" href="{{ .page.RelPermalink }}">
+			<span class="thumbnail__placeholder-text">{{ $category }}</span>
+		</a>
+	</figure>
 {{- end }}
