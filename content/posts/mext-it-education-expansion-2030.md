@@ -123,6 +123,7 @@ description = "文部科学省が2026年7月8日の中教審部会で示した�
 
 ### あわせて読みたい
 
-- [【保護者向け】AI時代の子どもの情報リテラシー、何から始めるべき？](/posts/ai-guideline-for-parents-2024/)
+- [【実践】自由研究、AIは「答え」じゃなく「相棒」。Gemini Notebookで『宇宙ゴミ回収ゲーム』ができるまで](/posts/jiyu-kenkyu-ai-guide-2026/)
+- [【2026年版】Gemini for Educationとは？学校のAIが変わる！保護者が知っておきたい無料AI学習ツールの全貌](/posts/gemini-for-education-2026/)
 - [夏休み！個人×AI爆速ゲーム開発 6工程攻略ガイド【2026年版】](/posts/ai-game-dev-6-process-guide-2026/)
 - [【実践】バイブコーディングとは？Google AI Studioで中学生がお絵かきアプリを作ってみた！](/posts/vibe-coding-google-ai-studio-drawing-app/)
