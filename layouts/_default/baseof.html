@@ -10,6 +10,12 @@
     <script>(function (d, e) { d[e] = d[e].replace("no-js", "js"); })(document.documentElement, "className");</script>
     <meta name="description"
         content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.Description }}{{ end }}">
+    {{/* タグページは1記事しかないものが大半で、内容の薄いアーカイブページになるため
+         検索結果には載せない。リンクはたどらせるので記事の評価は落とさない。
+         カテゴリーは記事のまとまりとして機能しているので対象外。 */}}
+    {{- if and (eq .Type "tags") (or (eq .Kind "taxonomy") (eq .Kind "term")) }}
+    <meta name="robots" content="noindex, follow">
+    {{- end }}
     {{- if .Site.Params.opengraph }}
     {{ template "_internal/opengraph.html" . }}
     {{- end }}
