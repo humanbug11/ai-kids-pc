@@ -266,7 +266,13 @@ AIが間違えることを、隠すのではなく<strong>教材にしてしま�
 
 ### あわせて読みたい
 
-- [【速報】文科省、小中の情報教育を大幅拡充へ｜2030年度から「情報の領域」「情報・技術科」新設](/posts/mext-it-education-expansion-2030/)
+<strong>▼まずはこちらから：今回の話の「前編」です</strong>
+
+- <strong>[【速報】文科省、小中の情報教育を大幅拡充へ｜2030年度から「情報の領域」「情報・技術科」新設](/posts/mext-it-education-expansion-2030/)</strong>
+  <br>今回ご紹介したサイトが作られるきっかけになった、<strong>新教科「情報・技術科」そのもの</strong>の解説です。授業時数や、なぜ今拡充するのかまで詳しくまとめています。
+
+<strong>▼あわせて読みたい</strong>
+
 - [【2025年決定】日本政府の「AI基本計画」を徹底解説！子供たちの未来はどう変わる？](/posts/japan-ai-basic-plan-2025/)
 - [【2026年版】Gemini for Educationとは？学校のAIが変わる！保護者が知っておきたい無料AI学習ツールの全貌](/posts/gemini-for-education-2026/)
 - [【保護者必読】ChatGPTは13歳から！主要AI5社の年齢制限と子供に使わせる前に知っておくべきこと](/posts/ai-age-restrictions-guide/)
