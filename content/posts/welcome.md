@@ -1,7 +1,7 @@
 ﻿+++
 title = "AI教育ブログへようこそ！"
 date = 2025-06-01
-draft = false
+draft = true
 categories = ["ニュース"]
 tags = ["お知らせ", "サイトマップ"]
 thumbnail = "img/welcome.png"
