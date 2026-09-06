@@ -1,8 +1,9 @@
 +++
 title = "【AI導入の落とし穴】4つのAIを契約していても仕事は止まる｜リスク分散と「主権」の話"
 date = 2026-09-06T10:00:00+09:00
-draft = true
+draft = false
 categories = ["体験レポート"]
+thumbnail = "img/samune_AI導入の落とし穴.png"
 tags = ["AI導入", "主権", "リスク分散", "ローカルLLM", "Ollama", "Qwen", "業務効率化", "AI活用"]
 description = "ChatGPT・Gemini・Claude・Copilotの4つを使っていても、利用量の上限で仕事が止まりました。複数契約していれば安心、ではありません。AIをビジネスに組み込むときに見落とされがちな「1つ頼み」のリスクと、道具は借りても判断は手放さない「主権」という考え方を、解決策として導入したローカルLLM（Ollama＋Qwen3.6）まで、現役IT講師が実体験から解説します。"
 +++
