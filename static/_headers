@@ -1,0 +1,15 @@
+# タグ関連のページは、記事1本しかない一覧が大半で中身が本文と重複する。
+# HTML・エイリアス・フィードのどれであっても検索結果には載せない。
+# follow なので、そこから記事へのリンクはたどられる。
+/tags/*
+  X-Robots-Tag: noindex, follow
+
+# サイト全体のフィードも検索結果には不要。
+/index.xml
+  X-Robots-Tag: noindex, follow
+
+/posts/index.xml
+  X-Robots-Tag: noindex, follow
+
+/index.json
+  X-Robots-Tag: noindex, follow

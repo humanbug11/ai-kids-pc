@@ -47,8 +47,16 @@ googleAnalytics = "G-ZSFSHPHVBF"
   single = "right"
   widgets = ["search", "ranking", "recent", "categories", "ads", "profile"]
 
+# タグ・カテゴリーのページャが生成する /page/1/ は、本体ページへの meta refresh
+# だけのエイリアス。中身がないのに Google がクロールするため生成しない。
+disableAliases = true
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+  # タグ・カテゴリーごとの RSS は記事本文の重複でしかなく、
+  # 「クロール済み - インデックス未登録」を大量発生させる原因になるため出力しない。
+  taxonomy = ["HTML"]
+  term = ["HTML"]
 
 [markup]
   [markup.goldmark]
