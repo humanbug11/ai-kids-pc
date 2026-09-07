@@ -1,3 +1,4 @@
+{{- if .Site.Params.showAds }}
 <div class="widget-ads widget">
     <div class="widget__content">
         {{/* adsbygoogle.js のローダーは baseof.html の <head> で読み込み済み。
@@ -10,3 +11,4 @@
         </script>
     </div>
 </div>
+{{- end }}
