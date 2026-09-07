@@ -3,7 +3,7 @@
   {{- /* noindex にしたタグページはサイトマップからも外す。
          noindex とサイトマップ掲載は矛盾したシグナルになるため。 */ -}}
   {{- range .Data.Pages }}
-  {{- if and .Permalink (ne .Type "tags") }}
+  {{- if and .Permalink (ne .Type "tags") (ne .RelPermalink "/search/") }}
   <url>
     <loc>{{ .Permalink }}</loc>
     {{- if not .Lastmod.IsZero }}
