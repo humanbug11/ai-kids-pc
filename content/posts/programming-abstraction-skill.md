@@ -3,7 +3,7 @@ title: "AI時代こそ「具体と抽象」の往復運動が最強の武器に�
 date: 2025-12-08T09:00:00+09:00
 draft: false
 thumbnail: "img/concrete_abstract_thinking_anime.png"
-categories: ["注目記事"]
+categories: ["親子で考える"]
 tags: ["AI教育", "プログラミング思考", "具体と抽象", "書籍紹介"]
 weight: 0
 ---
