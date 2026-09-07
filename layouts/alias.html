@@ -1,0 +1,14 @@
+{{- /* Hugo 内部のエイリアステンプレートの上書き。
+       ページャが生成する /page/1/ は本体ページへ転送するだけで中身がなく、
+       そのままだと Google に「クロール済み - インデックス未登録」として
+       大量に積み上がる。noindex を明示して検索結果から外す。 */ -}}
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode }}">
+	<head>
+		<title>{{ .Permalink }}</title>
+		<link rel="canonical" href="{{ .Permalink }}">
+		<meta charset="utf-8">
+		<meta name="robots" content="noindex, follow">
+		<meta http-equiv="refresh" content="0; url={{ .Permalink }}">
+	</head>
+</html>

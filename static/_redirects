@@ -7,3 +7,13 @@ https://ai-kids-pc.pages.dev/* https://ai-kids-pc.com/:splat 301
 /categories/教育ニュース/* /categories/ニュース/ 301
 /categories/%E6%95%99%E8%82%B2%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/ /categories/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/ 301
 /categories/%E6%95%99%E8%82%B2%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/* /categories/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/ 301
+
+# 旧記事URLの救済（Search Console で 404 として検出されたもの）
+# 記事を非公開にした・スラッグを変えたまま転送を置いていなかった分。
+# 内容が最も近い公開中の記事へ 301 で送る。
+/posts/gemini-thumbnail-creation/ /posts/gemini-thumbnail-creation-guide/ 301
+/posts/ai-guideline-for-parents-2024/ /posts/mext-ai-literacy-not-ban/ 301
+/posts/media-literacy-ai-education/ /posts/mext-ai-literacy-not-ban/ 301
+/posts/recommended-ai-pcs-2025/ /posts/review-ai-pc-kids/ 301
+/posts/comparison-kids-pc-price/ /posts/recommended-gaming-pcs-for-kids/ 301
+/posts/ai-ethics-and-copyright/ /posts/ai-age-restrictions-guide/ 301
