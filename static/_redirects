@@ -1,2 +1,9 @@
 # Redirect old pages.dev domain to new custom domain
 https://ai-kids-pc.pages.dev/* https://ai-kids-pc.com/:splat 301
+
+# カテゴリ統合：教育ニュース → ニュース（2026-09-07）
+# 完全一致とサブパスの両方を受ける。生・パーセントエンコードの両表記に対応。
+/categories/教育ニュース/ /categories/ニュース/ 301
+/categories/教育ニュース/* /categories/ニュース/ 301
+/categories/%E6%95%99%E8%82%B2%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/ /categories/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/ 301
+/categories/%E6%95%99%E8%82%B2%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/* /categories/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/ 301
