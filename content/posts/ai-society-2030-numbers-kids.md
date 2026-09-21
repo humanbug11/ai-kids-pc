@@ -59,7 +59,7 @@ description = "2026年9月時点の一次情報だけで、2030年のAI社会を
 
 2025年に生まれた赤ちゃんは、<strong>67万1,236人</strong>でした。1人の女性が一生に産む子どもの数の目安（合計特殊出生率）は、<strong>1.14</strong>です。どちらも、統計を取り始めてから<strong>過去最低</strong>でした。
 
-> 出典（一次情報）：[厚生労働省「令和7(2025)年 人口動態統計月報年計（概数）の概況」](https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/nengai25/index.html)（2026年6月3日公表）／[概況PDF](https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/nengai25/dl/gaikyouR7.pdf)
+> 出典（一次情報）：[厚生労働省「令和7(2025)年 人口動態統計月報年計（概数）の概況」](https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/nengai25/index.html)（2026年6月3日公表）
 
 2025年の国勢調査（速報）では、日本の人口は<strong>1億2,305万人</strong>でした。5年前より309万7千人、<strong>2.5%</strong>減っています。人口が増えたのは、東京都と沖縄県だけでした。
 
@@ -138,7 +138,7 @@ description = "2026年9月時点の一次情報だけで、2030年のAI社会を
 
 白書では、<strong>AIエージェントを使うには、渡すデータの正確さと新しさが特に大事</strong>だという点も指摘されています。
 
-> 出典（一次情報）：[総務省「令和8年版 情報通信白書」データ集](https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/datashu.html)、[AI導入・活用による効果創出のステップ](https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd121420.html)、[公表時の報道資料](https://www.soumu.go.jp/menu_news/s-news/01tsushin02_02000184.html)（2026年7月24日）
+> 出典（一次情報）：[総務省「令和8年版 情報通信白書」データ集](https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/datashu.html)、[AI導入・活用による効果創出のステップ](https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd121420.html)
 
 この記事の後半で、<strong>私の教室の中学1年生が、このAIエージェントを使って開発に挑戦した話</strong>が出てきます。大人の仕事で起きていることと、同じことが教室でも起きていました。
 
@@ -172,7 +172,7 @@ description = "2026年9月時点の一次情報だけで、2030年のAI社会を
 
 学校の制度については、[【2026年9月版】日本の子供向けAI教育・制度まとめ](/posts/japan-ai-education-policy-reference/)で、一次情報つきでくわしくまとめています。制度の全体像を知りたい方は、そちらもどうぞ。
 
-> 出典（一次情報）：[文部科学省 中央教育審議会 教育課程企画特別部会「次期学習指導要領等に向けた審議まとめ（素案）」（令和8年8月31日）](https://www.mext.go.jp/content/20260831-mxt_kyoiku01-000051893-3.pdf)（PDF）／[第17回 配付資料の一覧](https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/101/siryo/mext_00056.html)
+> 出典（一次情報）：文部科学省 中央教育審議会 教育課程企画特別部会「次期学習指導要領等に向けた審議まとめ（素案）」（令和8年8月31日）。[第17回の配付資料一覧はこちら](https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/101/siryo/mext_00056.html)（資料1が素案本体です）
 
 ---
 
@@ -232,7 +232,7 @@ AIは、指示されたことしかやりません。そして<strong>その指�
 
 ただし、これは<strong>「傾向」</strong>です。体験が原因でそうなる、と言い切ったものではありません。
 
-> 出典（一次情報）：[国立青少年教育振興機構「青少年の体験活動等に関する意識調査（令和4年度調査）」](https://www.niye.go.jp/wp-content/uploads/2024/05/gaiyou_R4jiritsu.pdf)（2024年3月発行）
+> 出典（一次情報）：国立青少年教育振興機構「青少年の体験活動等に関する意識調査（令和4年度調査）」（2024年3月発行）。[調査研究のページ](https://www.niye.go.jp/research/index.html)から報告書を探せます
 
 > 💭 <strong>ここからは、また私の意見に戻ります。</strong>画面の中だけでは気づきにくいことが、あると思っています。たとえば、相手の表情や、その場の空気です。
 
@@ -290,8 +290,8 @@ AIは、指示されたことしかやりません。そして<strong>その指�
 
 <strong>人口</strong>
 
-- 厚生労働省「令和7(2025)年 人口動態統計月報年計（概数）の概況」（2026年6月3日公表）：[ページを見る](https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/nengai25/index.html)／[概況PDF](https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/nengai25/dl/gaikyouR7.pdf)
-- 総務省統計局「令和7年国勢調査 人口速報集計結果」（2026年5月29日公表）：[ページを見る](https://www.stat.go.jp/data/kokusei/2025/index.html)／[結果の概要PDF](https://www.stat.go.jp/data/kokusei/2025/kekka/pdf/outline.pdf)
+- 厚生労働省「令和7(2025)年 人口動態統計月報年計（概数）の概況」（2026年6月3日公表）：[ページを見る](https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/nengai25/index.html)
+- 総務省統計局「令和7年国勢調査 人口速報集計結果」（2026年5月29日公表）：[ページを見る](https://www.stat.go.jp/data/kokusei/2025/index.html)
 - 国立社会保障・人口問題研究所「日本の将来推計人口（令和5年推計）」：[ページを見る](https://www.ipss.go.jp/pp-zenkoku/j/zenkoku2023/pp_zenkoku2023.asp)
 - 国立社会保障・人口問題研究所「日本の地域別将来推計人口（令和5年推計）」：[ページを見る](https://www.ipss.go.jp/pp-shicyoson/j/shicyoson23/t-page.asp)
 - 大分県「令和7年国勢調査結果（人口速報集計）」：[ページを見る](https://www.pref.oita.jp/site/toukei/census2025-soku.html)
@@ -301,19 +301,18 @@ AIは、指示されたことしかやりません。そして<strong>その指�
 - 総務省「令和8年版 情報通信白書」生成AIの業務利用状況（2026年7月24日公表）：[ページを見る](https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd121130.html)
 - 同 データ集（AIエージェントの企業事例）：[ページを見る](https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/datashu.html)
 - 同 AI導入・活用による効果創出のステップ：[ページを見る](https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd121420.html)
-- 総務省 報道資料「令和8年版情報通信白書の公表」：[ページを見る](https://www.soumu.go.jp/menu_news/s-news/01tsushin02_02000184.html)
-- 同 概要PDF：[PDFを見る](https://www.soumu.go.jp/main_content/001082851.pdf)
+- 総務省 報道資料「令和8年版情報通信白書の公表」（2026年7月24日）：[ページを見る](https://www.soumu.go.jp/menu_news/s-news/01tsushin02_02000184.html)
 
 <strong>学校</strong>
 
-- 文部科学省 中央教育審議会 教育課程企画特別部会「次期学習指導要領等に向けた審議まとめ（素案）」（令和8年8月31日）：[資料PDF](https://www.mext.go.jp/content/20260831-mxt_kyoiku01-000051893-3.pdf)
-- 同 教育課程企画特別部会（第17回）配付資料：[ページを見る](https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/101/siryo/mext_00056.html)
+- 文部科学省 中央教育審議会 教育課程企画特別部会（第17回）配付資料 ※資料1が「次期学習指導要領等に向けた審議まとめ（素案）」（令和8年8月31日）です：[ページを見る](https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/101/siryo/mext_00056.html)
+- 同 教育課程企画特別部会 開催状況（過去回の資料もここから辿れます）：[ページを見る](https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/101/giji_list/index.htm)
 - 文部科学省「リーディングDXスクール 生成AIパイロット校」：[サイトを見る](https://leadingdxschool.mext.go.jp/ai_school/)
 - 同 リーディングDXスクール指定校一覧（都道府県で絞り込めます）：[サイトを見る](https://leadingdxschool.mext.go.jp/school/)
 
 <strong>体験活動</strong>
 
-- 国立青少年教育振興機構「青少年の体験活動等に関する意識調査（令和4年度調査）」（2024年3月発行）：[概要PDF](https://www.niye.go.jp/wp-content/uploads/2024/05/gaiyou_R4jiritsu.pdf)
+- 国立青少年教育振興機構「青少年の体験活動等に関する意識調査（令和4年度調査）」（2024年3月発行）：[調査研究のページ](https://www.niye.go.jp/research/index.html)／[調査研究報告書検索サイト](https://www.niye.go.jp/kenkyu_houkoku/)
 
 ---
 
