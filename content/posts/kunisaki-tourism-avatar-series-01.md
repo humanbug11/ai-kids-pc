@@ -160,9 +160,9 @@ APIキーは、いわば<strong>「お金や個人情報につながる鍵」</s
 
 ![VRoid Studioでカスタマイズ中の画面](/img/VRoidstudio01.png)
 
-完成したのが、こちらのキャラクター。名前は<strong>「おに丸（おにまる）」</strong>です。国東半島には鬼にまつわる伝統行事（修正鬼会など）があり、その世界観をモチーフにした観光案内キャラクターに仕上がりました。
+完成したのが、こちらのキャラクター。名前は<strong>「おにまる（おにまる）」</strong>です。国東半島には鬼にまつわる伝統行事（修正鬼会など）があり、その世界観をモチーフにした観光案内キャラクターに仕上がりました。
 
-![完成したオリジナルアバター「おに丸」](/img/VRoidstudio02.png)
+![完成したオリジナルアバター「おにまる」](/img/VRoidstudio02.png)
 
 
 ### ステップ4：UI/UXとAPI接続の構想
@@ -209,10 +209,10 @@ APIキーは、いわば<strong>「お金や個人情報につながる鍵」</s
 
 ### 🎬 ちょっとだけ未来をお見せします
 
-ネタバレ気味ですが、現在は<strong>「おに丸」がこんなふうに会話してくれます</strong>。まだ完成はしていないので、シリーズの最終回まで<strong>ぜひお楽しみに</strong>！フォローもよろしくお願いします。
+ネタバレ気味ですが、現在は<strong>「おにまる」がこんなふうに会話してくれます</strong>。まだ完成はしていないので、シリーズの最終回まで<strong>ぜひお楽しみに</strong>！フォローもよろしくお願いします。
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
-  <iframe src="https://www.youtube.com/embed/KiotpDs8Ca0" title="国東観光AIアバター「おに丸」会話デモ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/KiotpDs8Ca0" title="国東観光AIアバター「おにまる」会話デモ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ---
